@@ -29,20 +29,42 @@ class Evaluator() {
         }
     }
 
-        // Function to evaluate code style
+    // Function to evaluate code style
     fun evaluateCodeStyle() {
-        val evaluations = mutableListOf<Evaluation>()
-        // Implement your code style evaluation logic here
-
+        evaluations.forEach { evaluation ->
+            evaluation.namingConvention = isCamelCase(evaluation.method.name) // Check if method names are camelCase
+        }
     }
+
+    fun isCamelCase(str: String): Boolean {
+        // If PascalCase return false
+        if (str.isEmpty() || str[0].isUpperCase()) {
+            return false
+        }
+
+        // If _PascalCase return false
+        if (str.length > 1 && str[0] == '_' && str[1].isUpperCase())
+            return false
+
+        // If snake_case
+        for (i in 1 until str.length) {
+            if (str[i] == '_')
+                return false
+        }
+
+        // All characters meet the camelCase convention
+        return true
+    }
+
 
     fun printEvaluations() {
         evaluations.forEach { evaluation ->
-            if (evaluation.complexity > 0) {
+            if (!evaluation.namingConvention) {
                 println("Method: ${evaluation.method.name}")
                 println("Complexity: ${evaluation.complexity}")
                 println("CognitiveComplexity: ${evaluation.cognitiveComplexity}")
                 println("NamingConvention: ${evaluation.namingConvention}")
+                println()
             }
         }
     }
@@ -58,6 +80,7 @@ fun main() {
     val evaluator = Evaluator()
     evaluator.setEvaluationDirectory(directoryPath)
     evaluator.evaluateComplexity()
+    evaluator.evaluateCodeStyle()
     evaluator.printEvaluations()
 }
 
