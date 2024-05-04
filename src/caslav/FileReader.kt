@@ -8,16 +8,20 @@ data class Method(
     val language: String
 )
 
-class FileReader{
+class CodeAnalyzer {
 
-    val JAVA_FUNCTION_REGEX = Regex("""(?s)(?<=\b(?:public|private|protected)\s+fun\s+)(\w+)\s*\([^)]*\)\s*\{[^{}]*}""")
-    val KOTLIN_FUNCTION_REGEX = Regex("""(?s)fun\s+(\w+)\s*\([^)]*\)\s*(?::[^{]*)?\s*\{[^{}]*}""")
+    // Regular expressions for extracting method/function declarations
+    private val JAVA_FUNCTION_REGEX = Regex("""(?s)(?<=\b(?:public|private|protected)\s+fun\s+)(\w+)\s*\([^)]*\)\s*\{[^{}]*}""")
+    private val KOTLIN_FUNCTION_REGEX = Regex("""(?s)fun\s+(\w+)\s*\([^)]*\)\s*(?::[^{]*)?\s*\{[^{}]*}""")
 
-    val SUPPORTED_EXTENSIONS = setOf("java", "kt")
+    // Supported file extensions
+    private val SUPPORTED_EXTENSIONS = setOf("java", "kt")
 
+    // List to store all extracted methods
     private val allMethods = mutableListOf<Method>()
 
-    fun readFile(filePath: String): String {
+    // Function to read content of a file
+    private fun readFile(filePath: String): String {
         val file = File(filePath)
         if (!file.exists() || !file.isFile) {
             throw IllegalArgumentException("File $filePath does not exist or is not a regular file")
@@ -25,7 +29,8 @@ class FileReader{
         return file.readText()
     }
 
-    fun extractMethods(content: String, extension: String) {
+    // Function to extract methods from content based on file extension
+    private fun extractMethods(content: String, extension: String) {
         val functionRegex = if (extension == "java") JAVA_FUNCTION_REGEX else KOTLIN_FUNCTION_REGEX
 
         functionRegex.findAll(content).forEach { result ->
@@ -36,12 +41,14 @@ class FileReader{
         }
     }
 
+    // Function to extract methods from a file
     fun extractMethodsFromFile(filePath: String){
         val content = readFile(filePath)
         val extension = File(filePath).extension
         extractMethods(content, extension)
     }
 
+    // Function to extract methods from all files in a directory and its subdirectories
     fun extractAllMethodsFromDirectory(directoryPath: String){
         val files = mutableListOf<File>()
         File(directoryPath).walkTopDown().forEach { file ->
@@ -55,6 +62,7 @@ class FileReader{
         files.forEach { file -> extractMethodsFromFile(file.absolutePath) }
     }
 
+    // Function to print all extracted methods
     fun printAllMethods() {
         println("All Methods List: [")
         allMethods.forEachIndexed { index, method ->
@@ -71,11 +79,16 @@ class FileReader{
 }
 
 fun main() {
+    // Get the root directory of the project
     val rootDirectory = System.getProperty("user.dir")
+    // Specify the directory containing the files to analyze
     val directoryPath = "$rootDirectory/data/"
 
-    val fileReader: FileReader = FileReader()
-    fileReader.extractAllMethodsFromDirectory(directoryPath)
-    fileReader.printAllMethods()
+    // Create an instance of CodeAnalyzer
+    val codeAnalyzer: CodeAnalyzer = CodeAnalyzer()
+    // Extract methods from all files in the directory
+    codeAnalyzer.extractAllMethodsFromDirectory(directoryPath)
+    // Print all extracted methods
+    codeAnalyzer.printAllMethods()
 
 }
