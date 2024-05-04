@@ -8,7 +8,7 @@ data class Method(
     val language: String
 )
 
-class CodeAnalyzer {
+class MethodsExtractor {
 
     // Regular expressions for extracting method/function declarations
     private val JAVA_FUNCTION_REGEX = Regex("""(?s)(?<=\b(?:public|private|protected)\s+fun\s+)(\w+)\s*\([^)]*\)\s*\{[^{}]*}""")
@@ -84,11 +84,11 @@ fun main() {
     // Specify the directory containing the files to analyze
     val directoryPath = "$rootDirectory/data/"
 
-    // Create an instance of CodeAnalyzer
-    val codeAnalyzer: CodeAnalyzer = CodeAnalyzer()
+    // Create an instance of MethodsExtractor
+    val methodsExtractor = MethodsExtractor()
     // Extract methods from all files in the directory
-    codeAnalyzer.extractAllMethodsFromDirectory(directoryPath)
+    methodsExtractor.extractAllMethodsFromDirectory(directoryPath)
     // Print all extracted methods
-    codeAnalyzer.printAllMethods()
+    methodsExtractor.printAllMethods()
 
 }
