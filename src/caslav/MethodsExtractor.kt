@@ -11,8 +11,10 @@ data class Method(
 class MethodsExtractor {
 
     // Regular expressions for extracting method/function declarations
-    private val JAVA_FUNCTION_REGEX = Regex("""(?s)(?<=\b(?:public|private|protected)\s+fun\s+)(\w+)\s*\([^)]*\)\s*\{[^{}]*}""")
-    private val KOTLIN_FUNCTION_REGEX = Regex("""(?s)fun\s+(\w+)\s*\([^)]*\)\s*(?::[^{]*)?\s*\{[^{}]*}""")
+    private val JAVA_FUNCTION_REGEX = Regex("""(?s)(?<=\b(?:public|private|protected)\s+fun\s+)(\w+)\s*\([^)]*\)\s*\{([^{}]*(?:\{[^{}]*}[^{}]*)*)}""")
+    private val KOTLIN_FUNCTION_REGEX = Regex("""(?s)fun\s+(\w+)\s*\([^)]*\)\s*(?::[^{]*)?\s*\{([^{}]*(?:\{[^{}]*}[^{}]*)*)}""")
+
+
 
     // Supported file extensions
     private val SUPPORTED_EXTENSIONS = setOf("java", "kt")
@@ -32,10 +34,9 @@ class MethodsExtractor {
     // Function to extract methods from content based on file extension
     private fun extractMethods(content: String, extension: String) {
         val functionRegex = if (extension == "java") JAVA_FUNCTION_REGEX else KOTLIN_FUNCTION_REGEX
-
         functionRegex.findAll(content).forEach { result ->
             val functionName = result.groupValues[1]
-            val functionCode = result.value
+            val functionCode = result.groupValues[2]
             val functionLanguage = if (extension == "java") "Java" else "Kotlin"
             allMethods.add(Method(name = functionName, code = functionCode, language = functionLanguage))
         }
