@@ -62,6 +62,14 @@ class MethodsExtractor {
         files.forEach { file -> extractMethodsFromFile(file.absolutePath) }
     }
 
+    fun emptyMethodList(){
+        allMethods.clear()
+    }
+
+    fun getMethodList(): List<Method>{
+        return allMethods
+    }
+
     // Function to print all extracted methods
     fun printAllMethods() {
         println("All Methods List: [")
