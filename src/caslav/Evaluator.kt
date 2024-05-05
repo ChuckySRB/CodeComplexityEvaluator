@@ -48,14 +48,16 @@ class Evaluator {
         for (line in evaluation.method.code.split("\n")) {
             val words = line.split(" ")
             for (word in words) {
-                if (word.startsWith("||") || word.startsWith("&&") || word.startsWith("==") || word.startsWith("!=")
-                    || word.startsWith("for")
+                if ( word.startsWith("for")
                     || word.contains(".forEach")
-                    || word.startsWith("while") || word.startsWith("if")
+                    || word.startsWith("while")
+                    || word.startsWith("if")
                 ) {
                     evaluation.complexity++
                 }
             }
+            evaluation.complexity += countOccurrences(line, "&&")
+            evaluation.complexity += countOccurrences(line, "||")
             evaluation.complexity += countOccurrences(line, "->")
             evaluation.complexity += countOccurrences(line, "case")
         }
