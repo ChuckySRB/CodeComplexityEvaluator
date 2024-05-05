@@ -1,9 +1,0 @@
-program p
-
-{
-	int main()
-	{
-	print(ord('a'));
-	return 1;
-	}
-}		

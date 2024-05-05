@@ -1,9 +1,0 @@
-program p
-
-{
-	int main()
-	{
-	print(chr(97));
-	return 1;
-	}
-}		
