@@ -1,0 +1,29 @@
+INFO  19:40:07,135 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program.mj
+INFO  19:40:07,162 - #2 program
+INFO  19:40:07,162 - #44 p
+INFO  19:40:07,162 - #5 const
+INFO  19:40:07,162 - #44 int
+INFO  19:40:07,162 - #44 size
+INFO  19:40:07,162 - #6 =
+INFO  19:40:07,163 - #43 10
+INFO  19:40:07,163 - #9 ,
+INFO  19:40:07,163 - #44 mame
+INFO  19:40:07,163 - #6 =
+INFO  19:40:07,163 - #43 199
+INFO  19:40:07,163 - #7 ;
+INFO  19:40:07,163 - #5 const
+INFO  19:40:07,163 - #44 bool
+INFO  19:40:07,163 - #44 prvi
+INFO  19:40:07,163 - #6 =
+INFO  19:40:07,163 - #45 false
+INFO  19:40:07,164 - #9 ,
+INFO  19:40:07,164 - #44 drugi
+INFO  19:40:07,164 - #6 =
+INFO  19:40:07,164 - #45 true
+INFO  19:40:07,164 - #7 ;
+INFO  19:40:07,164 - #5 const
+INFO  19:40:07,164 - #44 char
+INFO  19:40:07,164 - #6 =
+ERROR 19:40:07,164 - 
+Sintaksna greska na liniji 5
+ERROR 19:40:07,164 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 5

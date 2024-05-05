@@ -1,0 +1,130 @@
+INFO  01:30:27,286 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  01:30:27,312 - #2 program
+INFO  01:30:27,312 - #44 MJProgram
+INFO  01:30:27,312 - #44 int
+INFO  01:30:27,312 - #44 x
+INFO  01:30:27,313 - #7 ;
+INFO  01:30:27,313 - #44 int
+INFO  01:30:27,313 - #44 y
+INFO  01:30:27,313 - #7 ;
+INFO  01:30:27,313 - #44 char
+INFO  01:30:27,313 - #44 z
+INFO  01:30:27,313 - #7 ;
+INFO  01:30:27,313 - #3 {
+INFO  01:30:27,313 - #44 int
+INFO  01:30:27,313 - #44 k
+INFO  01:30:27,314 - #13 (
+INFO  01:30:27,314 - #14 )
+INFO  01:30:27,314 - #44 char
+INFO  01:30:27,315 - #44 ch
+INFO  01:30:27,315 - #7 ;
+INFO  01:30:27,315 - #44 int
+INFO  01:30:27,315 - #44 c
+INFO  01:30:27,315 - #7 ;
+INFO  01:30:27,315 - #3 {
+INFO  01:30:27,315 - #44 c
+INFO  01:30:27,316 - #6 =
+INFO  01:30:27,316 - #43 2
+INFO  01:30:27,316 - #7 ;
+INFO  01:30:27,316 - #44 ch
+INFO  01:30:27,316 - #6 =
+INFO  01:30:27,316 - #46 a
+INFO  01:30:27,316 - #7 ;
+INFO  01:30:27,317 - #22 print
+INFO  01:30:27,317 - #13 (
+INFO  01:30:27,317 - #43 0
+INFO  01:30:27,317 - #14 )
+INFO  01:30:27,317 - #7 ;
+INFO  01:30:27,317 - #21 return
+INFO  01:30:27,317 - #44 c
+INFO  01:30:27,317 - #7 ;
+INFO  01:30:27,317 - #4 }
+INFO  01:30:27,317 - #44 int
+INFO  01:30:27,317 - #44 j
+INFO  01:30:27,317 - #13 (
+INFO  01:30:27,317 - #44 int
+INFO  01:30:27,317 - #44 par
+INFO  01:30:27,317 - #9 ,
+INFO  01:30:27,317 - #44 int
+INFO  01:30:27,317 - #44 par2
+INFO  01:30:27,317 - #14 )
+INFO  01:30:27,318 - #3 {
+INFO  01:30:27,318 - #22 print
+INFO  01:30:27,318 - #13 (
+INFO  01:30:27,318 - #44 par
+INFO  01:30:27,318 - #14 )
+INFO  01:30:27,318 - #7 ;
+INFO  01:30:27,318 - #21 return
+INFO  01:30:27,318 - #43 1
+INFO  01:30:27,318 - #7 ;
+INFO  01:30:27,318 - #4 }
+INFO  01:30:27,318 - #44 int
+INFO  01:30:27,318 - #44 main
+INFO  01:30:27,318 - #13 (
+INFO  01:30:27,318 - #14 )
+INFO  01:30:27,318 - #3 {
+INFO  01:30:27,318 - #23 read
+INFO  01:30:27,318 - #13 (
+INFO  01:30:27,318 - #44 z
+INFO  01:30:27,318 - #14 )
+INFO  01:30:27,318 - #7 ;
+INFO  01:30:27,318 - #44 x
+INFO  01:30:27,318 - #6 =
+INFO  01:30:27,318 - #43 3
+INFO  01:30:27,319 - #7 ;
+INFO  01:30:27,319 - #22 print
+INFO  01:30:27,319 - #13 (
+INFO  01:30:27,319 - #44 z
+INFO  01:30:27,319 - #14 )
+INFO  01:30:27,319 - #7 ;
+INFO  01:30:27,319 - #44 z
+INFO  01:30:27,319 - #6 =
+INFO  01:30:27,319 - #46 b
+INFO  01:30:27,319 - #7 ;
+INFO  01:30:27,319 - #22 print
+INFO  01:30:27,319 - #13 (
+INFO  01:30:27,319 - #43 1
+INFO  01:30:27,319 - #14 )
+INFO  01:30:27,319 - #7 ;
+INFO  01:30:27,319 - #22 print
+INFO  01:30:27,319 - #13 (
+INFO  01:30:27,319 - #44 x
+INFO  01:30:27,319 - #14 )
+INFO  01:30:27,319 - #7 ;
+INFO  01:30:27,319 - #44 j
+INFO  01:30:27,319 - #13 (
+INFO  01:30:27,319 - #44 y
+INFO  01:30:27,319 - #9 ,
+INFO  01:30:27,319 - #43 0
+INFO  01:30:27,320 - #14 )
+INFO  01:30:27,320 - #7 ;
+INFO  01:30:27,320 - #44 k
+INFO  01:30:27,320 - #13 (
+INFO  01:30:27,320 - #14 )
+INFO  01:30:27,320 - #7 ;
+INFO  01:30:27,320 - #44 y
+INFO  01:30:27,320 - #6 =
+INFO  01:30:27,320 - #43 4
+INFO  01:30:27,320 - #38 +
+INFO  01:30:27,320 - #44 x
+INFO  01:30:27,321 - #7 ;
+INFO  01:30:27,321 - #44 k
+INFO  01:30:27,321 - #13 (
+INFO  01:30:27,321 - #14 )
+INFO  01:30:27,321 - #7 ;
+INFO  01:30:27,321 - #21 return
+INFO  01:30:27,321 - #43 1
+INFO  01:30:27,321 - #7 ;
+INFO  01:30:27,321 - #4 }
+INFO  01:30:27,321 - #4 }
+INFO  01:30:27,324 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:30:27,324 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:30:27,324 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:30:27,325 - Deklarisana lokalna promenljiva "ch" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:30:27,325 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:30:27,325 - form pars: 0; total vars: 2
+INFO  01:30:27,325 - Deklarisan formalni argument "par" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:30:27,325 - Deklarisan formalni argument "par2" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:30:27,325 - form pars: 2; total vars: 2
+INFO  01:30:27,326 - form pars: 0; total vars: 0
+INFO  01:30:27,326 - ===================================

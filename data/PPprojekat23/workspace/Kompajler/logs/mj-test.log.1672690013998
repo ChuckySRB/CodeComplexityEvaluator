@@ -1,0 +1,732 @@
+INFO  21:06:48,298 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  21:06:48,325 - #2 program
+INFO  21:06:48,325 - #44 p
+INFO  21:06:48,325 - #44 int
+INFO  21:06:48,325 - #44 d
+INFO  21:06:48,326 - #7 ;
+INFO  21:06:48,326 - #5 const
+INFO  21:06:48,326 - #44 int
+INFO  21:06:48,326 - #44 size
+INFO  21:06:48,326 - #6 =
+INFO  21:06:48,326 - #43 10
+INFO  21:06:48,326 - #7 ;
+INFO  21:06:48,326 - #8 class
+INFO  21:06:48,327 - #44 Table
+INFO  21:06:48,327 - #3 {
+INFO  21:06:48,327 - #3 {
+INFO  21:06:48,327 - #44 Table
+INFO  21:06:48,327 - #13 (
+INFO  21:06:48,327 - #44 int
+INFO  21:06:48,327 - #44 factor
+INFO  21:06:48,327 - #14 )
+INFO  21:06:48,328 - #3 {
+INFO  21:06:48,328 - #44 this
+INFO  21:06:48,328 - #24 .
+INFO  21:06:48,328 - #44 factor
+INFO  21:06:48,328 - #6 =
+INFO  21:06:48,328 - #44 factor
+INFO  21:06:48,329 - #7 ;
+INFO  21:06:48,329 - #4 }
+INFO  21:06:48,329 - #15 void
+INFO  21:06:48,329 - #44 putp
+INFO  21:06:48,329 - #13 (
+INFO  21:06:48,329 - #44 int
+INFO  21:06:48,329 - #44 a
+INFO  21:06:48,329 - #9 ,
+INFO  21:06:48,330 - #44 int
+INFO  21:06:48,330 - #44 idx
+INFO  21:06:48,330 - #14 )
+INFO  21:06:48,330 - #3 {
+INFO  21:06:48,330 - #44 this
+INFO  21:06:48,330 - #24 .
+INFO  21:06:48,330 - #44 pos
+INFO  21:06:48,330 - #10 [
+INFO  21:06:48,330 - #44 idx
+INFO  21:06:48,330 - #11 ]
+INFO  21:06:48,330 - #6 =
+INFO  21:06:48,330 - #44 a
+INFO  21:06:48,330 - #7 ;
+INFO  21:06:48,330 - #4 }
+INFO  21:06:48,330 - #15 void
+INFO  21:06:48,330 - #44 putn
+INFO  21:06:48,330 - #13 (
+INFO  21:06:48,330 - #44 int
+INFO  21:06:48,330 - #44 a
+INFO  21:06:48,330 - #9 ,
+INFO  21:06:48,330 - #44 int
+INFO  21:06:48,331 - #44 idx
+INFO  21:06:48,331 - #14 )
+INFO  21:06:48,331 - #3 {
+INFO  21:06:48,331 - #44 this
+INFO  21:06:48,331 - #24 .
+INFO  21:06:48,331 - #44 neg
+INFO  21:06:48,331 - #10 [
+INFO  21:06:48,331 - #44 idx
+INFO  21:06:48,331 - #11 ]
+INFO  21:06:48,331 - #6 =
+INFO  21:06:48,331 - #44 a
+INFO  21:06:48,331 - #7 ;
+INFO  21:06:48,331 - #4 }
+INFO  21:06:48,331 - #44 int
+INFO  21:06:48,331 - #44 getp
+INFO  21:06:48,331 - #13 (
+INFO  21:06:48,332 - #44 int
+INFO  21:06:48,332 - #44 idx
+INFO  21:06:48,332 - #14 )
+INFO  21:06:48,332 - #3 {
+INFO  21:06:48,332 - #21 return
+INFO  21:06:48,332 - #44 pos
+INFO  21:06:48,332 - #10 [
+INFO  21:06:48,332 - #44 idx
+INFO  21:06:48,332 - #11 ]
+INFO  21:06:48,332 - #7 ;
+INFO  21:06:48,332 - #4 }
+INFO  21:06:48,332 - #44 int
+INFO  21:06:48,332 - #44 getn
+INFO  21:06:48,332 - #13 (
+INFO  21:06:48,332 - #44 int
+INFO  21:06:48,332 - #44 idx
+INFO  21:06:48,332 - #14 )
+INFO  21:06:48,332 - #3 {
+INFO  21:06:48,332 - #21 return
+INFO  21:06:48,332 - #44 neg
+INFO  21:06:48,332 - #10 [
+INFO  21:06:48,332 - #44 idx
+INFO  21:06:48,333 - #11 ]
+INFO  21:06:48,333 - #7 ;
+INFO  21:06:48,333 - #4 }
+INFO  21:06:48,333 - #4 }
+INFO  21:06:48,333 - #4 }
+INFO  21:06:48,333 - #8 class
+INFO  21:06:48,333 - #44 Angle
+INFO  21:06:48,333 - #3 {
+INFO  21:06:48,333 - #3 {
+INFO  21:06:48,333 - #15 void
+INFO  21:06:48,333 - #44 putp
+INFO  21:06:48,333 - #13 (
+INFO  21:06:48,333 - #44 int
+INFO  21:06:48,333 - #44 a
+INFO  21:06:48,333 - #10 [
+INFO  21:06:48,334 - #11 ]
+INFO  21:06:48,334 - #9 ,
+INFO  21:06:48,334 - #44 int
+INFO  21:06:48,334 - #44 idx
+INFO  21:06:48,334 - #14 )
+INFO  21:06:48,334 - #3 {
+INFO  21:06:48,334 - #44 this
+INFO  21:06:48,334 - #24 .
+INFO  21:06:48,334 - #44 pos
+INFO  21:06:48,334 - #10 [
+INFO  21:06:48,334 - #44 idx
+INFO  21:06:48,334 - #11 ]
+INFO  21:06:48,334 - #6 =
+INFO  21:06:48,334 - #44 a
+INFO  21:06:48,334 - #7 ;
+INFO  21:06:48,334 - #4 }
+INFO  21:06:48,334 - #15 void
+INFO  21:06:48,334 - #44 putn
+INFO  21:06:48,334 - #13 (
+INFO  21:06:48,334 - #14 )
+INFO  21:06:48,334 - #3 {
+INFO  21:06:48,335 - #44 this
+INFO  21:06:48,335 - #24 .
+INFO  21:06:48,335 - #44 neg
+INFO  21:06:48,335 - #10 [
+INFO  21:06:48,335 - #44 idx
+INFO  21:06:48,335 - #11 ]
+INFO  21:06:48,335 - #6 =
+INFO  21:06:48,335 - #44 a
+INFO  21:06:48,335 - #7 ;
+INFO  21:06:48,335 - #4 }
+INFO  21:06:48,335 - #44 int
+INFO  21:06:48,335 - #44 getp
+INFO  21:06:48,335 - #13 (
+INFO  21:06:48,335 - #44 int
+INFO  21:06:48,335 - #44 idx
+INFO  21:06:48,335 - #14 )
+INFO  21:06:48,335 - #3 {
+INFO  21:06:48,335 - #21 return
+INFO  21:06:48,335 - #44 pos
+INFO  21:06:48,335 - #10 [
+INFO  21:06:48,335 - #44 idx
+INFO  21:06:48,335 - #11 ]
+INFO  21:06:48,335 - #7 ;
+INFO  21:06:48,335 - #4 }
+INFO  21:06:48,335 - #44 int
+INFO  21:06:48,335 - #44 getn
+INFO  21:06:48,335 - #13 (
+INFO  21:06:48,335 - #14 )
+INFO  21:06:48,336 - #3 {
+INFO  21:06:48,336 - #21 return
+INFO  21:06:48,336 - #44 neg
+INFO  21:06:48,336 - #10 [
+INFO  21:06:48,336 - #44 idx
+INFO  21:06:48,336 - #11 ]
+INFO  21:06:48,336 - #7 ;
+INFO  21:06:48,336 - #4 }
+INFO  21:06:48,336 - #4 }
+INFO  21:06:48,336 - #4 }
+INFO  21:06:48,336 - #3 {
+INFO  21:06:48,337 - #4 }
+INFO  21:06:48,338 - Program(
+ p
+  ClassItemDecl(
+    ClassItemDecl(
+      ConstItemDecl(
+        VarItemDecl(
+          NoItemDecl(
+          ) [NoItemDecl]
+          VarNonEmptyDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDecl(
+              VarNoArray(
+               d
+              ) [VarNoArray]
+            ) [SingleVarDecl]
+          ) [VarNonEmptyDecl]
+        ) [VarItemDecl]
+        ConstDeclarations(
+          Type(
+           int
+          ) [Type]
+          SingleConstDecl(
+           size
+            NumConst(
+             10
+            ) [NumConst]
+          ) [SingleConstDecl]
+        ) [ConstDeclarations]
+      ) [ConstItemDecl]
+      ClassDeclNoExtends(
+       Table
+        ClassBody(
+          NoVarDeclarations(
+          ) [NoVarDeclarations]
+          ClassOnlyBraces(
+            TypeMethodOrCstrDecl(
+              TypeMethodOrCstrDecl(
+                VoidMethodDecl(
+                  VoidMethodDecl(
+                    TypeMethodOrCstrDecl(
+                      NoCstrOrMethodDecl(
+                      ) [NoCstrOrMethodDecl]
+                      Type(
+                       Table
+                      ) [Type]
+                      CstrNotTypeMethod(
+                        FormParsNonEmpty(
+                          SingleFormalParam(
+                            FormParamNoArray(
+                              Type(
+                               int
+                              ) [Type]
+                             factor
+                            ) [FormParamNoArray]
+                          ) [SingleFormalParam]
+                        ) [FormParsNonEmpty]
+                        NoVarDeclarations(
+                        ) [NoVarDeclarations]
+                        StatementListNonEmpty(
+                          NoStatements(
+                          ) [NoStatements]
+                          StatementDesiStatement(
+                            DesiStatementAssign(
+                              AssignDesignatorStmt(
+                                DesiDot(
+                                  DesiOnlyIdent(
+                                   this
+                                  ) [DesiOnlyIdent]
+                                 factor
+                                ) [DesiDot]
+                                Assignop(
+                                ) [Assignop]
+                                PosExpr(
+                                  ExprSingleTerm(
+                                    SingleTerm(
+                                      FactorDesiNoPars(
+                                        DesiOnlyIdent(
+                                         factor
+                                        ) [DesiOnlyIdent]
+                                      ) [FactorDesiNoPars]
+                                    ) [SingleTerm]
+                                  ) [ExprSingleTerm]
+                                ) [PosExpr]
+                              ) [AssignDesignatorStmt]
+                            ) [DesiStatementAssign]
+                          ) [StatementDesiStatement]
+                        ) [StatementListNonEmpty]
+                      ) [CstrNotTypeMethod]
+                    ) [TypeMethodOrCstrDecl]
+                    MethodBody(
+                     putp
+                      FormParsNonEmpty(
+                        FormalParamList(
+                          SingleFormalParam(
+                            FormParamNoArray(
+                              Type(
+                               int
+                              ) [Type]
+                             a
+                            ) [FormParamNoArray]
+                          ) [SingleFormalParam]
+                          FormParamNoArray(
+                            Type(
+                             int
+                            ) [Type]
+                           idx
+                          ) [FormParamNoArray]
+                        ) [FormalParamList]
+                      ) [FormParsNonEmpty]
+                      NoVarDeclarations(
+                      ) [NoVarDeclarations]
+                      StatementListNonEmpty(
+                        NoStatements(
+                        ) [NoStatements]
+                        StatementDesiStatement(
+                          DesiStatementAssign(
+                            AssignDesignatorStmt(
+                              DesiArray(
+                                DesiDot(
+                                  DesiOnlyIdent(
+                                   this
+                                  ) [DesiOnlyIdent]
+                                 pos
+                                ) [DesiDot]
+                                PosExpr(
+                                  ExprSingleTerm(
+                                    SingleTerm(
+                                      FactorDesiNoPars(
+                                        DesiOnlyIdent(
+                                         idx
+                                        ) [DesiOnlyIdent]
+                                      ) [FactorDesiNoPars]
+                                    ) [SingleTerm]
+                                  ) [ExprSingleTerm]
+                                ) [PosExpr]
+                              ) [DesiArray]
+                              Assignop(
+                              ) [Assignop]
+                              PosExpr(
+                                ExprSingleTerm(
+                                  SingleTerm(
+                                    FactorDesiNoPars(
+                                      DesiOnlyIdent(
+                                       a
+                                      ) [DesiOnlyIdent]
+                                    ) [FactorDesiNoPars]
+                                  ) [SingleTerm]
+                                ) [ExprSingleTerm]
+                              ) [PosExpr]
+                            ) [AssignDesignatorStmt]
+                          ) [DesiStatementAssign]
+                        ) [StatementDesiStatement]
+                      ) [StatementListNonEmpty]
+                    ) [MethodBody]
+                  ) [VoidMethodDecl]
+                  MethodBody(
+                   putn
+                    FormParsNonEmpty(
+                      FormalParamList(
+                        SingleFormalParam(
+                          FormParamNoArray(
+                            Type(
+                             int
+                            ) [Type]
+                           a
+                          ) [FormParamNoArray]
+                        ) [SingleFormalParam]
+                        FormParamNoArray(
+                          Type(
+                           int
+                          ) [Type]
+                         idx
+                        ) [FormParamNoArray]
+                      ) [FormalParamList]
+                    ) [FormParsNonEmpty]
+                    NoVarDeclarations(
+                    ) [NoVarDeclarations]
+                    StatementListNonEmpty(
+                      NoStatements(
+                      ) [NoStatements]
+                      StatementDesiStatement(
+                        DesiStatementAssign(
+                          AssignDesignatorStmt(
+                            DesiArray(
+                              DesiDot(
+                                DesiOnlyIdent(
+                                 this
+                                ) [DesiOnlyIdent]
+                               neg
+                              ) [DesiDot]
+                              PosExpr(
+                                ExprSingleTerm(
+                                  SingleTerm(
+                                    FactorDesiNoPars(
+                                      DesiOnlyIdent(
+                                       idx
+                                      ) [DesiOnlyIdent]
+                                    ) [FactorDesiNoPars]
+                                  ) [SingleTerm]
+                                ) [ExprSingleTerm]
+                              ) [PosExpr]
+                            ) [DesiArray]
+                            Assignop(
+                            ) [Assignop]
+                            PosExpr(
+                              ExprSingleTerm(
+                                SingleTerm(
+                                  FactorDesiNoPars(
+                                    DesiOnlyIdent(
+                                     a
+                                    ) [DesiOnlyIdent]
+                                  ) [FactorDesiNoPars]
+                                ) [SingleTerm]
+                              ) [ExprSingleTerm]
+                            ) [PosExpr]
+                          ) [AssignDesignatorStmt]
+                        ) [DesiStatementAssign]
+                      ) [StatementDesiStatement]
+                    ) [StatementListNonEmpty]
+                  ) [MethodBody]
+                ) [VoidMethodDecl]
+                Type(
+                 int
+                ) [Type]
+                TypeMethodNotCstr(
+                  MethodBody(
+                   getp
+                    FormParsNonEmpty(
+                      SingleFormalParam(
+                        FormParamNoArray(
+                          Type(
+                           int
+                          ) [Type]
+                         idx
+                        ) [FormParamNoArray]
+                      ) [SingleFormalParam]
+                    ) [FormParsNonEmpty]
+                    NoVarDeclarations(
+                    ) [NoVarDeclarations]
+                    StatementListNonEmpty(
+                      NoStatements(
+                      ) [NoStatements]
+                      ReturnStatementNonEmpty(
+                        PosExpr(
+                          ExprSingleTerm(
+                            SingleTerm(
+                              FactorDesiNoPars(
+                                DesiArray(
+                                  DesiOnlyIdent(
+                                   pos
+                                  ) [DesiOnlyIdent]
+                                  PosExpr(
+                                    ExprSingleTerm(
+                                      SingleTerm(
+                                        FactorDesiNoPars(
+                                          DesiOnlyIdent(
+                                           idx
+                                          ) [DesiOnlyIdent]
+                                        ) [FactorDesiNoPars]
+                                      ) [SingleTerm]
+                                    ) [ExprSingleTerm]
+                                  ) [PosExpr]
+                                ) [DesiArray]
+                              ) [FactorDesiNoPars]
+                            ) [SingleTerm]
+                          ) [ExprSingleTerm]
+                        ) [PosExpr]
+                      ) [ReturnStatementNonEmpty]
+                    ) [StatementListNonEmpty]
+                  ) [MethodBody]
+                ) [TypeMethodNotCstr]
+              ) [TypeMethodOrCstrDecl]
+              Type(
+               int
+              ) [Type]
+              TypeMethodNotCstr(
+                MethodBody(
+                 getn
+                  FormParsNonEmpty(
+                    SingleFormalParam(
+                      FormParamNoArray(
+                        Type(
+                         int
+                        ) [Type]
+                       idx
+                      ) [FormParamNoArray]
+                    ) [SingleFormalParam]
+                  ) [FormParsNonEmpty]
+                  NoVarDeclarations(
+                  ) [NoVarDeclarations]
+                  StatementListNonEmpty(
+                    NoStatements(
+                    ) [NoStatements]
+                    ReturnStatementNonEmpty(
+                      PosExpr(
+                        ExprSingleTerm(
+                          SingleTerm(
+                            FactorDesiNoPars(
+                              DesiArray(
+                                DesiOnlyIdent(
+                                 neg
+                                ) [DesiOnlyIdent]
+                                PosExpr(
+                                  ExprSingleTerm(
+                                    SingleTerm(
+                                      FactorDesiNoPars(
+                                        DesiOnlyIdent(
+                                         idx
+                                        ) [DesiOnlyIdent]
+                                      ) [FactorDesiNoPars]
+                                    ) [SingleTerm]
+                                  ) [ExprSingleTerm]
+                                ) [PosExpr]
+                              ) [DesiArray]
+                            ) [FactorDesiNoPars]
+                          ) [SingleTerm]
+                        ) [ExprSingleTerm]
+                      ) [PosExpr]
+                    ) [ReturnStatementNonEmpty]
+                  ) [StatementListNonEmpty]
+                ) [MethodBody]
+              ) [TypeMethodNotCstr]
+            ) [TypeMethodOrCstrDecl]
+          ) [ClassOnlyBraces]
+        ) [ClassBody]
+      ) [ClassDeclNoExtends]
+    ) [ClassItemDecl]
+    ClassDeclNoExtends(
+     Angle
+      ClassBody(
+        NoVarDeclarations(
+        ) [NoVarDeclarations]
+        ClassOnlyBraces(
+          TypeMethodOrCstrDecl(
+            TypeMethodOrCstrDecl(
+              VoidMethodDecl(
+                VoidMethodDecl(
+                  NoCstrOrMethodDecl(
+                  ) [NoCstrOrMethodDecl]
+                  MethodBody(
+                   putp
+                    FormParsNonEmpty(
+                      FormalParamList(
+                        SingleFormalParam(
+                          FormParamArray(
+                            Type(
+                             int
+                            ) [Type]
+                           a
+                          ) [FormParamArray]
+                        ) [SingleFormalParam]
+                        FormParamNoArray(
+                          Type(
+                           int
+                          ) [Type]
+                         idx
+                        ) [FormParamNoArray]
+                      ) [FormalParamList]
+                    ) [FormParsNonEmpty]
+                    NoVarDeclarations(
+                    ) [NoVarDeclarations]
+                    StatementListNonEmpty(
+                      NoStatements(
+                      ) [NoStatements]
+                      StatementDesiStatement(
+                        DesiStatementAssign(
+                          AssignDesignatorStmt(
+                            DesiArray(
+                              DesiDot(
+                                DesiOnlyIdent(
+                                 this
+                                ) [DesiOnlyIdent]
+                               pos
+                              ) [DesiDot]
+                              PosExpr(
+                                ExprSingleTerm(
+                                  SingleTerm(
+                                    FactorDesiNoPars(
+                                      DesiOnlyIdent(
+                                       idx
+                                      ) [DesiOnlyIdent]
+                                    ) [FactorDesiNoPars]
+                                  ) [SingleTerm]
+                                ) [ExprSingleTerm]
+                              ) [PosExpr]
+                            ) [DesiArray]
+                            Assignop(
+                            ) [Assignop]
+                            PosExpr(
+                              ExprSingleTerm(
+                                SingleTerm(
+                                  FactorDesiNoPars(
+                                    DesiOnlyIdent(
+                                     a
+                                    ) [DesiOnlyIdent]
+                                  ) [FactorDesiNoPars]
+                                ) [SingleTerm]
+                              ) [ExprSingleTerm]
+                            ) [PosExpr]
+                          ) [AssignDesignatorStmt]
+                        ) [DesiStatementAssign]
+                      ) [StatementDesiStatement]
+                    ) [StatementListNonEmpty]
+                  ) [MethodBody]
+                ) [VoidMethodDecl]
+                MethodBody(
+                 putn
+                  NoFormPars(
+                  ) [NoFormPars]
+                  NoVarDeclarations(
+                  ) [NoVarDeclarations]
+                  StatementListNonEmpty(
+                    NoStatements(
+                    ) [NoStatements]
+                    StatementDesiStatement(
+                      DesiStatementAssign(
+                        AssignDesignatorStmt(
+                          DesiArray(
+                            DesiDot(
+                              DesiOnlyIdent(
+                               this
+                              ) [DesiOnlyIdent]
+                             neg
+                            ) [DesiDot]
+                            PosExpr(
+                              ExprSingleTerm(
+                                SingleTerm(
+                                  FactorDesiNoPars(
+                                    DesiOnlyIdent(
+                                     idx
+                                    ) [DesiOnlyIdent]
+                                  ) [FactorDesiNoPars]
+                                ) [SingleTerm]
+                              ) [ExprSingleTerm]
+                            ) [PosExpr]
+                          ) [DesiArray]
+                          Assignop(
+                          ) [Assignop]
+                          PosExpr(
+                            ExprSingleTerm(
+                              SingleTerm(
+                                FactorDesiNoPars(
+                                  DesiOnlyIdent(
+                                   a
+                                  ) [DesiOnlyIdent]
+                                ) [FactorDesiNoPars]
+                              ) [SingleTerm]
+                            ) [ExprSingleTerm]
+                          ) [PosExpr]
+                        ) [AssignDesignatorStmt]
+                      ) [DesiStatementAssign]
+                    ) [StatementDesiStatement]
+                  ) [StatementListNonEmpty]
+                ) [MethodBody]
+              ) [VoidMethodDecl]
+              Type(
+               int
+              ) [Type]
+              TypeMethodNotCstr(
+                MethodBody(
+                 getp
+                  FormParsNonEmpty(
+                    SingleFormalParam(
+                      FormParamNoArray(
+                        Type(
+                         int
+                        ) [Type]
+                       idx
+                      ) [FormParamNoArray]
+                    ) [SingleFormalParam]
+                  ) [FormParsNonEmpty]
+                  NoVarDeclarations(
+                  ) [NoVarDeclarations]
+                  StatementListNonEmpty(
+                    NoStatements(
+                    ) [NoStatements]
+                    ReturnStatementNonEmpty(
+                      PosExpr(
+                        ExprSingleTerm(
+                          SingleTerm(
+                            FactorDesiNoPars(
+                              DesiArray(
+                                DesiOnlyIdent(
+                                 pos
+                                ) [DesiOnlyIdent]
+                                PosExpr(
+                                  ExprSingleTerm(
+                                    SingleTerm(
+                                      FactorDesiNoPars(
+                                        DesiOnlyIdent(
+                                         idx
+                                        ) [DesiOnlyIdent]
+                                      ) [FactorDesiNoPars]
+                                    ) [SingleTerm]
+                                  ) [ExprSingleTerm]
+                                ) [PosExpr]
+                              ) [DesiArray]
+                            ) [FactorDesiNoPars]
+                          ) [SingleTerm]
+                        ) [ExprSingleTerm]
+                      ) [PosExpr]
+                    ) [ReturnStatementNonEmpty]
+                  ) [StatementListNonEmpty]
+                ) [MethodBody]
+              ) [TypeMethodNotCstr]
+            ) [TypeMethodOrCstrDecl]
+            Type(
+             int
+            ) [Type]
+            TypeMethodNotCstr(
+              MethodBody(
+               getn
+                NoFormPars(
+                ) [NoFormPars]
+                NoVarDeclarations(
+                ) [NoVarDeclarations]
+                StatementListNonEmpty(
+                  NoStatements(
+                  ) [NoStatements]
+                  ReturnStatementNonEmpty(
+                    PosExpr(
+                      ExprSingleTerm(
+                        SingleTerm(
+                          FactorDesiNoPars(
+                            DesiArray(
+                              DesiOnlyIdent(
+                               neg
+                              ) [DesiOnlyIdent]
+                              PosExpr(
+                                ExprSingleTerm(
+                                  SingleTerm(
+                                    FactorDesiNoPars(
+                                      DesiOnlyIdent(
+                                       idx
+                                      ) [DesiOnlyIdent]
+                                    ) [FactorDesiNoPars]
+                                  ) [SingleTerm]
+                                ) [ExprSingleTerm]
+                              ) [PosExpr]
+                            ) [DesiArray]
+                          ) [FactorDesiNoPars]
+                        ) [SingleTerm]
+                      ) [ExprSingleTerm]
+                    ) [PosExpr]
+                  ) [ReturnStatementNonEmpty]
+                ) [StatementListNonEmpty]
+              ) [MethodBody]
+            ) [TypeMethodNotCstr]
+          ) [TypeMethodOrCstrDecl]
+        ) [ClassOnlyBraces]
+      ) [ClassBody]
+    ) [ClassDeclNoExtends]
+  ) [ClassItemDecl]
+  NoMethodDeclarations(
+  ) [NoMethodDeclarations]
+) [Program]
+INFO  21:06:48,338 - ===================================
+INFO  21:06:48,339 -  Void methods = 4
+INFO  21:06:48,340 -  Type methods = 4
+INFO  21:06:48,340 - Global variables = 1

@@ -1,0 +1,126 @@
+INFO  01:25:13,595 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  01:25:13,620 - #2 program
+INFO  01:25:13,620 - #44 MJProgram
+INFO  01:25:13,621 - #44 int
+INFO  01:25:13,621 - #44 x
+INFO  01:25:13,621 - #7 ;
+INFO  01:25:13,621 - #44 int
+INFO  01:25:13,622 - #44 y
+INFO  01:25:13,622 - #7 ;
+INFO  01:25:13,622 - #44 char
+INFO  01:25:13,622 - #44 z
+INFO  01:25:13,622 - #7 ;
+INFO  01:25:13,622 - #3 {
+INFO  01:25:13,622 - #44 int
+INFO  01:25:13,622 - #44 k
+INFO  01:25:13,623 - #13 (
+INFO  01:25:13,623 - #14 )
+INFO  01:25:13,623 - #44 char
+INFO  01:25:13,623 - #44 ch
+INFO  01:25:13,623 - #7 ;
+INFO  01:25:13,623 - #44 int
+INFO  01:25:13,624 - #44 c
+INFO  01:25:13,624 - #7 ;
+INFO  01:25:13,624 - #3 {
+INFO  01:25:13,624 - #44 c
+INFO  01:25:13,624 - #6 =
+INFO  01:25:13,624 - #43 2
+INFO  01:25:13,624 - #7 ;
+INFO  01:25:13,625 - #44 ch
+INFO  01:25:13,625 - #6 =
+INFO  01:25:13,625 - #46 a
+INFO  01:25:13,625 - #7 ;
+INFO  01:25:13,625 - #22 print
+INFO  01:25:13,625 - #13 (
+INFO  01:25:13,625 - #43 0
+INFO  01:25:13,625 - #14 )
+INFO  01:25:13,625 - #7 ;
+INFO  01:25:13,625 - #21 return
+INFO  01:25:13,625 - #44 ch
+INFO  01:25:13,625 - #7 ;
+INFO  01:25:13,625 - #4 }
+INFO  01:25:13,625 - #44 int
+INFO  01:25:13,625 - #44 j
+INFO  01:25:13,625 - #13 (
+INFO  01:25:13,625 - #44 int
+INFO  01:25:13,625 - #44 par
+INFO  01:25:13,625 - #9 ,
+INFO  01:25:13,625 - #44 int
+INFO  01:25:13,625 - #44 par2
+INFO  01:25:13,625 - #14 )
+INFO  01:25:13,625 - #3 {
+INFO  01:25:13,625 - #22 print
+INFO  01:25:13,625 - #13 (
+INFO  01:25:13,625 - #44 par
+INFO  01:25:13,625 - #14 )
+INFO  01:25:13,625 - #7 ;
+INFO  01:25:13,625 - #21 return
+INFO  01:25:13,625 - #43 1
+INFO  01:25:13,625 - #7 ;
+INFO  01:25:13,626 - #4 }
+INFO  01:25:13,626 - #44 int
+INFO  01:25:13,626 - #44 main
+INFO  01:25:13,626 - #13 (
+INFO  01:25:13,626 - #14 )
+INFO  01:25:13,626 - #3 {
+INFO  01:25:13,626 - #44 x
+INFO  01:25:13,626 - #6 =
+INFO  01:25:13,626 - #43 3
+INFO  01:25:13,626 - #7 ;
+INFO  01:25:13,626 - #44 z
+INFO  01:25:13,626 - #6 =
+INFO  01:25:13,626 - #46 b
+INFO  01:25:13,626 - #7 ;
+INFO  01:25:13,626 - #22 print
+INFO  01:25:13,626 - #13 (
+INFO  01:25:13,626 - #43 1
+INFO  01:25:13,626 - #14 )
+INFO  01:25:13,626 - #7 ;
+INFO  01:25:13,626 - #22 print
+INFO  01:25:13,626 - #13 (
+INFO  01:25:13,626 - #44 x
+INFO  01:25:13,626 - #14 )
+INFO  01:25:13,626 - #7 ;
+INFO  01:25:13,626 - #44 j
+INFO  01:25:13,626 - #13 (
+INFO  01:25:13,627 - #44 y
+INFO  01:25:13,627 - #9 ,
+INFO  01:25:13,627 - #43 0
+INFO  01:25:13,627 - #9 ,
+INFO  01:25:13,627 - #43 0
+INFO  01:25:13,627 - #14 )
+INFO  01:25:13,627 - #7 ;
+INFO  01:25:13,627 - #44 k
+INFO  01:25:13,627 - #13 (
+INFO  01:25:13,627 - #14 )
+INFO  01:25:13,627 - #7 ;
+INFO  01:25:13,627 - #44 y
+INFO  01:25:13,627 - #6 =
+INFO  01:25:13,627 - #43 4
+INFO  01:25:13,627 - #38 +
+INFO  01:25:13,627 - #44 x
+INFO  01:25:13,628 - #7 ;
+INFO  01:25:13,629 - #44 k
+INFO  01:25:13,629 - #13 (
+INFO  01:25:13,629 - #43 4
+INFO  01:25:13,629 - #14 )
+INFO  01:25:13,629 - #7 ;
+INFO  01:25:13,629 - #21 return
+INFO  01:25:13,629 - #43 1
+INFO  01:25:13,629 - #7 ;
+INFO  01:25:13,629 - #4 }
+INFO  01:25:13,629 - #4 }
+INFO  01:25:13,632 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:25:13,632 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:25:13,632 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:25:13,632 - Deklarisana lokalna promenljiva "ch" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:25:13,632 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+ERROR 01:25:13,632 - Greska na liniji 10: Funkcija k mora vratiti tip 1!
+INFO  01:25:13,632 - form pars: 0; total vars: 2
+INFO  01:25:13,632 - Deklarisan formalni argument "par" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:25:13,632 - Deklarisan formalni argument "par2" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:25:13,633 - form pars: 2; total vars: 2
+ERROR 01:25:13,633 - Greska na liniji 25: j prima 2 parametara!
+ERROR 01:25:13,633 - Greska na liniji 30: k prima 0 parametara!
+INFO  01:25:13,633 - form pars: 0; total vars: 0
+INFO  01:25:13,633 - ===================================

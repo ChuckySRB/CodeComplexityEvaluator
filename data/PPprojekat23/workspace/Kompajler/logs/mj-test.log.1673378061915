@@ -1,0 +1,61 @@
+INFO  20:14:11,744 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  20:14:11,768 - #2 program
+INFO  20:14:11,768 - #44 MJProgram
+INFO  20:14:11,768 - #44 int
+INFO  20:14:11,769 - #44 x
+INFO  20:14:11,769 - #7 ;
+INFO  20:14:11,769 - #44 int
+INFO  20:14:11,769 - #44 y
+INFO  20:14:11,770 - #7 ;
+INFO  20:14:11,770 - #44 char
+INFO  20:14:11,770 - #44 z
+INFO  20:14:11,770 - #7 ;
+INFO  20:14:11,770 - #3 {
+INFO  20:14:11,770 - #44 int
+INFO  20:14:11,770 - #44 main
+INFO  20:14:11,770 - #13 (
+INFO  20:14:11,771 - #14 )
+INFO  20:14:11,771 - #3 {
+INFO  20:14:11,771 - #44 x
+INFO  20:14:11,772 - #6 =
+INFO  20:14:11,772 - #43 3
+INFO  20:14:11,772 - #7 ;
+INFO  20:14:11,773 - #44 y
+INFO  20:14:11,773 - #6 =
+INFO  20:14:11,773 - #43 1
+INFO  20:14:11,773 - #7 ;
+INFO  20:14:11,773 - #16 if
+INFO  20:14:11,773 - #13 (
+INFO  20:14:11,773 - #44 x
+INFO  20:14:11,773 - #34 >
+INFO  20:14:11,773 - #43 3
+INFO  20:14:11,773 - #29 ||
+INFO  20:14:11,774 - #44 y
+INFO  20:14:11,774 - #35 >=
+INFO  20:14:11,774 - #43 2
+INFO  20:14:11,774 - #29 ||
+INFO  20:14:11,774 - #44 x
+INFO  20:14:11,774 - #32 ==
+INFO  20:14:11,774 - #43 3
+INFO  20:14:11,774 - #14 )
+INFO  20:14:11,774 - #22 print
+INFO  20:14:11,775 - #13 (
+INFO  20:14:11,775 - #46 g
+INFO  20:14:11,775 - #14 )
+INFO  20:14:11,775 - #7 ;
+INFO  20:14:11,775 - #17 else
+INFO  20:14:11,775 - #22 print
+INFO  20:14:11,775 - #13 (
+INFO  20:14:11,776 - #43 0
+INFO  20:14:11,776 - #14 )
+INFO  20:14:11,776 - #7 ;
+INFO  20:14:11,776 - #21 return
+INFO  20:14:11,776 - #43 1
+INFO  20:14:11,776 - #7 ;
+INFO  20:14:11,776 - #4 }
+INFO  20:14:11,776 - #4 }
+INFO  20:14:11,779 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:14:11,779 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:14:11,779 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:14:11,780 - form pars: 0; total vars: 0
+INFO  20:14:11,780 - ===================================

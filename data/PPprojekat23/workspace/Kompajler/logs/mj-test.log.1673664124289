@@ -1,0 +1,94 @@
+INFO  03:40:17,510 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program7.mj
+INFO  03:40:17,537 - #2 program
+INFO  03:40:17,537 - #44 MJProgram
+INFO  03:40:17,537 - #44 int
+INFO  03:40:17,538 - #44 x
+INFO  03:40:17,538 - #7 ;
+INFO  03:40:17,538 - #44 int
+INFO  03:40:17,538 - #44 y
+INFO  03:40:17,539 - #10 [
+INFO  03:40:17,539 - #11 ]
+INFO  03:40:17,539 - #7 ;
+INFO  03:40:17,539 - #44 char
+INFO  03:40:17,539 - #44 z
+INFO  03:40:17,539 - #7 ;
+INFO  03:40:17,539 - #3 {
+INFO  03:40:17,539 - #44 int
+INFO  03:40:17,539 - #44 calc
+INFO  03:40:17,540 - #13 (
+INFO  03:40:17,540 - #44 int
+INFO  03:40:17,540 - #44 x
+INFO  03:40:17,540 - #9 ,
+INFO  03:40:17,540 - #44 int
+INFO  03:40:17,540 - #44 y
+INFO  03:40:17,540 - #9 ,
+INFO  03:40:17,540 - #44 char
+INFO  03:40:17,541 - #44 z
+INFO  03:40:17,541 - #14 )
+INFO  03:40:17,541 - #3 {
+INFO  03:40:17,541 - #22 print
+INFO  03:40:17,541 - #13 (
+INFO  03:40:17,541 - #44 z
+INFO  03:40:17,541 - #14 )
+INFO  03:40:17,541 - #7 ;
+INFO  03:40:17,541 - #21 return
+INFO  03:40:17,542 - #44 x
+INFO  03:40:17,542 - #39 -
+INFO  03:40:17,542 - #44 y
+INFO  03:40:17,542 - #7 ;
+INFO  03:40:17,542 - #4 }
+INFO  03:40:17,542 - #44 int
+INFO  03:40:17,542 - #44 main
+INFO  03:40:17,542 - #13 (
+INFO  03:40:17,542 - #14 )
+INFO  03:40:17,543 - #3 {
+INFO  03:40:17,543 - #44 y
+INFO  03:40:17,543 - #6 =
+INFO  03:40:17,543 - #31 new
+INFO  03:40:17,543 - #44 int
+INFO  03:40:17,543 - #10 [
+INFO  03:40:17,543 - #43 4
+INFO  03:40:17,543 - #11 ]
+INFO  03:40:17,543 - #7 ;
+INFO  03:40:17,544 - #44 y
+INFO  03:40:17,544 - #10 [
+INFO  03:40:17,544 - #43 3
+INFO  03:40:17,544 - #11 ]
+INFO  03:40:17,544 - #6 =
+INFO  03:40:17,544 - #43 13
+INFO  03:40:17,544 - #7 ;
+INFO  03:40:17,544 - #44 x
+INFO  03:40:17,544 - #6 =
+INFO  03:40:17,544 - #43 3
+INFO  03:40:17,544 - #7 ;
+INFO  03:40:17,544 - #44 z
+INFO  03:40:17,544 - #6 =
+INFO  03:40:17,544 - #46 b
+INFO  03:40:17,544 - #7 ;
+INFO  03:40:17,545 - #22 print
+INFO  03:40:17,545 - #13 (
+INFO  03:40:17,545 - #44 calc
+INFO  03:40:17,545 - #13 (
+INFO  03:40:17,545 - #44 y
+INFO  03:40:17,545 - #10 [
+INFO  03:40:17,545 - #43 3
+INFO  03:40:17,545 - #11 ]
+INFO  03:40:17,545 - #9 ,
+INFO  03:40:17,545 - #44 x
+INFO  03:40:17,545 - #9 ,
+INFO  03:40:17,545 - #44 z
+INFO  03:40:17,545 - #14 )
+INFO  03:40:17,545 - #14 )
+INFO  03:40:17,545 - #7 ;
+INFO  03:40:17,545 - #21 return
+INFO  03:40:17,545 - #43 1
+INFO  03:40:17,545 - #7 ;
+INFO  03:40:17,545 - #4 }
+INFO  03:40:17,545 - #4 }
+INFO  03:40:17,549 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:40:17,549 - Deklarisan globalni niz "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:40:17,549 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:40:17,549 - Deklarisan formalni argument "x" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:40:17,549 - Deklarisan formalni argument "y" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:40:17,549 - Deklarisan formalni argument "z" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:40:17,549 - form pars: 3; total vars: 3

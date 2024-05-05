@@ -1,0 +1,139 @@
+INFO  15:49:17,479 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  15:49:17,503 - #2 program
+INFO  15:49:17,503 - #44 p
+INFO  15:49:17,503 - #5 const
+INFO  15:49:17,504 - #44 int
+INFO  15:49:17,504 - #44 size
+INFO  15:49:17,504 - #6 =
+INFO  15:49:17,504 - #43 10
+INFO  15:49:17,504 - #7 ;
+INFO  15:49:17,504 - #8 class
+INFO  15:49:17,505 - #44 Table
+INFO  15:49:17,505 - #3 {
+INFO  15:49:17,505 - #44 int
+INFO  15:49:17,505 - #44 pos
+INFO  15:49:17,505 - #10 [
+INFO  15:49:17,505 - #11 ]
+INFO  15:49:17,505 - #9 ,
+INFO  15:49:17,505 - #44 neg
+INFO  15:49:17,505 - #10 [
+INFO  15:49:17,505 - #11 ]
+INFO  15:49:17,505 - #9 ,
+INFO  15:49:17,505 - #44 factor
+INFO  15:49:17,505 - #7 ;
+INFO  15:49:17,506 - #3 {
+INFO  15:49:17,506 - #44 Table
+INFO  15:49:17,506 - #13 (
+INFO  15:49:17,506 - #44 int
+INFO  15:49:17,506 - #44 factor
+INFO  15:49:17,506 - #14 )
+INFO  15:49:17,506 - #3 {
+INFO  15:49:17,506 - #44 this
+INFO  15:49:17,507 - #24 .
+INFO  15:49:17,507 - #44 factor
+INFO  15:49:17,507 - #6 =
+INFO  15:49:17,507 - #44 factor
+INFO  15:49:17,507 - #7 ;
+INFO  15:49:17,507 - #4 }
+INFO  15:49:17,507 - #4 }
+INFO  15:49:17,508 - #4 }
+INFO  15:49:17,508 - #3 {
+INFO  15:49:17,508 - #4 }
+INFO  15:49:17,509 - Program(
+ p
+  ClassItemDecl(
+    ConstItemDecl(
+      NoItemDecl(
+      ) [NoItemDecl]
+      ConstDeclarations(
+        Type(
+         int
+        ) [Type]
+        SingleConstDecl(
+         size
+          NumConst(
+           10
+          ) [NumConst]
+        ) [SingleConstDecl]
+      ) [ConstDeclarations]
+    ) [ConstItemDecl]
+    ClassDeclNoExtends(
+     Table
+      ClassBodyVars(
+        VarDeclarations(
+          Type(
+           int
+          ) [Type]
+          MultipleVarDecl(
+            MultipleVarDecl(
+              SingleVarDecl(
+                VarArray(
+                 pos
+                ) [VarArray]
+              ) [SingleVarDecl]
+              VarArray(
+               neg
+              ) [VarArray]
+            ) [MultipleVarDecl]
+            VarNoArray(
+             factor
+            ) [VarNoArray]
+          ) [MultipleVarDecl]
+        ) [VarDeclarations]
+        ClassOnlyBraces(
+          CstrDeclarationsNonEmpty(
+            NoCstrDeclarations(
+            ) [NoCstrDeclarations]
+            CstrNoVars(
+             Table
+              FormParsNonEmpty(
+                SingleFormalParam(
+                  FormParamNoArray(
+                    Type(
+                     int
+                    ) [Type]
+                   factor
+                  ) [FormParamNoArray]
+                ) [SingleFormalParam]
+              ) [FormParsNonEmpty]
+              StatementListNonEmpty(
+                NoStatements(
+                ) [NoStatements]
+                StatementDesiStatement(
+                  DesiStatementAssign(
+                    DesiDot(
+                      DesiOnlyIdent(
+                       this
+                      ) [DesiOnlyIdent]
+                     factor
+                    ) [DesiDot]
+                    Assignop(
+                    ) [Assignop]
+                    PosExpr(
+                      ExprSingleTerm(
+                        SingleTerm(
+                          FactorDesiNoPars(
+                            DesiOnlyIdent(
+                             factor
+                            ) [DesiOnlyIdent]
+                          ) [FactorDesiNoPars]
+                        ) [SingleTerm]
+                      ) [ExprSingleTerm]
+                    ) [PosExpr]
+                  ) [DesiStatementAssign]
+                ) [StatementDesiStatement]
+              ) [StatementListNonEmpty]
+            ) [CstrNoVars]
+          ) [CstrDeclarationsNonEmpty]
+          NoMethodDecl(
+          ) [NoMethodDecl]
+        ) [ClassOnlyBraces]
+      ) [ClassBodyVars]
+    ) [ClassDeclNoExtends]
+  ) [ClassItemDecl]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  15:49:17,509 - ===================================
+INFO  15:49:17,510 -  Print count calls = 0
+INFO  15:49:17,510 -  Deklarisanih promenljivih ima = 0

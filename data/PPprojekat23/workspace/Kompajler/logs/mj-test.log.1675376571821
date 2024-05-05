@@ -1,0 +1,107 @@
+INFO  23:22:40,906 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program9.mj
+INFO  23:22:40,930 - #2 program
+INFO  23:22:40,930 - #44 p
+INFO  23:22:40,930 - #3 {
+INFO  23:22:40,930 - #44 int
+INFO  23:22:40,931 - #44 main
+INFO  23:22:40,931 - #13 (
+INFO  23:22:40,931 - #14 )
+INFO  23:22:40,932 - #44 char
+INFO  23:22:40,932 - #44 niz
+INFO  23:22:40,932 - #10 [
+INFO  23:22:40,932 - #11 ]
+INFO  23:22:40,932 - #7 ;
+INFO  23:22:40,932 - #3 {
+INFO  23:22:40,933 - #22 print
+INFO  23:22:40,933 - #13 (
+INFO  23:22:40,933 - #44 ord
+INFO  23:22:40,933 - #13 (
+INFO  23:22:40,933 - #46 a
+INFO  23:22:40,933 - #14 )
+INFO  23:22:40,933 - #14 )
+INFO  23:22:40,934 - #7 ;
+INFO  23:22:40,934 - #21 return
+INFO  23:22:40,934 - #43 1
+INFO  23:22:40,934 - #7 ;
+INFO  23:22:40,934 - #4 }
+INFO  23:22:40,934 - #4 }
+INFO  23:22:40,935 - Program(
+  ProgName(
+   p
+  ) [ProgName]
+  NoItemDecl(
+  ) [NoItemDecl]
+  TypeMethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    FunType(
+      Type(
+       int
+      ) [Type]
+    ) [FunType]
+    MethodName(
+     main
+    ) [MethodName]
+    NoFormPars(
+    ) [NoFormPars]
+    MultipleVarDeclarations(
+      NoVarDeclarations(
+      ) [NoVarDeclarations]
+      Type(
+       char
+      ) [Type]
+      SingleVarDecl(
+        VarArray(
+         niz
+        ) [VarArray]
+      ) [SingleVarDecl]
+    ) [MultipleVarDeclarations]
+    StatementListNonEmpty(
+      StatementListNonEmpty(
+        NoStatements(
+        ) [NoStatements]
+        PrintStatementNoWidth(
+          PosExpr(
+            ExprSingleTerm(
+              SingleTerm(
+                FactorFuncCall(
+                  DesiOnlyIdent(
+                   ord
+                  ) [DesiOnlyIdent]
+                  ActParsNonEmpty(
+                    SingleActPar(
+                      PosExpr(
+                        ExprSingleTerm(
+                          SingleTerm(
+                            FactorChar(
+                             a
+                            ) [FactorChar]
+                          ) [SingleTerm]
+                        ) [ExprSingleTerm]
+                      ) [PosExpr]
+                    ) [SingleActPar]
+                  ) [ActParsNonEmpty]
+                ) [FactorFuncCall]
+              ) [SingleTerm]
+            ) [ExprSingleTerm]
+          ) [PosExpr]
+        ) [PrintStatementNoWidth]
+      ) [StatementListNonEmpty]
+      ReturnStatementNonEmpty(
+        PosExpr(
+          ExprSingleTerm(
+            SingleTerm(
+              FactorNum(
+               1
+              ) [FactorNum]
+            ) [SingleTerm]
+          ) [ExprSingleTerm]
+        ) [PosExpr]
+      ) [ReturnStatementNonEmpty]
+    ) [StatementListNonEmpty]
+  ) [TypeMethodDeclarations]
+) [Program]
+INFO  23:22:40,935 - ===================================
+INFO  23:22:40,938 - Deklarisan lokalni niz "niz" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:40,938 - form pars: 0; total vars: 1
+INFO  23:22:40,938 - ===================================

@@ -1,0 +1,224 @@
+INFO  00:43:38,896 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program9.mj
+INFO  00:43:38,920 - #2 program
+INFO  00:43:38,920 - #44 p
+INFO  00:43:38,920 - #3 {
+INFO  00:43:38,921 - #44 char
+INFO  00:43:38,921 - #44 fun
+INFO  00:43:38,922 - #13 (
+INFO  00:43:38,922 - #44 int
+INFO  00:43:38,922 - #44 i
+INFO  00:43:38,922 - #14 )
+INFO  00:43:38,922 - #3 {
+INFO  00:43:38,922 - #21 return
+INFO  00:43:38,923 - #46 a
+INFO  00:43:38,923 - #7 ;
+INFO  00:43:38,923 - #4 }
+INFO  00:43:38,923 - #44 int
+INFO  00:43:38,923 - #44 main
+INFO  00:43:38,923 - #13 (
+INFO  00:43:38,923 - #14 )
+INFO  00:43:38,924 - #44 int
+INFO  00:43:38,924 - #44 in
+INFO  00:43:38,924 - #7 ;
+INFO  00:43:38,924 - #44 char
+INFO  00:43:38,924 - #44 c
+INFO  00:43:38,924 - #7 ;
+INFO  00:43:38,924 - #3 {
+INFO  00:43:38,924 - #44 in
+INFO  00:43:38,924 - #6 =
+INFO  00:43:38,924 - #43 97
+INFO  00:43:38,925 - #7 ;
+INFO  00:43:38,925 - #44 c
+INFO  00:43:38,925 - #6 =
+INFO  00:43:38,925 - #46 1
+INFO  00:43:38,925 - #7 ;
+INFO  00:43:38,925 - #22 print
+INFO  00:43:38,925 - #13 (
+INFO  00:43:38,925 - #44 chr
+INFO  00:43:38,925 - #13 (
+INFO  00:43:38,925 - #44 in
+INFO  00:43:38,925 - #14 )
+INFO  00:43:38,925 - #14 )
+INFO  00:43:38,925 - #7 ;
+INFO  00:43:38,925 - #21 return
+INFO  00:43:38,926 - #43 1
+INFO  00:43:38,926 - #7 ;
+INFO  00:43:38,926 - #4 }
+INFO  00:43:38,926 - #4 }
+INFO  00:43:38,927 - Program(
+  ProgName(
+   p
+  ) [ProgName]
+  NoItemDecl(
+  ) [NoItemDecl]
+  TypeMethodDeclarations(
+    TypeMethodDeclarations(
+      NoMethodDeclarations(
+      ) [NoMethodDeclarations]
+      FunType(
+        Type(
+         char
+        ) [Type]
+      ) [FunType]
+      MethodName(
+       fun
+      ) [MethodName]
+      FormParsNonEmpty(
+        SingleFormalParam(
+          FormParamNoArray(
+            Type(
+             int
+            ) [Type]
+           i
+          ) [FormParamNoArray]
+        ) [SingleFormalParam]
+      ) [FormParsNonEmpty]
+      NoVarDeclarations(
+      ) [NoVarDeclarations]
+      StatementListNonEmpty(
+        NoStatements(
+        ) [NoStatements]
+        ReturnStatementNonEmpty(
+          PosExpr(
+            ExprSingleTerm(
+              SingleTerm(
+                FactorChar(
+                 a
+                ) [FactorChar]
+              ) [SingleTerm]
+            ) [ExprSingleTerm]
+          ) [PosExpr]
+        ) [ReturnStatementNonEmpty]
+      ) [StatementListNonEmpty]
+    ) [TypeMethodDeclarations]
+    FunType(
+      Type(
+       int
+      ) [Type]
+    ) [FunType]
+    MethodName(
+     main
+    ) [MethodName]
+    NoFormPars(
+    ) [NoFormPars]
+    MultipleVarDeclarations(
+      MultipleVarDeclarations(
+        NoVarDeclarations(
+        ) [NoVarDeclarations]
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarNoArray(
+           in
+          ) [VarNoArray]
+        ) [SingleVarDecl]
+      ) [MultipleVarDeclarations]
+      Type(
+       char
+      ) [Type]
+      SingleVarDecl(
+        VarNoArray(
+         c
+        ) [VarNoArray]
+      ) [SingleVarDecl]
+    ) [MultipleVarDeclarations]
+    StatementListNonEmpty(
+      StatementListNonEmpty(
+        StatementListNonEmpty(
+          StatementListNonEmpty(
+            NoStatements(
+            ) [NoStatements]
+            StatementDesiStatement(
+              DesiStatementAssign(
+                AssignDesignatorStmt(
+                  DesiOnlyIdent(
+                   in
+                  ) [DesiOnlyIdent]
+                  Assignop(
+                  ) [Assignop]
+                  PosExpr(
+                    ExprSingleTerm(
+                      SingleTerm(
+                        FactorNum(
+                         97
+                        ) [FactorNum]
+                      ) [SingleTerm]
+                    ) [ExprSingleTerm]
+                  ) [PosExpr]
+                ) [AssignDesignatorStmt]
+              ) [DesiStatementAssign]
+            ) [StatementDesiStatement]
+          ) [StatementListNonEmpty]
+          StatementDesiStatement(
+            DesiStatementAssign(
+              AssignDesignatorStmt(
+                DesiOnlyIdent(
+                 c
+                ) [DesiOnlyIdent]
+                Assignop(
+                ) [Assignop]
+                PosExpr(
+                  ExprSingleTerm(
+                    SingleTerm(
+                      FactorChar(
+                       1
+                      ) [FactorChar]
+                    ) [SingleTerm]
+                  ) [ExprSingleTerm]
+                ) [PosExpr]
+              ) [AssignDesignatorStmt]
+            ) [DesiStatementAssign]
+          ) [StatementDesiStatement]
+        ) [StatementListNonEmpty]
+        PrintStatementNoWidth(
+          PosExpr(
+            ExprSingleTerm(
+              SingleTerm(
+                FactorFuncCall(
+                  DesiOnlyIdent(
+                   chr
+                  ) [DesiOnlyIdent]
+                  ActParsNonEmpty(
+                    SingleActPar(
+                      PosExpr(
+                        ExprSingleTerm(
+                          SingleTerm(
+                            FactorDesi(
+                              DesiOnlyIdent(
+                               in
+                              ) [DesiOnlyIdent]
+                            ) [FactorDesi]
+                          ) [SingleTerm]
+                        ) [ExprSingleTerm]
+                      ) [PosExpr]
+                    ) [SingleActPar]
+                  ) [ActParsNonEmpty]
+                ) [FactorFuncCall]
+              ) [SingleTerm]
+            ) [ExprSingleTerm]
+          ) [PosExpr]
+        ) [PrintStatementNoWidth]
+      ) [StatementListNonEmpty]
+      ReturnStatementNonEmpty(
+        PosExpr(
+          ExprSingleTerm(
+            SingleTerm(
+              FactorNum(
+               1
+              ) [FactorNum]
+            ) [SingleTerm]
+          ) [ExprSingleTerm]
+        ) [PosExpr]
+      ) [ReturnStatementNonEmpty]
+    ) [StatementListNonEmpty]
+  ) [TypeMethodDeclarations]
+) [Program]
+INFO  00:43:38,927 - ===================================
+INFO  00:43:38,930 - Deklarisan formalni argument "i" na liniji 4 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:43:38,930 - form pars: 1; total vars: 1
+INFO  00:43:38,930 - Deklarisana lokalna promenljiva "in" na liniji 9 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:43:38,930 - Deklarisana lokalna promenljiva "c" na liniji 9 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:43:38,930 - form pars: 0; total vars: 2
+INFO  00:43:38,930 - ===================================
+INFO  00:43:38,933 - Parsiranje je uspesno zavrseno!

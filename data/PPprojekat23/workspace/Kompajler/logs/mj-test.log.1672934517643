@@ -1,0 +1,179 @@
+INFO  16:54:45,305 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  16:54:45,331 - #2 program
+INFO  16:54:45,331 - #44 p
+INFO  16:54:45,331 - #44 int
+INFO  16:54:45,332 - #44 c
+INFO  16:54:45,332 - #9 ,
+INFO  16:54:45,332 - #44 d
+INFO  16:54:45,332 - #10 [
+INFO  16:54:45,332 - #11 ]
+INFO  16:54:45,332 - #9 ,
+INFO  16:54:45,332 - #44 e
+INFO  16:54:45,332 - #7 ;
+INFO  16:54:45,332 - #44 char
+INFO  16:54:45,333 - #44 a
+INFO  16:54:45,333 - #10 [
+INFO  16:54:45,333 - #11 ]
+INFO  16:54:45,333 - #9 ,
+INFO  16:54:45,333 - #44 aa
+INFO  16:54:45,333 - #7 ;
+INFO  16:54:45,333 - #44 bool
+INFO  16:54:45,333 - #44 gggg
+INFO  16:54:45,333 - #7 ;
+INFO  16:54:45,333 - #5 const
+INFO  16:54:45,333 - #44 int
+INFO  16:54:45,333 - #44 size
+INFO  16:54:45,333 - #6 =
+INFO  16:54:45,333 - #43 10
+INFO  16:54:45,333 - #9 ,
+INFO  16:54:45,334 - #44 width
+INFO  16:54:45,334 - #6 =
+INFO  16:54:45,334 - #43 50
+INFO  16:54:45,334 - #9 ,
+INFO  16:54:45,334 - #44 length
+INFO  16:54:45,334 - #6 =
+INFO  16:54:45,334 - #43 100
+INFO  16:54:45,334 - #7 ;
+INFO  16:54:45,334 - #5 const
+INFO  16:54:45,334 - #44 bool
+INFO  16:54:45,334 - #44 b
+INFO  16:54:45,334 - #6 =
+INFO  16:54:45,334 - #45 true
+INFO  16:54:45,334 - #7 ;
+INFO  16:54:45,334 - #5 const
+INFO  16:54:45,335 - #44 char
+INFO  16:54:45,335 - #44 karakter
+INFO  16:54:45,335 - #6 =
+INFO  16:54:45,335 - #46 b
+INFO  16:54:45,335 - #7 ;
+INFO  16:54:45,335 - #8 class
+INFO  16:54:45,335 - #44 Table
+INFO  16:54:45,335 - #3 {
+INFO  16:54:45,335 - #44 int
+INFO  16:54:45,335 - #44 pos
+INFO  16:54:45,335 - #10 [
+INFO  16:54:45,335 - #11 ]
+INFO  16:54:45,335 - #9 ,
+INFO  16:54:45,335 - #44 neg
+INFO  16:54:45,335 - #10 [
+INFO  16:54:45,336 - #11 ]
+INFO  16:54:45,336 - #9 ,
+INFO  16:54:45,336 - #44 factor
+INFO  16:54:45,336 - #7 ;
+INFO  16:54:45,336 - #3 {
+INFO  16:54:45,336 - #44 Table
+INFO  16:54:45,336 - #13 (
+INFO  16:54:45,336 - #44 int
+INFO  16:54:45,336 - #44 factor
+INFO  16:54:45,336 - #14 )
+INFO  16:54:45,336 - #3 {
+INFO  16:54:45,336 - #44 this
+INFO  16:54:45,337 - #24 .
+INFO  16:54:45,337 - #44 factor
+INFO  16:54:45,337 - #6 =
+INFO  16:54:45,337 - #44 factor
+INFO  16:54:45,337 - #7 ;
+INFO  16:54:45,337 - #4 }
+INFO  16:54:45,337 - #15 void
+INFO  16:54:45,338 - #44 putp
+INFO  16:54:45,338 - #13 (
+INFO  16:54:45,338 - #44 int
+INFO  16:54:45,338 - #44 a
+INFO  16:54:45,338 - #9 ,
+INFO  16:54:45,338 - #44 int
+INFO  16:54:45,338 - #44 idx
+INFO  16:54:45,338 - #14 )
+INFO  16:54:45,338 - #3 {
+INFO  16:54:45,338 - #44 this
+INFO  16:54:45,338 - #24 .
+INFO  16:54:45,338 - #44 pos
+INFO  16:54:45,338 - #10 [
+INFO  16:54:45,338 - #44 idx
+INFO  16:54:45,338 - #11 ]
+INFO  16:54:45,338 - #6 =
+INFO  16:54:45,338 - #44 a
+INFO  16:54:45,338 - #7 ;
+INFO  16:54:45,338 - #4 }
+INFO  16:54:45,338 - #15 void
+INFO  16:54:45,338 - #44 putn
+INFO  16:54:45,338 - #13 (
+INFO  16:54:45,338 - #44 int
+INFO  16:54:45,338 - #44 a
+INFO  16:54:45,338 - #9 ,
+INFO  16:54:45,339 - #44 int
+INFO  16:54:45,339 - #44 idx
+INFO  16:54:45,339 - #14 )
+INFO  16:54:45,339 - #3 {
+INFO  16:54:45,339 - #44 this
+INFO  16:54:45,339 - #24 .
+INFO  16:54:45,339 - #44 neg
+INFO  16:54:45,339 - #10 [
+INFO  16:54:45,339 - #44 idx
+INFO  16:54:45,339 - #11 ]
+INFO  16:54:45,339 - #6 =
+INFO  16:54:45,339 - #44 a
+INFO  16:54:45,339 - #7 ;
+INFO  16:54:45,339 - #4 }
+INFO  16:54:45,339 - #44 int
+INFO  16:54:45,339 - #44 getp
+INFO  16:54:45,339 - #13 (
+INFO  16:54:45,339 - #44 int
+INFO  16:54:45,339 - #44 idx
+INFO  16:54:45,339 - #14 )
+INFO  16:54:45,339 - #3 {
+INFO  16:54:45,339 - #21 return
+INFO  16:54:45,339 - #44 pos
+INFO  16:54:45,339 - #10 [
+INFO  16:54:45,339 - #44 idx
+INFO  16:54:45,339 - #11 ]
+INFO  16:54:45,339 - #7 ;
+INFO  16:54:45,340 - #4 }
+INFO  16:54:45,340 - #44 int
+INFO  16:54:45,340 - #44 getn
+INFO  16:54:45,340 - #13 (
+INFO  16:54:45,340 - #44 int
+INFO  16:54:45,340 - #44 idx
+INFO  16:54:45,340 - #14 )
+INFO  16:54:45,340 - #3 {
+INFO  16:54:45,340 - #21 return
+INFO  16:54:45,340 - #44 neg
+INFO  16:54:45,340 - #10 [
+INFO  16:54:45,340 - #44 idx
+INFO  16:54:45,340 - #11 ]
+INFO  16:54:45,340 - #7 ;
+INFO  16:54:45,340 - #4 }
+INFO  16:54:45,340 - #4 }
+INFO  16:54:45,340 - #4 }
+INFO  16:54:45,340 - #3 {
+INFO  16:54:45,341 - #44 int
+INFO  16:54:45,341 - #44 main
+INFO  16:54:45,341 - #13 (
+INFO  16:54:45,341 - #14 )
+INFO  16:54:45,341 - #44 char
+INFO  16:54:45,341 - #44 niz
+INFO  16:54:45,341 - #10 [
+INFO  16:54:45,341 - #11 ]
+INFO  16:54:45,341 - #7 ;
+INFO  16:54:45,341 - #3 {
+INFO  16:54:45,341 - #21 return
+INFO  16:54:45,341 - #43 1
+INFO  16:54:45,341 - #7 ;
+INFO  16:54:45,341 - #4 }
+INFO  16:54:45,341 - #4 }
+INFO  16:54:45,345 - Deklarisana globalna promenljiva "c" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,345 - Deklarisan globalni niz "d" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,345 - Deklarisana globalna promenljiva "e" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,345 - Deklarisan globalni niz "a" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,345 - Deklarisana globalna promenljiva "aa" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - Deklarisana globalna promenljiva "gggg" na liniji 4 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - Deklarisana simbolicka konstanta "size" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - Deklarisana simbolicka konstanta "width" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - Deklarisana simbolicka konstanta "length" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - Deklarisana simbolicka konstanta "b" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - Deklarisana simbolicka konstanta "karakter" na liniji 7 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - Deklarisan lokalni niz "pos" na liniji 9 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - Deklarisan lokalni niz "neg" na liniji 9 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - Deklarisana lokalna promenljiva "factor" na liniji 9 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+ERROR 16:54:45,346 - Nije pronadjen tip Table u tabeli simbola!
+INFO  16:54:45,346 - Deklarisan lokalni niz "niz" na liniji 20 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  16:54:45,346 - ===================================

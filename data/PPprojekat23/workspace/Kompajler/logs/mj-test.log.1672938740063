@@ -1,0 +1,196 @@
+INFO  18:10:25,040 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  18:10:25,066 - #2 program
+INFO  18:10:25,066 - #44 p
+INFO  18:10:25,066 - #44 int
+INFO  18:10:25,067 - #44 c
+INFO  18:10:25,067 - #9 ,
+INFO  18:10:25,067 - #44 d
+INFO  18:10:25,067 - #10 [
+INFO  18:10:25,067 - #11 ]
+INFO  18:10:25,068 - #9 ,
+INFO  18:10:25,068 - #44 e
+INFO  18:10:25,068 - #7 ;
+INFO  18:10:25,068 - #44 char
+INFO  18:10:25,068 - #44 a
+INFO  18:10:25,068 - #10 [
+INFO  18:10:25,068 - #11 ]
+INFO  18:10:25,068 - #9 ,
+INFO  18:10:25,068 - #44 aa
+INFO  18:10:25,068 - #7 ;
+INFO  18:10:25,068 - #44 bool
+INFO  18:10:25,068 - #44 gggg
+INFO  18:10:25,068 - #7 ;
+INFO  18:10:25,068 - #5 const
+INFO  18:10:25,069 - #44 int
+INFO  18:10:25,069 - #44 size
+INFO  18:10:25,069 - #6 =
+INFO  18:10:25,069 - #43 10
+INFO  18:10:25,069 - #9 ,
+INFO  18:10:25,069 - #44 width
+INFO  18:10:25,069 - #6 =
+INFO  18:10:25,069 - #43 50
+INFO  18:10:25,069 - #9 ,
+INFO  18:10:25,069 - #44 length
+INFO  18:10:25,069 - #6 =
+INFO  18:10:25,069 - #43 100
+INFO  18:10:25,069 - #7 ;
+INFO  18:10:25,069 - #5 const
+INFO  18:10:25,070 - #44 bool
+INFO  18:10:25,070 - #44 b
+INFO  18:10:25,070 - #6 =
+INFO  18:10:25,070 - #45 true
+INFO  18:10:25,070 - #7 ;
+INFO  18:10:25,070 - #5 const
+INFO  18:10:25,070 - #44 char
+INFO  18:10:25,070 - #44 karakter
+INFO  18:10:25,070 - #6 =
+INFO  18:10:25,070 - #46 b
+INFO  18:10:25,070 - #7 ;
+INFO  18:10:25,070 - #8 class
+INFO  18:10:25,071 - #44 Table
+INFO  18:10:25,071 - #3 {
+INFO  18:10:25,071 - #44 int
+INFO  18:10:25,071 - #44 pos
+INFO  18:10:25,071 - #10 [
+INFO  18:10:25,071 - #11 ]
+INFO  18:10:25,071 - #9 ,
+INFO  18:10:25,071 - #44 neg
+INFO  18:10:25,071 - #10 [
+INFO  18:10:25,071 - #11 ]
+INFO  18:10:25,071 - #9 ,
+INFO  18:10:25,071 - #44 factor
+INFO  18:10:25,071 - #7 ;
+INFO  18:10:25,071 - #3 {
+INFO  18:10:25,071 - #44 Table
+INFO  18:10:25,072 - #13 (
+INFO  18:10:25,072 - #44 int
+INFO  18:10:25,072 - #44 factor
+INFO  18:10:25,072 - #14 )
+INFO  18:10:25,072 - #3 {
+INFO  18:10:25,072 - #44 this
+INFO  18:10:25,072 - #24 .
+INFO  18:10:25,073 - #44 factor
+INFO  18:10:25,073 - #6 =
+INFO  18:10:25,073 - #44 factor
+INFO  18:10:25,073 - #7 ;
+INFO  18:10:25,073 - #4 }
+INFO  18:10:25,073 - #15 void
+INFO  18:10:25,073 - #44 putp
+INFO  18:10:25,073 - #13 (
+INFO  18:10:25,073 - #44 int
+INFO  18:10:25,073 - #44 a
+INFO  18:10:25,073 - #9 ,
+INFO  18:10:25,074 - #44 int
+INFO  18:10:25,074 - #44 idx
+INFO  18:10:25,074 - #14 )
+INFO  18:10:25,074 - #3 {
+INFO  18:10:25,074 - #44 this
+INFO  18:10:25,074 - #24 .
+INFO  18:10:25,074 - #44 pos
+INFO  18:10:25,074 - #10 [
+INFO  18:10:25,074 - #44 idx
+INFO  18:10:25,074 - #11 ]
+INFO  18:10:25,074 - #6 =
+INFO  18:10:25,074 - #44 a
+INFO  18:10:25,074 - #7 ;
+INFO  18:10:25,074 - #4 }
+INFO  18:10:25,074 - #15 void
+INFO  18:10:25,074 - #44 putn
+INFO  18:10:25,074 - #13 (
+INFO  18:10:25,074 - #44 int
+INFO  18:10:25,074 - #44 a
+INFO  18:10:25,074 - #9 ,
+INFO  18:10:25,074 - #44 int
+INFO  18:10:25,074 - #44 idx
+INFO  18:10:25,075 - #14 )
+INFO  18:10:25,075 - #3 {
+INFO  18:10:25,075 - #44 this
+INFO  18:10:25,075 - #24 .
+INFO  18:10:25,075 - #44 neg
+INFO  18:10:25,075 - #10 [
+INFO  18:10:25,075 - #44 idx
+INFO  18:10:25,075 - #11 ]
+INFO  18:10:25,075 - #6 =
+INFO  18:10:25,075 - #44 a
+INFO  18:10:25,075 - #7 ;
+INFO  18:10:25,075 - #4 }
+INFO  18:10:25,075 - #44 int
+INFO  18:10:25,075 - #44 getp
+INFO  18:10:25,075 - #13 (
+INFO  18:10:25,075 - #44 int
+INFO  18:10:25,075 - #44 idx
+INFO  18:10:25,075 - #14 )
+INFO  18:10:25,075 - #3 {
+INFO  18:10:25,075 - #21 return
+INFO  18:10:25,075 - #44 pos
+INFO  18:10:25,075 - #10 [
+INFO  18:10:25,075 - #44 idx
+INFO  18:10:25,075 - #11 ]
+INFO  18:10:25,075 - #7 ;
+INFO  18:10:25,075 - #4 }
+INFO  18:10:25,076 - #44 int
+INFO  18:10:25,076 - #44 getn
+INFO  18:10:25,076 - #13 (
+INFO  18:10:25,076 - #44 int
+INFO  18:10:25,076 - #44 idx
+INFO  18:10:25,076 - #14 )
+INFO  18:10:25,076 - #3 {
+INFO  18:10:25,076 - #21 return
+INFO  18:10:25,076 - #44 neg
+INFO  18:10:25,076 - #10 [
+INFO  18:10:25,076 - #44 idx
+INFO  18:10:25,076 - #11 ]
+INFO  18:10:25,076 - #7 ;
+INFO  18:10:25,076 - #4 }
+INFO  18:10:25,076 - #4 }
+INFO  18:10:25,076 - #4 }
+INFO  18:10:25,076 - #8 class
+INFO  18:10:25,077 - #44 GlassTable
+INFO  18:10:25,077 - #12 extends
+INFO  18:10:25,077 - #44 Table
+INFO  18:10:25,077 - #3 {
+INFO  18:10:25,077 - #4 }
+INFO  18:10:25,077 - #8 class
+INFO  18:10:25,077 - #44 GlassBottle
+INFO  18:10:25,077 - #12 extends
+INFO  18:10:25,077 - #44 Bottle
+INFO  18:10:25,077 - #3 {
+INFO  18:10:25,077 - #4 }
+INFO  18:10:25,077 - #3 {
+INFO  18:10:25,077 - #44 int
+INFO  18:10:25,077 - #44 main
+INFO  18:10:25,077 - #13 (
+INFO  18:10:25,078 - #14 )
+INFO  18:10:25,078 - #44 char
+INFO  18:10:25,078 - #44 niz
+INFO  18:10:25,079 - #10 [
+INFO  18:10:25,079 - #11 ]
+INFO  18:10:25,079 - #7 ;
+INFO  18:10:25,079 - #3 {
+INFO  18:10:25,079 - #21 return
+INFO  18:10:25,079 - #43 1
+INFO  18:10:25,079 - #7 ;
+INFO  18:10:25,079 - #4 }
+INFO  18:10:25,079 - #4 }
+INFO  18:10:25,082 - Deklarisana globalna promenljiva "c" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,082 - Deklarisan globalni niz "d" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,082 - Deklarisana globalna promenljiva "e" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,082 - Deklarisan globalni niz "a" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,082 - Deklarisana globalna promenljiva "aa" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,082 - Deklarisana globalna promenljiva "gggg" na liniji 4 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,082 - Deklarisana simbolicka konstanta "size" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,082 - Deklarisana simbolicka konstanta "width" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,082 - Deklarisana simbolicka konstanta "length" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,082 - Deklarisana simbolicka konstanta "b" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,083 - Deklarisana simbolicka konstanta "karakter" na liniji 7 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,083 - Deklarisan lokalni niz "pos" na liniji 9 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,083 - Deklarisan lokalni niz "neg" na liniji 9 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,083 - Deklarisana lokalna promenljiva "factor" na liniji 9 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+ERROR 18:10:25,083 - Nije pronadjen tip Table u tabeli simbola!
+INFO  18:10:25,083 - Deklarisana klasa Table na liniji 8
+INFO  18:10:25,083 - Deklarisana klasa GlassTable na liniji 19
+ERROR 18:10:25,083 - Nije pronadjen tip Bottle u tabeli simbola!
+INFO  18:10:25,083 - Deklarisana klasa GlassBottle na liniji 23
+ERROR 18:10:25,083 - Greska na liniji 23: Ne postoji nadklasa noObj u tabeli simbola!
+INFO  18:10:25,083 - Deklarisan lokalni niz "niz" na liniji 28 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:10:25,083 - ===================================

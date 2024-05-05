@@ -1,0 +1,45 @@
+INFO  18:25:26,210 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  18:25:26,234 - #2 program
+INFO  18:25:26,235 - #44 MJProgram
+INFO  18:25:26,235 - #44 int
+INFO  18:25:26,235 - #44 x
+INFO  18:25:26,235 - #7 ;
+INFO  18:25:26,236 - #44 int
+INFO  18:25:26,236 - #44 y
+INFO  18:25:26,236 - #9 ,
+INFO  18:25:26,236 - #44 z
+INFO  18:25:26,236 - #7 ;
+INFO  18:25:26,236 - #3 {
+INFO  18:25:26,236 - #44 int
+INFO  18:25:26,236 - #44 main
+INFO  18:25:26,237 - #13 (
+INFO  18:25:26,237 - #14 )
+INFO  18:25:26,237 - #3 {
+INFO  18:25:26,237 - #44 x
+INFO  18:25:26,238 - #6 =
+INFO  18:25:26,238 - #43 3
+INFO  18:25:26,238 - #7 ;
+INFO  18:25:26,238 - #44 y
+INFO  18:25:26,239 - #6 =
+INFO  18:25:26,239 - #13 (
+INFO  18:25:26,239 - #43 4
+INFO  18:25:26,239 - #38 +
+INFO  18:25:26,239 - #43 9
+INFO  18:25:26,239 - #14 )
+INFO  18:25:26,240 - #40 *
+INFO  18:25:26,240 - #44 x
+INFO  18:25:26,240 - #38 +
+INFO  18:25:26,240 - #43 1
+INFO  18:25:26,240 - #7 ;
+INFO  18:25:26,240 - #44 z
+INFO  18:25:26,240 - #6 =
+INFO  18:25:26,240 - #44 y
+INFO  18:25:26,240 - #38 +
+INFO  18:25:26,240 - #44 x
+INFO  18:25:26,240 - #7 ;
+INFO  18:25:26,240 - #4 }
+INFO  18:25:26,241 - #4 }
+INFO  18:25:26,243 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:25:26,243 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:25:26,244 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  18:25:26,244 - ===================================

@@ -1,0 +1,60 @@
+INFO  01:01:04,286 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program6.mj
+INFO  01:01:04,311 - #2 program
+INFO  01:01:04,311 - #44 MJProgram
+INFO  01:01:04,311 - #44 int
+INFO  01:01:04,312 - #44 x
+INFO  01:01:04,312 - #7 ;
+INFO  01:01:04,312 - #44 int
+INFO  01:01:04,312 - #44 y
+INFO  01:01:04,312 - #7 ;
+INFO  01:01:04,312 - #44 char
+INFO  01:01:04,312 - #44 z
+INFO  01:01:04,313 - #7 ;
+INFO  01:01:04,313 - #3 {
+INFO  01:01:04,313 - #44 int
+INFO  01:01:04,313 - #44 main
+INFO  01:01:04,313 - #13 (
+INFO  01:01:04,313 - #14 )
+INFO  01:01:04,314 - #3 {
+INFO  01:01:04,314 - #44 y
+INFO  01:01:04,314 - #6 =
+INFO  01:01:04,314 - #43 1
+INFO  01:01:04,315 - #7 ;
+INFO  01:01:04,315 - #44 x
+INFO  01:01:04,315 - #6 =
+INFO  01:01:04,315 - #43 3
+INFO  01:01:04,315 - #7 ;
+INFO  01:01:04,315 - #18 while
+INFO  01:01:04,315 - #13 (
+INFO  01:01:04,316 - #44 y
+INFO  01:01:04,316 - #36 <
+INFO  01:01:04,316 - #43 4
+INFO  01:01:04,316 - #29 ||
+INFO  01:01:04,316 - #44 x
+INFO  01:01:04,316 - #32 ==
+INFO  01:01:04,316 - #43 2
+INFO  01:01:04,317 - #30 &&
+INFO  01:01:04,317 - #44 y
+INFO  01:01:04,317 - #36 <
+INFO  01:01:04,317 - #43 6
+INFO  01:01:04,317 - #14 )
+INFO  01:01:04,317 - #3 {
+INFO  01:01:04,318 - #22 print
+INFO  01:01:04,318 - #13 (
+INFO  01:01:04,318 - #46 g
+INFO  01:01:04,318 - #14 )
+INFO  01:01:04,318 - #7 ;
+INFO  01:01:04,318 - #44 y
+INFO  01:01:04,318 - #27 ++
+INFO  01:01:04,318 - #7 ;
+INFO  01:01:04,318 - #4 }
+INFO  01:01:04,318 - #21 return
+INFO  01:01:04,319 - #43 1
+INFO  01:01:04,319 - #7 ;
+INFO  01:01:04,319 - #4 }
+INFO  01:01:04,319 - #4 }
+INFO  01:01:04,322 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:01:04,322 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:01:04,322 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:01:04,322 - form pars: 0; total vars: 0
+INFO  01:01:04,322 - ===================================

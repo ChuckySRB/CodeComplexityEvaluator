@@ -1,0 +1,98 @@
+INFO  03:47:06,770 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program7.mj
+INFO  03:47:06,795 - #2 program
+INFO  03:47:06,795 - #44 MJProgram
+INFO  03:47:06,795 - #44 int
+INFO  03:47:06,796 - #44 x
+INFO  03:47:06,796 - #7 ;
+INFO  03:47:06,796 - #44 int
+INFO  03:47:06,796 - #44 y
+INFO  03:47:06,796 - #10 [
+INFO  03:47:06,796 - #11 ]
+INFO  03:47:06,796 - #7 ;
+INFO  03:47:06,796 - #44 char
+INFO  03:47:06,796 - #44 z
+INFO  03:47:06,796 - #7 ;
+INFO  03:47:06,797 - #3 {
+INFO  03:47:06,797 - #44 int
+INFO  03:47:06,797 - #44 calc
+INFO  03:47:06,797 - #13 (
+INFO  03:47:06,797 - #44 int
+INFO  03:47:06,798 - #44 x
+INFO  03:47:06,798 - #9 ,
+INFO  03:47:06,798 - #44 int
+INFO  03:47:06,798 - #44 y
+INFO  03:47:06,798 - #9 ,
+INFO  03:47:06,798 - #44 char
+INFO  03:47:06,798 - #44 z
+INFO  03:47:06,798 - #14 )
+INFO  03:47:06,799 - #3 {
+INFO  03:47:06,799 - #22 print
+INFO  03:47:06,799 - #13 (
+INFO  03:47:06,799 - #44 z
+INFO  03:47:06,799 - #14 )
+INFO  03:47:06,799 - #7 ;
+INFO  03:47:06,800 - #21 return
+INFO  03:47:06,800 - #44 x
+INFO  03:47:06,800 - #39 -
+INFO  03:47:06,800 - #44 y
+INFO  03:47:06,800 - #7 ;
+INFO  03:47:06,800 - #4 }
+INFO  03:47:06,800 - #44 int
+INFO  03:47:06,800 - #44 main
+INFO  03:47:06,800 - #13 (
+INFO  03:47:06,800 - #14 )
+INFO  03:47:06,801 - #3 {
+INFO  03:47:06,801 - #44 y
+INFO  03:47:06,801 - #6 =
+INFO  03:47:06,801 - #31 new
+INFO  03:47:06,801 - #44 int
+INFO  03:47:06,801 - #10 [
+INFO  03:47:06,801 - #43 4
+INFO  03:47:06,801 - #11 ]
+INFO  03:47:06,801 - #7 ;
+INFO  03:47:06,802 - #44 y
+INFO  03:47:06,802 - #10 [
+INFO  03:47:06,802 - #43 3
+INFO  03:47:06,802 - #11 ]
+INFO  03:47:06,802 - #6 =
+INFO  03:47:06,802 - #43 13
+INFO  03:47:06,802 - #7 ;
+INFO  03:47:06,802 - #44 x
+INFO  03:47:06,802 - #6 =
+INFO  03:47:06,802 - #43 3
+INFO  03:47:06,802 - #7 ;
+INFO  03:47:06,802 - #44 z
+INFO  03:47:06,802 - #6 =
+INFO  03:47:06,802 - #46 b
+INFO  03:47:06,802 - #7 ;
+INFO  03:47:06,802 - #22 print
+INFO  03:47:06,802 - #13 (
+INFO  03:47:06,802 - #44 calc
+INFO  03:47:06,803 - #13 (
+INFO  03:47:06,803 - #44 y
+INFO  03:47:06,803 - #10 [
+INFO  03:47:06,803 - #43 3
+INFO  03:47:06,803 - #11 ]
+INFO  03:47:06,803 - #9 ,
+INFO  03:47:06,803 - #44 x
+INFO  03:47:06,803 - #9 ,
+INFO  03:47:06,803 - #44 z
+INFO  03:47:06,803 - #14 )
+INFO  03:47:06,803 - #14 )
+INFO  03:47:06,803 - #7 ;
+INFO  03:47:06,803 - #21 return
+INFO  03:47:06,803 - #43 1
+INFO  03:47:06,803 - #7 ;
+INFO  03:47:06,803 - #4 }
+INFO  03:47:06,803 - #4 }
+INFO  03:47:06,807 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:47:06,807 - Deklarisan globalni niz "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:47:06,807 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:47:06,807 - Deklarisan formalni argument "x" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:47:06,807 - Deklarisan formalni argument "y" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:47:06,807 - Deklarisan formalni argument "z" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  03:47:06,807 - form pars: 3; total vars: 3
+ERROR 03:47:06,807 - Greska na liniji 14: Nekompatibilni tipovi u dodeli vrednosti!
+ERROR 03:47:06,807 - Greska na liniji 18: Pogresan tip argumenta na poziciji 0 pri pozivu metodecalc!
+INFO  03:47:06,808 - form pars: 0; total vars: 0
+INFO  03:47:06,808 - ===================================

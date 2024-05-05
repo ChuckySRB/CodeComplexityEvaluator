@@ -1,0 +1,10 @@
+program p
+
+{
+	int main()
+		//char niz[];
+	{
+	print(ord('a'));
+	return 1;
+	}
+}		

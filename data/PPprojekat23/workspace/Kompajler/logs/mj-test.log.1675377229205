@@ -1,0 +1,91 @@
+INFO  23:32:32,241 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program9.mj
+INFO  23:32:32,267 - #2 program
+INFO  23:32:32,267 - #44 p
+INFO  23:32:32,267 - #3 {
+INFO  23:32:32,267 - #44 int
+INFO  23:32:32,268 - #44 main
+INFO  23:32:32,268 - #13 (
+INFO  23:32:32,268 - #14 )
+INFO  23:32:32,269 - #3 {
+INFO  23:32:32,269 - #22 print
+INFO  23:32:32,269 - #13 (
+INFO  23:32:32,269 - #44 chr
+INFO  23:32:32,269 - #13 (
+INFO  23:32:32,269 - #43 97
+INFO  23:32:32,270 - #14 )
+INFO  23:32:32,270 - #14 )
+INFO  23:32:32,270 - #7 ;
+INFO  23:32:32,270 - #21 return
+INFO  23:32:32,270 - #43 1
+INFO  23:32:32,270 - #7 ;
+INFO  23:32:32,270 - #4 }
+INFO  23:32:32,270 - #4 }
+INFO  23:32:32,271 - Program(
+  ProgName(
+   p
+  ) [ProgName]
+  NoItemDecl(
+  ) [NoItemDecl]
+  TypeMethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    FunType(
+      Type(
+       int
+      ) [Type]
+    ) [FunType]
+    MethodName(
+     main
+    ) [MethodName]
+    NoFormPars(
+    ) [NoFormPars]
+    NoVarDeclarations(
+    ) [NoVarDeclarations]
+    StatementListNonEmpty(
+      StatementListNonEmpty(
+        NoStatements(
+        ) [NoStatements]
+        PrintStatementNoWidth(
+          PosExpr(
+            ExprSingleTerm(
+              SingleTerm(
+                FactorFuncCall(
+                  DesiOnlyIdent(
+                   chr
+                  ) [DesiOnlyIdent]
+                  ActParsNonEmpty(
+                    SingleActPar(
+                      PosExpr(
+                        ExprSingleTerm(
+                          SingleTerm(
+                            FactorNum(
+                             97
+                            ) [FactorNum]
+                          ) [SingleTerm]
+                        ) [ExprSingleTerm]
+                      ) [PosExpr]
+                    ) [SingleActPar]
+                  ) [ActParsNonEmpty]
+                ) [FactorFuncCall]
+              ) [SingleTerm]
+            ) [ExprSingleTerm]
+          ) [PosExpr]
+        ) [PrintStatementNoWidth]
+      ) [StatementListNonEmpty]
+      ReturnStatementNonEmpty(
+        PosExpr(
+          ExprSingleTerm(
+            SingleTerm(
+              FactorNum(
+               1
+              ) [FactorNum]
+            ) [SingleTerm]
+          ) [ExprSingleTerm]
+        ) [PosExpr]
+      ) [ReturnStatementNonEmpty]
+    ) [StatementListNonEmpty]
+  ) [TypeMethodDeclarations]
+) [Program]
+INFO  23:32:32,271 - ===================================
+INFO  23:32:32,274 - form pars: 0; total vars: 0
+INFO  23:32:32,274 - ===================================

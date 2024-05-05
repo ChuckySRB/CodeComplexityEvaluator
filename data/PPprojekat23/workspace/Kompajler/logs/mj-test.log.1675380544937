@@ -1,0 +1,45 @@
+INFO  00:25:43,313 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program9.mj
+INFO  00:25:43,337 - #2 program
+INFO  00:25:43,337 - #44 p
+INFO  00:25:43,337 - #3 {
+INFO  00:25:43,338 - #44 char
+INFO  00:25:43,338 - #44 fun
+INFO  00:25:43,339 - #13 (
+INFO  00:25:43,339 - #44 int
+INFO  00:25:43,339 - #44 i
+INFO  00:25:43,339 - #14 )
+INFO  00:25:43,339 - #3 {
+INFO  00:25:43,339 - #21 return
+INFO  00:25:43,340 - #46 a
+INFO  00:25:43,340 - #7 ;
+INFO  00:25:43,340 - #4 }
+INFO  00:25:43,340 - #44 int
+INFO  00:25:43,340 - #44 main
+INFO  00:25:43,340 - #13 (
+INFO  00:25:43,340 - #14 )
+INFO  00:25:43,341 - #44 int
+INFO  00:25:43,341 - #44 in
+INFO  00:25:43,341 - #7 ;
+INFO  00:25:43,342 - #3 {
+INFO  00:25:43,342 - #44 in
+INFO  00:25:43,342 - #6 =
+INFO  00:25:43,342 - #43 5
+INFO  00:25:43,342 - #7 ;
+INFO  00:25:43,342 - #22 print
+INFO  00:25:43,342 - #13 (
+INFO  00:25:43,342 - #44 chr
+INFO  00:25:43,342 - #13 (
+INFO  00:25:43,342 - #44 in
+INFO  00:25:43,342 - #14 )
+INFO  00:25:43,343 - #14 )
+INFO  00:25:43,343 - #7 ;
+INFO  00:25:43,343 - #43 5
+ERROR 00:25:43,343 - 
+Sintaksna greska na liniji 12
+INFO  00:25:43,343 - #21 return
+INFO  00:25:43,343 - #43 1
+INFO  00:25:43,343 - #7 ;
+INFO  00:25:43,343 - #4 }
+INFO  00:25:43,343 - #4 }
+ERROR 00:25:43,343 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 16
+INFO  00:25:43,343 - Parsiranje nije uspesno zavrseno!

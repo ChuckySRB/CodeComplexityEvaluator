@@ -1,0 +1,45 @@
+INFO  18:15:04,174 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  18:15:04,199 - #2 program
+INFO  18:15:04,199 - #44 MJProgram
+INFO  18:15:04,199 - #44 int
+INFO  18:15:04,199 - #44 x
+INFO  18:15:04,200 - #9 ,
+INFO  18:15:04,200 - #44 int
+INFO  18:15:04,200 - #44 y
+ERROR 18:15:04,200 - 
+Sintaksna greska na liniji 3
+INFO  18:15:04,200 - #9 ,
+INFO  18:15:04,200 - #44 int
+INFO  18:15:04,200 - #44 z
+INFO  18:15:04,200 - #7 ;
+ERROR 18:15:04,200 - Izvrsen oporavak do , u liniji 3
+INFO  18:15:04,201 - #3 {
+INFO  18:15:04,201 - #44 int
+INFO  18:15:04,201 - #44 main
+INFO  18:15:04,201 - #13 (
+INFO  18:15:04,202 - #14 )
+INFO  18:15:04,202 - #3 {
+INFO  18:15:04,202 - #44 x
+INFO  18:15:04,203 - #6 =
+INFO  18:15:04,203 - #43 3
+INFO  18:15:04,203 - #7 ;
+INFO  18:15:04,203 - #44 y
+INFO  18:15:04,203 - #6 =
+INFO  18:15:04,203 - #43 4
+INFO  18:15:04,204 - #38 +
+INFO  18:15:04,204 - #43 9
+INFO  18:15:04,204 - #7 ;
+INFO  18:15:04,204 - #44 z
+INFO  18:15:04,204 - #6 =
+INFO  18:15:04,204 - #44 y
+INFO  18:15:04,204 - #38 +
+INFO  18:15:04,204 - #44 x
+INFO  18:15:04,204 - #7 ;
+INFO  18:15:04,204 - #4 }
+INFO  18:15:04,204 - #4 }
+INFO  18:15:04,207 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+ERROR 18:15:04,207 - Greska na liniji 6: Nije pronadjena promenljivax u tabeli simbola!
+ERROR 18:15:04,208 - Greska na liniji 10: Nije pronadjena promenljivay u tabeli simbola!
+ERROR 18:15:04,208 - Greska na liniji 12: Nije pronadjena promenljivay u tabeli simbola!
+ERROR 18:15:04,208 - Greska na liniji 12: Nije pronadjena promenljivax u tabeli simbola!
+INFO  18:15:04,208 - ===================================

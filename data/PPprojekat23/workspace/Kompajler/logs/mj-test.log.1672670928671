@@ -1,0 +1,47 @@
+INFO  15:48:38,799 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  15:48:38,824 - #2 program
+INFO  15:48:38,824 - #44 p
+INFO  15:48:38,824 - #5 const
+INFO  15:48:38,824 - #44 int
+INFO  15:48:38,824 - #44 size
+INFO  15:48:38,824 - #6 =
+INFO  15:48:38,825 - #43 10
+INFO  15:48:38,825 - #7 ;
+INFO  15:48:38,825 - #8 class
+INFO  15:48:38,825 - #44 Table
+INFO  15:48:38,825 - #3 {
+INFO  15:48:38,825 - #4 }
+INFO  15:48:38,825 - #3 {
+INFO  15:48:38,826 - #4 }
+INFO  15:48:38,826 - Program(
+ p
+  ClassItemDecl(
+    ConstItemDecl(
+      NoItemDecl(
+      ) [NoItemDecl]
+      ConstDeclarations(
+        Type(
+         int
+        ) [Type]
+        SingleConstDecl(
+         size
+          NumConst(
+           10
+          ) [NumConst]
+        ) [SingleConstDecl]
+      ) [ConstDeclarations]
+    ) [ConstItemDecl]
+    ClassDeclNoExtends(
+     Table
+      ClassBodyNoVars(
+        ClassNoCstrNoMethods(
+        ) [ClassNoCstrNoMethods]
+      ) [ClassBodyNoVars]
+    ) [ClassDeclNoExtends]
+  ) [ClassItemDecl]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  15:48:38,827 - ===================================
+INFO  15:48:38,827 -  Print count calls = 0
+INFO  15:48:38,827 -  Deklarisanih promenljivih ima = 0

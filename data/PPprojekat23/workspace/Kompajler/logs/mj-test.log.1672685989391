@@ -1,0 +1,216 @@
+INFO  19:59:16,506 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program.mj
+INFO  19:59:16,530 - #2 program
+INFO  19:59:16,530 - #44 p
+INFO  19:59:16,530 - #5 const
+INFO  19:59:16,531 - #44 int
+INFO  19:59:16,531 - #44 size
+INFO  19:59:16,531 - #6 =
+INFO  19:59:16,531 - #43 10
+INFO  19:59:16,531 - #9 ,
+INFO  19:59:16,531 - #44 mame
+INFO  19:59:16,531 - #6 =
+INFO  19:59:16,531 - #43 199
+INFO  19:59:16,531 - #7 ;
+INFO  19:59:16,531 - #5 const
+INFO  19:59:16,532 - #44 char
+INFO  19:59:16,532 - #44 znak
+INFO  19:59:16,532 - #6 =
+INFO  19:59:16,532 - #46 5
+INFO  19:59:16,532 - #7 ;
+INFO  19:59:16,532 - #44 bool
+INFO  19:59:16,532 - #44 prvi
+INFO  19:59:16,532 - #10 [
+INFO  19:59:16,532 - #11 ]
+INFO  19:59:16,532 - #9 ,
+INFO  19:59:16,533 - #44 drugi
+INFO  19:59:16,533 - #7 ;
+INFO  19:59:16,533 - #8 class
+INFO  19:59:16,533 - #44 Table
+INFO  19:59:16,533 - #3 {
+INFO  19:59:16,533 - #44 int
+INFO  19:59:16,533 - #44 pos
+INFO  19:59:16,533 - #10 [
+INFO  19:59:16,533 - #11 ]
+INFO  19:59:16,534 - #9 ,
+INFO  19:59:16,534 - #44 neg
+INFO  19:59:16,534 - #10 [
+INFO  19:59:16,534 - #11 ]
+INFO  19:59:16,534 - #9 ,
+INFO  19:59:16,534 - #44 factor
+INFO  19:59:16,534 - #7 ;
+INFO  19:59:16,534 - #44 char
+INFO  19:59:16,534 - #44 opa
+INFO  19:59:16,534 - #10 [
+INFO  19:59:16,534 - #11 ]
+INFO  19:59:16,534 - #9 ,
+INFO  19:59:16,534 - #44 peti
+INFO  19:59:16,534 - #7 ;
+INFO  19:59:16,534 - #4 }
+INFO  19:59:16,535 - #8 class
+INFO  19:59:16,535 - #44 Angle
+INFO  19:59:16,535 - #12 extends
+INFO  19:59:16,535 - #44 Math
+INFO  19:59:16,535 - #3 {
+INFO  19:59:16,535 - #3 {
+INFO  19:59:16,535 - #4 }
+INFO  19:59:16,535 - #4 }
+INFO  19:59:16,535 - #44 Table
+INFO  19:59:16,535 - #44 val
+INFO  19:59:16,535 - #7 ;
+INFO  19:59:16,535 - #44 Int
+INFO  19:59:16,535 - #44 rows
+INFO  19:59:16,535 - #9 ,
+INFO  19:59:16,536 - #44 columns
+INFO  19:59:16,536 - #7 ;
+INFO  19:59:16,536 - #3 {
+INFO  19:59:16,536 - #4 }
+INFO  19:59:16,536 - Program(
+ p
+  VarItemDecl(
+    VarItemDecl(
+      ClassItemDecl(
+        ClassItemDecl(
+          VarItemDecl(
+            ConstItemDecl(
+              ConstItemDecl(
+                NoItemDecl(
+                ) [NoItemDecl]
+                ConstDeclarations(
+                  Type(
+                   int
+                  ) [Type]
+                  MultipleConstDecl(
+                    SingleConstDecl(
+                     size
+                      NumConst(
+                       10
+                      ) [NumConst]
+                    ) [SingleConstDecl]
+                   mame
+                    NumConst(
+                     199
+                    ) [NumConst]
+                  ) [MultipleConstDecl]
+                ) [ConstDeclarations]
+              ) [ConstItemDecl]
+              ConstDeclarations(
+                Type(
+                 char
+                ) [Type]
+                SingleConstDecl(
+                 znak
+                  CharConst(
+                   5
+                  ) [CharConst]
+                ) [SingleConstDecl]
+              ) [ConstDeclarations]
+            ) [ConstItemDecl]
+            VarNonEmpty(
+              Type(
+               bool
+              ) [Type]
+              MultipleVarDecl(
+                SingleVarDecl(
+                  VarArray(
+                   prvi
+                  ) [VarArray]
+                ) [SingleVarDecl]
+                VarNoArray(
+                 drugi
+                ) [VarNoArray]
+              ) [MultipleVarDecl]
+            ) [VarNonEmpty]
+          ) [VarItemDecl]
+          ClassDeclNoExtends(
+           Table
+            ClassBody(
+              MultipleVarDeclarations(
+                MultipleVarDeclarations(
+                  NoVarDeclarations(
+                  ) [NoVarDeclarations]
+                  Type(
+                   int
+                  ) [Type]
+                  MultipleVarDecl(
+                    MultipleVarDecl(
+                      SingleVarDecl(
+                        VarArray(
+                         pos
+                        ) [VarArray]
+                      ) [SingleVarDecl]
+                      VarArray(
+                       neg
+                      ) [VarArray]
+                    ) [MultipleVarDecl]
+                    VarNoArray(
+                     factor
+                    ) [VarNoArray]
+                  ) [MultipleVarDecl]
+                ) [MultipleVarDeclarations]
+                Type(
+                 char
+                ) [Type]
+                MultipleVarDecl(
+                  SingleVarDecl(
+                    VarArray(
+                     opa
+                    ) [VarArray]
+                  ) [SingleVarDecl]
+                  VarNoArray(
+                   peti
+                  ) [VarNoArray]
+                ) [MultipleVarDecl]
+              ) [MultipleVarDeclarations]
+              ClassNoCstrNoMethods(
+              ) [ClassNoCstrNoMethods]
+            ) [ClassBody]
+          ) [ClassDeclNoExtends]
+        ) [ClassItemDecl]
+        ClassDeclExtends(
+         Angle
+          Type(
+           Math
+          ) [Type]
+          ClassBody(
+            NoVarDeclarations(
+            ) [NoVarDeclarations]
+            ClassOnlyBraces(
+              NoCstrOrMethodDecl(
+              ) [NoCstrOrMethodDecl]
+            ) [ClassOnlyBraces]
+          ) [ClassBody]
+        ) [ClassDeclExtends]
+      ) [ClassItemDecl]
+      VarNonEmpty(
+        Type(
+         Table
+        ) [Type]
+        SingleVarDecl(
+          VarNoArray(
+           val
+          ) [VarNoArray]
+        ) [SingleVarDecl]
+      ) [VarNonEmpty]
+    ) [VarItemDecl]
+    VarNonEmpty(
+      Type(
+       Int
+      ) [Type]
+      MultipleVarDecl(
+        SingleVarDecl(
+          VarNoArray(
+           rows
+          ) [VarNoArray]
+        ) [SingleVarDecl]
+        VarNoArray(
+         columns
+        ) [VarNoArray]
+      ) [MultipleVarDecl]
+    ) [VarNonEmpty]
+  ) [VarItemDecl]
+  NoMethodDeclarations(
+  ) [NoMethodDeclarations]
+) [Program]
+INFO  19:59:16,537 - ===================================
+INFO  19:59:16,537 -  Void methods = 0
+INFO  19:59:16,537 -  Type methods = 0

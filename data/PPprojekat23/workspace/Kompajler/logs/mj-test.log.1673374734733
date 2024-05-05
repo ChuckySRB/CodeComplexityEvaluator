@@ -1,0 +1,59 @@
+INFO  19:18:15,315 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  19:18:15,340 - #2 program
+INFO  19:18:15,340 - #44 MJProgram
+INFO  19:18:15,340 - #44 int
+INFO  19:18:15,341 - #44 x
+INFO  19:18:15,341 - #7 ;
+INFO  19:18:15,341 - #44 int
+INFO  19:18:15,341 - #44 y
+INFO  19:18:15,341 - #7 ;
+INFO  19:18:15,341 - #44 char
+INFO  19:18:15,341 - #44 z
+INFO  19:18:15,341 - #7 ;
+INFO  19:18:15,341 - #3 {
+INFO  19:18:15,341 - #44 int
+INFO  19:18:15,342 - #44 main
+INFO  19:18:15,342 - #13 (
+INFO  19:18:15,342 - #14 )
+INFO  19:18:15,343 - #3 {
+INFO  19:18:15,343 - #44 x
+INFO  19:18:15,343 - #6 =
+INFO  19:18:15,343 - #43 3
+INFO  19:18:15,344 - #7 ;
+INFO  19:18:15,344 - #44 y
+INFO  19:18:15,344 - #6 =
+INFO  19:18:15,344 - #43 1
+INFO  19:18:15,344 - #7 ;
+INFO  19:18:15,344 - #16 if
+INFO  19:18:15,344 - #13 (
+INFO  19:18:15,344 - #44 x
+INFO  19:18:15,344 - #32 ==
+INFO  19:18:15,344 - #43 3
+INFO  19:18:15,345 - #14 )
+INFO  19:18:15,345 - #16 if
+INFO  19:18:15,345 - #13 (
+INFO  19:18:15,345 - #44 y
+INFO  19:18:15,345 - #37 <=
+INFO  19:18:15,345 - #43 3
+INFO  19:18:15,345 - #14 )
+INFO  19:18:15,346 - #22 print
+INFO  19:18:15,346 - #13 (
+INFO  19:18:15,346 - #46 t
+INFO  19:18:15,346 - #14 )
+INFO  19:18:15,346 - #7 ;
+INFO  19:18:15,346 - #17 else
+INFO  19:18:15,346 - #22 print
+INFO  19:18:15,346 - #13 (
+INFO  19:18:15,346 - #46 f
+INFO  19:18:15,346 - #14 )
+INFO  19:18:15,346 - #7 ;
+INFO  19:18:15,347 - #21 return
+INFO  19:18:15,347 - #43 1
+INFO  19:18:15,347 - #7 ;
+INFO  19:18:15,347 - #4 }
+INFO  19:18:15,347 - #4 }
+INFO  19:18:15,350 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  19:18:15,350 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  19:18:15,350 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  19:18:15,350 - form pars: 0; total vars: 0
+INFO  19:18:15,350 - ===================================

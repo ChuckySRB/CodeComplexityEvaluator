@@ -1,0 +1,65 @@
+INFO  20:23:43,127 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  20:23:43,152 - #2 program
+INFO  20:23:43,152 - #44 MJProgram
+INFO  20:23:43,152 - #44 int
+INFO  20:23:43,153 - #44 x
+INFO  20:23:43,153 - #7 ;
+INFO  20:23:43,153 - #44 int
+INFO  20:23:43,154 - #44 y
+INFO  20:23:43,154 - #7 ;
+INFO  20:23:43,154 - #44 char
+INFO  20:23:43,154 - #44 z
+INFO  20:23:43,154 - #7 ;
+INFO  20:23:43,154 - #3 {
+INFO  20:23:43,154 - #44 int
+INFO  20:23:43,154 - #44 main
+INFO  20:23:43,155 - #13 (
+INFO  20:23:43,155 - #14 )
+INFO  20:23:43,155 - #3 {
+INFO  20:23:43,155 - #44 x
+INFO  20:23:43,156 - #6 =
+INFO  20:23:43,156 - #43 3
+INFO  20:23:43,156 - #7 ;
+INFO  20:23:43,157 - #44 y
+INFO  20:23:43,157 - #6 =
+INFO  20:23:43,157 - #43 1
+INFO  20:23:43,157 - #7 ;
+INFO  20:23:43,157 - #16 if
+INFO  20:23:43,157 - #13 (
+INFO  20:23:43,157 - #44 x
+INFO  20:23:43,157 - #32 ==
+INFO  20:23:43,157 - #43 3
+INFO  20:23:43,157 - #30 &&
+INFO  20:23:43,158 - #44 y
+INFO  20:23:43,158 - #35 >=
+INFO  20:23:43,158 - #43 2
+INFO  20:23:43,158 - #29 ||
+INFO  20:23:43,158 - #44 y
+INFO  20:23:43,158 - #34 >
+INFO  20:23:43,158 - #43 0
+INFO  20:23:43,158 - #30 &&
+INFO  20:23:43,159 - #44 x
+INFO  20:23:43,159 - #32 ==
+INFO  20:23:43,159 - #43 3
+INFO  20:23:43,159 - #14 )
+INFO  20:23:43,159 - #22 print
+INFO  20:23:43,159 - #13 (
+INFO  20:23:43,159 - #46 g
+INFO  20:23:43,159 - #14 )
+INFO  20:23:43,159 - #7 ;
+INFO  20:23:43,159 - #17 else
+INFO  20:23:43,160 - #22 print
+INFO  20:23:43,160 - #13 (
+INFO  20:23:43,160 - #43 0
+INFO  20:23:43,160 - #14 )
+INFO  20:23:43,160 - #7 ;
+INFO  20:23:43,160 - #21 return
+INFO  20:23:43,160 - #43 1
+INFO  20:23:43,160 - #7 ;
+INFO  20:23:43,160 - #4 }
+INFO  20:23:43,160 - #4 }
+INFO  20:23:43,164 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:23:43,164 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:23:43,164 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:23:43,164 - form pars: 0; total vars: 0
+INFO  20:23:43,164 - ===================================

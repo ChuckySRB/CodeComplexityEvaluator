@@ -1,0 +1,43 @@
+INFO  18:26:02,960 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  18:26:02,984 - #2 program
+INFO  18:26:02,985 - #44 MJProgram
+INFO  18:26:02,985 - #44 int
+INFO  18:26:02,985 - #44 x
+INFO  18:26:02,985 - #7 ;
+INFO  18:26:02,986 - #44 int
+INFO  18:26:02,986 - #44 y
+INFO  18:26:02,986 - #9 ,
+INFO  18:26:02,986 - #44 z
+INFO  18:26:02,986 - #7 ;
+INFO  18:26:02,986 - #3 {
+INFO  18:26:02,986 - #44 int
+INFO  18:26:02,986 - #44 main
+INFO  18:26:02,987 - #13 (
+INFO  18:26:02,987 - #14 )
+INFO  18:26:02,987 - #3 {
+INFO  18:26:02,987 - #44 x
+INFO  18:26:02,988 - #6 =
+INFO  18:26:02,988 - #43 3
+INFO  18:26:02,988 - #7 ;
+INFO  18:26:02,988 - #44 y
+INFO  18:26:02,989 - #6 =
+INFO  18:26:02,989 - #13 (
+INFO  18:26:02,989 - #43 4
+INFO  18:26:02,989 - #38 +
+INFO  18:26:02,989 - #43 9
+INFO  18:26:02,989 - #14 )
+INFO  18:26:02,989 - #40 *
+INFO  18:26:02,989 - #44 x
+INFO  18:26:02,990 - #27 ++
+ERROR 18:26:02,990 - 
+Sintaksna greska na liniji 10
+INFO  18:26:02,990 - #7 ;
+INFO  18:26:02,990 - #44 z
+INFO  18:26:02,990 - #6 =
+INFO  18:26:02,990 - #44 y
+INFO  18:26:02,990 - #38 +
+INFO  18:26:02,990 - #44 x
+INFO  18:26:02,990 - #7 ;
+INFO  18:26:02,990 - #4 }
+INFO  18:26:02,991 - #4 }
+ERROR 18:26:02,991 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

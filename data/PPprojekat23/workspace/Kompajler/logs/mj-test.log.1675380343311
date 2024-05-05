@@ -1,0 +1,42 @@
+INFO  00:23:45,416 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program9.mj
+INFO  00:23:45,441 - #2 program
+INFO  00:23:45,441 - #44 p
+INFO  00:23:45,441 - #3 {
+INFO  00:23:45,442 - #44 char
+INFO  00:23:45,442 - #44 fun
+INFO  00:23:45,443 - #13 (
+INFO  00:23:45,443 - #44 int
+INFO  00:23:45,443 - #44 i
+INFO  00:23:45,443 - #14 )
+INFO  00:23:45,443 - #3 {
+INFO  00:23:45,443 - #21 return
+INFO  00:23:45,444 - #46 a
+INFO  00:23:45,444 - #7 ;
+INFO  00:23:45,444 - #4 }
+INFO  00:23:45,445 - #44 int
+INFO  00:23:45,445 - #44 main
+INFO  00:23:45,445 - #13 (
+INFO  00:23:45,445 - #14 )
+INFO  00:23:45,445 - #44 int
+INFO  00:23:45,445 - #44 in
+INFO  00:23:45,445 - #7 ;
+INFO  00:23:45,446 - #3 {
+INFO  00:23:45,446 - #44 in
+INFO  00:23:45,446 - #6 =
+INFO  00:23:45,446 - #43 5
+INFO  00:23:45,446 - #7 ;
+INFO  00:23:45,446 - #22 print
+INFO  00:23:45,446 - #13 (
+INFO  00:23:45,446 - #44 chr
+INFO  00:23:45,446 - #13 (
+INFO  00:23:45,446 - #44 in
+INFO  00:23:45,446 - #14 )
+INFO  00:23:45,446 - #14 )
+INFO  00:23:45,447 - #7 ;
+INFO  00:23:45,447 - #21 return
+INFO  00:23:45,447 - #43 1
+INFO  00:23:45,447 - #7 ;
+INFO  00:23:45,447 - #4 }
+INFO  00:23:45,447 - #4 }
+INFO  00:23:45,447 - 
+Parsiranje nije uspesno zavrseno zbog leksicke greske!

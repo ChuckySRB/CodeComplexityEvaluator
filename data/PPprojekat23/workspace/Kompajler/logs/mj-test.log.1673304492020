@@ -1,0 +1,65 @@
+INFO  23:46:19,273 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  23:46:19,306 - #2 program
+INFO  23:46:19,306 - #44 MJProgram
+INFO  23:46:19,306 - #44 int
+INFO  23:46:19,307 - #44 x
+INFO  23:46:19,307 - #7 ;
+INFO  23:46:19,307 - #44 int
+INFO  23:46:19,308 - #44 y
+INFO  23:46:19,308 - #7 ;
+INFO  23:46:19,308 - #3 {
+INFO  23:46:19,308 - #44 int
+INFO  23:46:19,308 - #44 k
+INFO  23:46:19,308 - #13 (
+INFO  23:46:19,309 - #14 )
+INFO  23:46:19,309 - #44 int
+INFO  23:46:19,309 - #44 c
+INFO  23:46:19,309 - #7 ;
+INFO  23:46:19,310 - #3 {
+INFO  23:46:19,310 - #44 c
+INFO  23:46:19,310 - #6 =
+INFO  23:46:19,310 - #43 2
+INFO  23:46:19,310 - #7 ;
+INFO  23:46:19,311 - #22 print
+INFO  23:46:19,311 - #13 (
+INFO  23:46:19,311 - #43 0
+INFO  23:46:19,311 - #14 )
+INFO  23:46:19,311 - #7 ;
+INFO  23:46:19,311 - #21 return
+INFO  23:46:19,311 - #44 c
+INFO  23:46:19,311 - #38 +
+INFO  23:46:19,311 - #43 2
+INFO  23:46:19,312 - #7 ;
+INFO  23:46:19,312 - #4 }
+INFO  23:46:19,312 - #44 int
+INFO  23:46:19,312 - #44 main
+INFO  23:46:19,312 - #13 (
+INFO  23:46:19,312 - #14 )
+INFO  23:46:19,312 - #3 {
+INFO  23:46:19,312 - #44 x
+INFO  23:46:19,312 - #6 =
+INFO  23:46:19,312 - #43 3
+INFO  23:46:19,312 - #7 ;
+INFO  23:46:19,312 - #22 print
+INFO  23:46:19,312 - #13 (
+INFO  23:46:19,312 - #43 1
+INFO  23:46:19,313 - #14 )
+INFO  23:46:19,313 - #7 ;
+INFO  23:46:19,313 - #22 print
+INFO  23:46:19,313 - #13 (
+INFO  23:46:19,313 - #44 x
+INFO  23:46:19,313 - #14 )
+INFO  23:46:19,313 - #7 ;
+INFO  23:46:19,313 - #44 k
+INFO  23:46:19,313 - #13 (
+INFO  23:46:19,313 - #14 )
+INFO  23:46:19,313 - #7 ;
+INFO  23:46:19,314 - #21 return
+INFO  23:46:19,314 - #43 1
+INFO  23:46:19,314 - #7 ;
+INFO  23:46:19,314 - #4 }
+INFO  23:46:19,314 - #4 }
+INFO  23:46:19,324 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:46:19,324 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:46:19,324 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:46:34,738 - ===================================

@@ -1,0 +1,19 @@
+INFO  19:55:57,804 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program.mj
+INFO  19:55:57,829 - #2 program
+INFO  19:55:57,830 - #44 p
+INFO  19:55:57,830 - #5 const
+INFO  19:55:57,830 - #44 int
+INFO  19:55:57,830 - #44 size
+INFO  19:55:57,830 - #6 =
+INFO  19:55:57,830 - #43 10
+INFO  19:55:57,830 - #9 ,
+INFO  19:55:57,830 - #44 mame
+INFO  19:55:57,831 - #6 =
+INFO  19:55:57,831 - #43 199
+INFO  19:55:57,831 - #7 ;
+INFO  19:55:57,831 - #5 const
+INFO  19:55:57,831 - #44 char
+INFO  19:55:57,831 - #44 znak
+INFO  19:55:57,831 - #6 =
+INFO  19:55:57,831 - #46 5
+INFO  19:55:57,831 - #7 ;

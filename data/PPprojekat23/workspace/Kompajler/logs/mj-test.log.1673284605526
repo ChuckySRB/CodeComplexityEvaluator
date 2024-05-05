@@ -1,0 +1,44 @@
+INFO  18:15:32,014 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  18:15:32,037 - #2 program
+INFO  18:15:32,037 - #44 MJProgram
+INFO  18:15:32,038 - #44 int
+INFO  18:15:32,038 - #44 x
+INFO  18:15:32,038 - #7 ;
+INFO  18:15:32,038 - #44 int
+INFO  18:15:32,039 - #44 y
+INFO  18:15:32,039 - #9 ,
+INFO  18:15:32,039 - #44 int
+INFO  18:15:32,039 - #44 z
+ERROR 18:15:32,039 - 
+Sintaksna greska na liniji 3
+INFO  18:15:32,039 - #7 ;
+INFO  18:15:32,039 - #3 {
+INFO  18:15:32,039 - #44 int
+INFO  18:15:32,039 - #44 main
+ERROR 18:15:32,039 - Izvrsen oporavak do ; u liniji 3
+INFO  18:15:32,040 - #13 (
+INFO  18:15:32,040 - #14 )
+INFO  18:15:32,041 - #3 {
+INFO  18:15:32,041 - #44 x
+INFO  18:15:32,041 - #6 =
+INFO  18:15:32,042 - #43 3
+INFO  18:15:32,042 - #7 ;
+INFO  18:15:32,042 - #44 y
+INFO  18:15:32,042 - #6 =
+INFO  18:15:32,042 - #43 4
+INFO  18:15:32,042 - #38 +
+INFO  18:15:32,042 - #43 9
+INFO  18:15:32,043 - #7 ;
+INFO  18:15:32,043 - #44 z
+INFO  18:15:32,043 - #6 =
+INFO  18:15:32,043 - #44 y
+INFO  18:15:32,043 - #38 +
+INFO  18:15:32,043 - #44 x
+INFO  18:15:32,043 - #7 ;
+INFO  18:15:32,043 - #4 }
+INFO  18:15:32,043 - #4 }
+INFO  18:15:32,046 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+ERROR 18:15:32,046 - Greska na liniji 10: Nije pronadjena promenljivay u tabeli simbola!
+ERROR 18:15:32,046 - Greska na liniji 12: Nije pronadjena promenljivaz u tabeli simbola!
+ERROR 18:15:32,047 - Greska na liniji 12: Nije pronadjena promenljivay u tabeli simbola!
+INFO  18:15:32,047 - ===================================

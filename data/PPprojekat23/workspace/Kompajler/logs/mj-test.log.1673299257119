@@ -1,0 +1,96 @@
+INFO  22:06:20,288 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  22:06:20,313 - #2 program
+INFO  22:06:20,313 - #44 MJProgram
+INFO  22:06:20,313 - #44 int
+INFO  22:06:20,314 - #44 x
+INFO  22:06:20,314 - #9 ,
+INFO  22:06:20,314 - #44 int
+INFO  22:06:20,314 - #44 y
+ERROR 22:06:20,314 - 
+Sintaksna greska na liniji 3
+INFO  22:06:20,314 - #9 ,
+INFO  22:06:20,314 - #44 int
+INFO  22:06:20,315 - #44 z
+INFO  22:06:20,315 - #7 ;
+ERROR 22:06:20,315 - Izvrsen oporavak do , u liniji 3
+INFO  22:06:20,315 - #3 {
+INFO  22:06:20,315 - #44 int
+INFO  22:06:20,316 - #44 metoda
+INFO  22:06:20,316 - #13 (
+INFO  22:06:20,316 - #44 int
+INFO  22:06:20,316 - #44 a
+INFO  22:06:20,316 - #9 ,
+INFO  22:06:20,317 - #44 int
+INFO  22:06:20,317 - #44 b
+INFO  22:06:20,317 - #14 )
+INFO  22:06:20,317 - #44 char
+INFO  22:06:20,317 - #44 aa
+INFO  22:06:20,317 - #7 ;
+INFO  22:06:20,317 - #44 bool
+INFO  22:06:20,317 - #44 c
+INFO  22:06:20,317 - #7 ;
+INFO  22:06:20,317 - #3 {
+INFO  22:06:20,317 - #44 x
+INFO  22:06:20,318 - #6 =
+INFO  22:06:20,318 - #43 3
+INFO  22:06:20,318 - #7 ;
+INFO  22:06:20,318 - #44 y
+INFO  22:06:20,318 - #6 =
+INFO  22:06:20,318 - #43 4
+INFO  22:06:20,318 - #38 +
+INFO  22:06:20,318 - #43 9
+INFO  22:06:20,319 - #7 ;
+INFO  22:06:20,319 - #44 z
+INFO  22:06:20,319 - #6 =
+INFO  22:06:20,319 - #44 y
+INFO  22:06:20,319 - #38 +
+INFO  22:06:20,319 - #44 x
+INFO  22:06:20,319 - #7 ;
+INFO  22:06:20,319 - #4 }
+INFO  22:06:20,319 - #44 int
+INFO  22:06:20,319 - #44 main
+INFO  22:06:20,320 - #13 (
+INFO  22:06:20,320 - #14 )
+INFO  22:06:20,320 - #3 {
+INFO  22:06:20,320 - #44 x
+INFO  22:06:20,320 - #6 =
+INFO  22:06:20,320 - #43 3
+INFO  22:06:20,320 - #7 ;
+INFO  22:06:20,320 - #44 y
+INFO  22:06:20,320 - #6 =
+INFO  22:06:20,320 - #43 4
+INFO  22:06:20,320 - #38 +
+INFO  22:06:20,320 - #43 9
+INFO  22:06:20,320 - #7 ;
+INFO  22:06:20,320 - #44 z
+INFO  22:06:20,320 - #6 =
+INFO  22:06:20,320 - #44 y
+INFO  22:06:20,320 - #38 +
+INFO  22:06:20,320 - #44 x
+INFO  22:06:20,321 - #7 ;
+INFO  22:06:20,321 - #4 }
+INFO  22:06:20,321 - #4 }
+INFO  22:06:20,324 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:06:20,324 - Deklarisan formalni argument "a" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:06:20,324 - Deklarisan formalni argument "b" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:06:20,324 - Deklarisana lokalna promenljiva "aa" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:06:20,324 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+ERROR 22:06:20,324 - Greska na liniji 6: Nije pronadjena promenljivax u tabeli simbola!
+ERROR 22:06:20,324 - Greska na liniji 6: Nekompatibilni tipovi u dodeli vrednosti!
+ERROR 22:06:20,324 - Greska na liniji 10: Nije pronadjena promenljivay u tabeli simbola!
+ERROR 22:06:20,324 - Greska na liniji 10: Nekompatibilni tipovi u dodeli vrednosti!
+ERROR 22:06:20,324 - Greska na liniji 12: Nije pronadjena promenljivay u tabeli simbola!
+ERROR 22:06:20,324 - Greska na liniji 12: Nije pronadjena promenljivax u tabeli simbola!
+ERROR 22:06:20,324 - Greska na liniji 12: Izraz mora biti tipa int!
+ERROR 22:06:20,324 - Greska na liniji 12: Nekompatibilni tipovi u dodeli vrednosti!
+INFO  22:06:20,325 - form pars: 2; total vars: 4
+ERROR 22:06:20,325 - Greska na liniji 15: Nije pronadjena promenljivax u tabeli simbola!
+ERROR 22:06:20,325 - Greska na liniji 15: Nekompatibilni tipovi u dodeli vrednosti!
+ERROR 22:06:20,325 - Greska na liniji 19: Nije pronadjena promenljivay u tabeli simbola!
+ERROR 22:06:20,325 - Greska na liniji 19: Nekompatibilni tipovi u dodeli vrednosti!
+ERROR 22:06:20,325 - Greska na liniji 21: Nije pronadjena promenljivay u tabeli simbola!
+ERROR 22:06:20,325 - Greska na liniji 21: Nije pronadjena promenljivax u tabeli simbola!
+ERROR 22:06:20,325 - Greska na liniji 21: Izraz mora biti tipa int!
+ERROR 22:06:20,325 - Greska na liniji 21: Nekompatibilni tipovi u dodeli vrednosti!
+INFO  22:06:20,325 - form pars: 0; total vars: 0
+INFO  22:06:20,325 - ===================================

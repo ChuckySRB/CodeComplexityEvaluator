@@ -1,0 +1,2220 @@
+INFO  23:39:09,981 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\test302.mj
+INFO  23:39:10,004 - #2 program
+INFO  23:39:10,004 - #44 test302
+INFO  23:39:10,004 - #5 const
+INFO  23:39:10,004 - #44 int
+INFO  23:39:10,004 - #44 jedan
+INFO  23:39:10,005 - #6 =
+INFO  23:39:10,005 - #43 1
+INFO  23:39:10,005 - #7 ;
+INFO  23:39:10,005 - #44 int
+INFO  23:39:10,005 - #44 i
+INFO  23:39:10,005 - #7 ;
+INFO  23:39:10,006 - #44 bool
+INFO  23:39:10,006 - #44 ibool
+INFO  23:39:10,006 - #7 ;
+INFO  23:39:10,006 - #44 int
+INFO  23:39:10,006 - #44 niz2
+INFO  23:39:10,006 - #7 ;
+INFO  23:39:10,006 - #44 int
+INFO  23:39:10,006 - #44 niz
+INFO  23:39:10,006 - #10 [
+INFO  23:39:10,006 - #11 ]
+INFO  23:39:10,006 - #7 ;
+INFO  23:39:10,006 - #44 int
+INFO  23:39:10,006 - #44 a
+INFO  23:39:10,006 - #9 ,
+INFO  23:39:10,007 - #44 curr
+INFO  23:39:10,007 - #7 ;
+INFO  23:39:10,007 - #3 {
+INFO  23:39:10,007 - #44 int
+INFO  23:39:10,007 - #44 sum
+INFO  23:39:10,007 - #13 (
+INFO  23:39:10,007 - #44 int
+INFO  23:39:10,007 - #44 z
+INFO  23:39:10,008 - #9 ,
+INFO  23:39:10,008 - #44 int
+INFO  23:39:10,008 - #44 d
+INFO  23:39:10,008 - #14 )
+INFO  23:39:10,008 - #3 {
+INFO  23:39:10,008 - #21 return
+INFO  23:39:10,008 - #44 z
+INFO  23:39:10,008 - #38 +
+INFO  23:39:10,009 - #44 d
+INFO  23:39:10,009 - #7 ;
+INFO  23:39:10,009 - #4 }
+INFO  23:39:10,009 - #44 int
+INFO  23:39:10,009 - #44 inkrement
+INFO  23:39:10,009 - #13 (
+INFO  23:39:10,009 - #44 int
+INFO  23:39:10,009 - #44 a
+INFO  23:39:10,010 - #9 ,
+INFO  23:39:10,010 - #44 int
+INFO  23:39:10,010 - #44 inc
+INFO  23:39:10,010 - #14 )
+INFO  23:39:10,010 - #44 int
+INFO  23:39:10,010 - #44 pom
+INFO  23:39:10,010 - #7 ;
+INFO  23:39:10,010 - #3 {
+INFO  23:39:10,010 - #16 if
+INFO  23:39:10,010 - #13 (
+INFO  23:39:10,010 - #44 inc
+INFO  23:39:10,010 - #32 ==
+INFO  23:39:10,010 - #44 jedan
+INFO  23:39:10,011 - #14 )
+INFO  23:39:10,011 - #44 pom
+INFO  23:39:10,011 - #6 =
+INFO  23:39:10,011 - #43 1
+INFO  23:39:10,011 - #7 ;
+INFO  23:39:10,012 - #17 else
+INFO  23:39:10,012 - #16 if
+INFO  23:39:10,012 - #13 (
+INFO  23:39:10,012 - #44 inc
+INFO  23:39:10,012 - #32 ==
+INFO  23:39:10,012 - #43 2
+INFO  23:39:10,012 - #14 )
+INFO  23:39:10,012 - #44 pom
+INFO  23:39:10,012 - #6 =
+INFO  23:39:10,012 - #44 a
+INFO  23:39:10,012 - #7 ;
+INFO  23:39:10,012 - #21 return
+INFO  23:39:10,012 - #44 sum
+INFO  23:39:10,012 - #13 (
+INFO  23:39:10,012 - #44 a
+INFO  23:39:10,012 - #9 ,
+INFO  23:39:10,012 - #44 pom
+INFO  23:39:10,012 - #14 )
+INFO  23:39:10,013 - #7 ;
+INFO  23:39:10,013 - #4 }
+INFO  23:39:10,013 - #44 bool
+INFO  23:39:10,013 - #44 verify
+INFO  23:39:10,013 - #13 (
+INFO  23:39:10,013 - #14 )
+INFO  23:39:10,013 - #3 {
+INFO  23:39:10,013 - #22 print
+INFO  23:39:10,013 - #13 (
+INFO  23:39:10,013 - #46 v
+INFO  23:39:10,013 - #14 )
+INFO  23:39:10,013 - #7 ;
+INFO  23:39:10,014 - #21 return
+INFO  23:39:10,014 - #45 false
+INFO  23:39:10,014 - #7 ;
+INFO  23:39:10,014 - #4 }
+INFO  23:39:10,014 - #15 void
+INFO  23:39:10,014 - #44 main
+INFO  23:39:10,014 - #13 (
+INFO  23:39:10,014 - #14 )
+INFO  23:39:10,014 - #3 {
+INFO  23:39:10,014 - #16 if
+INFO  23:39:10,014 - #13 (
+INFO  23:39:10,014 - #43 1
+INFO  23:39:10,014 - #33 !=
+INFO  23:39:10,014 - #43 1
+INFO  23:39:10,015 - #14 )
+INFO  23:39:10,015 - #22 print
+INFO  23:39:10,015 - #13 (
+INFO  23:39:10,015 - #39 -
+INFO  23:39:10,015 - #43 6
+INFO  23:39:10,015 - #14 )
+INFO  23:39:10,015 - #7 ;
+INFO  23:39:10,015 - #17 else
+INFO  23:39:10,015 - #22 print
+INFO  23:39:10,015 - #13 (
+INFO  23:39:10,015 - #43 0
+INFO  23:39:10,015 - #14 )
+INFO  23:39:10,015 - #7 ;
+INFO  23:39:10,015 - #44 ibool
+INFO  23:39:10,015 - #6 =
+INFO  23:39:10,015 - #45 false
+INFO  23:39:10,015 - #7 ;
+INFO  23:39:10,015 - #44 i
+INFO  23:39:10,015 - #6 =
+INFO  23:39:10,015 - #43 0
+INFO  23:39:10,015 - #7 ;
+INFO  23:39:10,015 - #18 while
+INFO  23:39:10,015 - #13 (
+INFO  23:39:10,016 - #44 i
+INFO  23:39:10,016 - #36 <
+INFO  23:39:10,016 - #43 5
+INFO  23:39:10,016 - #14 )
+INFO  23:39:10,016 - #3 {
+INFO  23:39:10,016 - #16 if
+INFO  23:39:10,016 - #13 (
+INFO  23:39:10,016 - #44 i
+INFO  23:39:10,016 - #32 ==
+INFO  23:39:10,016 - #43 2
+INFO  23:39:10,016 - #14 )
+INFO  23:39:10,016 - #44 ibool
+INFO  23:39:10,016 - #6 =
+INFO  23:39:10,016 - #45 true
+INFO  23:39:10,016 - #7 ;
+INFO  23:39:10,016 - #44 i
+INFO  23:39:10,016 - #27 ++
+INFO  23:39:10,016 - #7 ;
+INFO  23:39:10,016 - #4 }
+INFO  23:39:10,016 - #16 if
+INFO  23:39:10,017 - #13 (
+INFO  23:39:10,017 - #44 ibool
+INFO  23:39:10,017 - #14 )
+INFO  23:39:10,017 - #16 if
+INFO  23:39:10,017 - #13 (
+INFO  23:39:10,017 - #44 i
+INFO  23:39:10,017 - #32 ==
+INFO  23:39:10,017 - #43 5
+INFO  23:39:10,017 - #14 )
+INFO  23:39:10,017 - #22 print
+INFO  23:39:10,018 - #13 (
+INFO  23:39:10,018 - #43 1
+INFO  23:39:10,018 - #14 )
+INFO  23:39:10,018 - #7 ;
+INFO  23:39:10,018 - #17 else
+INFO  23:39:10,018 - #22 print
+INFO  23:39:10,018 - #13 (
+INFO  23:39:10,018 - #39 -
+INFO  23:39:10,018 - #43 1
+INFO  23:39:10,018 - #14 )
+INFO  23:39:10,018 - #7 ;
+INFO  23:39:10,018 - #44 a
+INFO  23:39:10,018 - #6 =
+INFO  23:39:10,018 - #43 2
+INFO  23:39:10,018 - #7 ;
+INFO  23:39:10,018 - #44 niz
+INFO  23:39:10,018 - #6 =
+INFO  23:39:10,018 - #31 new
+INFO  23:39:10,018 - #44 int
+INFO  23:39:10,018 - #10 [
+INFO  23:39:10,018 - #43 3
+INFO  23:39:10,018 - #11 ]
+INFO  23:39:10,018 - #7 ;
+INFO  23:39:10,018 - #44 niz
+INFO  23:39:10,018 - #10 [
+INFO  23:39:10,018 - #43 0
+INFO  23:39:10,018 - #11 ]
+INFO  23:39:10,018 - #6 =
+INFO  23:39:10,018 - #43 1
+INFO  23:39:10,018 - #40 *
+INFO  23:39:10,018 - #44 a
+INFO  23:39:10,019 - #7 ;
+INFO  23:39:10,019 - #44 niz
+INFO  23:39:10,019 - #10 [
+INFO  23:39:10,019 - #43 1
+INFO  23:39:10,019 - #11 ]
+INFO  23:39:10,019 - #6 =
+INFO  23:39:10,019 - #43 2
+INFO  23:39:10,019 - #40 *
+INFO  23:39:10,019 - #44 a
+INFO  23:39:10,019 - #7 ;
+INFO  23:39:10,019 - #44 niz
+INFO  23:39:10,019 - #10 [
+INFO  23:39:10,019 - #43 2
+INFO  23:39:10,019 - #11 ]
+INFO  23:39:10,019 - #6 =
+INFO  23:39:10,019 - #44 sum
+INFO  23:39:10,019 - #13 (
+INFO  23:39:10,019 - #44 niz
+INFO  23:39:10,019 - #10 [
+INFO  23:39:10,019 - #43 1
+INFO  23:39:10,019 - #11 ]
+INFO  23:39:10,019 - #9 ,
+INFO  23:39:10,019 - #44 niz
+INFO  23:39:10,019 - #10 [
+INFO  23:39:10,020 - #43 0
+INFO  23:39:10,020 - #11 ]
+INFO  23:39:10,020 - #14 )
+INFO  23:39:10,020 - #40 *
+INFO  23:39:10,020 - #44 a
+INFO  23:39:10,020 - #38 +
+INFO  23:39:10,020 - #43 1
+INFO  23:39:10,020 - #7 ;
+INFO  23:39:10,020 - #16 if
+INFO  23:39:10,020 - #13 (
+INFO  23:39:10,020 - #44 verify
+INFO  23:39:10,020 - #13 (
+INFO  23:39:10,020 - #14 )
+INFO  23:39:10,020 - #29 ||
+INFO  23:39:10,020 - #44 niz
+INFO  23:39:10,020 - #10 [
+INFO  23:39:10,020 - #43 2
+INFO  23:39:10,020 - #11 ]
+INFO  23:39:10,020 - #32 ==
+INFO  23:39:10,020 - #43 4
+INFO  23:39:10,021 - #14 )
+INFO  23:39:10,021 - #22 print
+INFO  23:39:10,022 - #13 (
+INFO  23:39:10,022 - #44 ord
+INFO  23:39:10,022 - #13 (
+INFO  23:39:10,022 - #46 A
+INFO  23:39:10,022 - #14 )
+INFO  23:39:10,022 - #14 )
+INFO  23:39:10,022 - #7 ;
+INFO  23:39:10,022 - #17 else
+INFO  23:39:10,022 - #22 print
+INFO  23:39:10,022 - #13 (
+INFO  23:39:10,022 - #44 ord
+INFO  23:39:10,022 - #13 (
+INFO  23:39:10,022 - #46 a
+INFO  23:39:10,022 - #14 )
+INFO  23:39:10,022 - #14 )
+INFO  23:39:10,022 - #7 ;
+INFO  23:39:10,022 - #22 print
+INFO  23:39:10,022 - #13 (
+INFO  23:39:10,022 - #44 eol
+INFO  23:39:10,022 - #14 )
+INFO  23:39:10,022 - #7 ;
+INFO  23:39:10,022 - #44 i
+INFO  23:39:10,022 - #6 =
+INFO  23:39:10,022 - #43 0
+INFO  23:39:10,022 - #7 ;
+INFO  23:39:10,022 - #18 while
+INFO  23:39:10,022 - #13 (
+INFO  23:39:10,022 - #44 i
+INFO  23:39:10,022 - #36 <
+INFO  23:39:10,022 - #43 10
+INFO  23:39:10,022 - #14 )
+INFO  23:39:10,022 - #3 {
+INFO  23:39:10,022 - #16 if
+INFO  23:39:10,022 - #13 (
+INFO  23:39:10,022 - #44 i
+INFO  23:39:10,022 - #32 ==
+INFO  23:39:10,022 - #43 3
+INFO  23:39:10,022 - #14 )
+INFO  23:39:10,022 - #3 {
+INFO  23:39:10,022 - #44 i
+INFO  23:39:10,022 - #27 ++
+INFO  23:39:10,022 - #7 ;
+INFO  23:39:10,023 - #20 continue
+INFO  23:39:10,023 - #7 ;
+INFO  23:39:10,023 - #4 }
+INFO  23:39:10,023 - #16 if
+INFO  23:39:10,023 - #13 (
+INFO  23:39:10,023 - #44 i
+INFO  23:39:10,023 - #32 ==
+INFO  23:39:10,023 - #43 4
+INFO  23:39:10,023 - #14 )
+INFO  23:39:10,023 - #19 break
+INFO  23:39:10,023 - #7 ;
+INFO  23:39:10,023 - #44 i
+INFO  23:39:10,023 - #6 =
+INFO  23:39:10,023 - #44 inkrement
+INFO  23:39:10,023 - #13 (
+INFO  23:39:10,023 - #44 i
+INFO  23:39:10,023 - #9 ,
+INFO  23:39:10,023 - #43 1
+INFO  23:39:10,023 - #14 )
+INFO  23:39:10,023 - #7 ;
+INFO  23:39:10,023 - #4 }
+INFO  23:39:10,023 - #16 if
+INFO  23:39:10,023 - #13 (
+INFO  23:39:10,023 - #44 i
+INFO  23:39:10,023 - #32 ==
+INFO  23:39:10,024 - #43 3
+INFO  23:39:10,024 - #30 &&
+INFO  23:39:10,024 - #44 verify
+INFO  23:39:10,024 - #13 (
+INFO  23:39:10,024 - #14 )
+INFO  23:39:10,024 - #14 )
+INFO  23:39:10,024 - #22 print
+INFO  23:39:10,024 - #13 (
+INFO  23:39:10,024 - #39 -
+INFO  23:39:10,024 - #43 4
+INFO  23:39:10,024 - #14 )
+INFO  23:39:10,024 - #7 ;
+INFO  23:39:10,024 - #17 else
+INFO  23:39:10,024 - #22 print
+INFO  23:39:10,024 - #13 (
+INFO  23:39:10,024 - #43 4
+INFO  23:39:10,024 - #14 )
+INFO  23:39:10,024 - #7 ;
+INFO  23:39:10,024 - #23 read
+INFO  23:39:10,024 - #13 (
+INFO  23:39:10,024 - #44 niz
+INFO  23:39:10,024 - #10 [
+INFO  23:39:10,024 - #43 0
+INFO  23:39:10,024 - #11 ]
+INFO  23:39:10,024 - #14 )
+INFO  23:39:10,024 - #7 ;
+INFO  23:39:10,024 - #23 read
+INFO  23:39:10,024 - #13 (
+INFO  23:39:10,024 - #44 niz
+INFO  23:39:10,024 - #10 [
+INFO  23:39:10,024 - #43 1
+INFO  23:39:10,024 - #11 ]
+INFO  23:39:10,024 - #14 )
+INFO  23:39:10,024 - #7 ;
+INFO  23:39:10,024 - #23 read
+INFO  23:39:10,024 - #13 (
+INFO  23:39:10,024 - #44 niz
+INFO  23:39:10,024 - #10 [
+INFO  23:39:10,024 - #43 2
+INFO  23:39:10,024 - #11 ]
+INFO  23:39:10,024 - #14 )
+INFO  23:39:10,024 - #7 ;
+INFO  23:39:10,024 - #22 print
+INFO  23:39:10,024 - #13 (
+INFO  23:39:10,024 - #44 eol
+INFO  23:39:10,025 - #14 )
+INFO  23:39:10,025 - #7 ;
+INFO  23:39:10,025 - #22 print
+INFO  23:39:10,025 - #13 (
+INFO  23:39:10,025 - #44 sum
+INFO  23:39:10,025 - #13 (
+INFO  23:39:10,025 - #44 sum
+INFO  23:39:10,025 - #13 (
+INFO  23:39:10,025 - #44 niz
+INFO  23:39:10,025 - #10 [
+INFO  23:39:10,025 - #43 0
+INFO  23:39:10,025 - #11 ]
+INFO  23:39:10,025 - #9 ,
+INFO  23:39:10,025 - #44 niz
+INFO  23:39:10,025 - #10 [
+INFO  23:39:10,025 - #43 1
+INFO  23:39:10,025 - #11 ]
+INFO  23:39:10,025 - #14 )
+INFO  23:39:10,025 - #9 ,
+INFO  23:39:10,025 - #44 niz
+INFO  23:39:10,025 - #10 [
+INFO  23:39:10,025 - #43 2
+INFO  23:39:10,025 - #11 ]
+INFO  23:39:10,025 - #14 )
+INFO  23:39:10,025 - #14 )
+INFO  23:39:10,025 - #7 ;
+INFO  23:39:10,025 - #22 print
+INFO  23:39:10,025 - #13 (
+INFO  23:39:10,025 - #44 eol
+INFO  23:39:10,025 - #14 )
+INFO  23:39:10,025 - #7 ;
+INFO  23:39:10,025 - #22 print
+INFO  23:39:10,025 - #13 (
+INFO  23:39:10,025 - #44 inkrement
+INFO  23:39:10,025 - #13 (
+INFO  23:39:10,025 - #44 niz
+INFO  23:39:10,025 - #10 [
+INFO  23:39:10,025 - #43 2
+INFO  23:39:10,025 - #11 ]
+INFO  23:39:10,025 - #9 ,
+INFO  23:39:10,025 - #43 2
+INFO  23:39:10,025 - #14 )
+INFO  23:39:10,025 - #14 )
+INFO  23:39:10,025 - #7 ;
+INFO  23:39:10,025 - #44 a
+INFO  23:39:10,025 - #6 =
+INFO  23:39:10,025 - #43 3
+INFO  23:39:10,025 - #7 ;
+INFO  23:39:10,025 - #44 i
+INFO  23:39:10,025 - #6 =
+INFO  23:39:10,025 - #43 0
+INFO  23:39:10,026 - #7 ;
+INFO  23:39:10,026 - #18 while
+INFO  23:39:10,026 - #13 (
+INFO  23:39:10,026 - #44 i
+INFO  23:39:10,026 - #36 <
+INFO  23:39:10,026 - #43 3
+INFO  23:39:10,026 - #14 )
+INFO  23:39:10,026 - #3 {
+INFO  23:39:10,026 - #44 niz
+INFO  23:39:10,026 - #10 [
+INFO  23:39:10,026 - #44 i
+INFO  23:39:10,026 - #11 ]
+INFO  23:39:10,026 - #6 =
+INFO  23:39:10,026 - #44 niz
+INFO  23:39:10,026 - #10 [
+INFO  23:39:10,026 - #44 i
+INFO  23:39:10,026 - #11 ]
+INFO  23:39:10,026 - #40 *
+INFO  23:39:10,026 - #43 2
+INFO  23:39:10,026 - #40 *
+INFO  23:39:10,026 - #44 a
+INFO  23:39:10,026 - #7 ;
+INFO  23:39:10,026 - #44 i
+INFO  23:39:10,026 - #27 ++
+INFO  23:39:10,026 - #7 ;
+INFO  23:39:10,026 - #4 }
+INFO  23:39:10,026 - #44 niz
+INFO  23:39:10,026 - #24 .
+INFO  23:39:10,026 - #25 foreach
+INFO  23:39:10,026 - #13 (
+INFO  23:39:10,026 - #44 curr
+INFO  23:39:10,026 - #26 =>
+INFO  23:39:10,026 - #22 print
+INFO  23:39:10,026 - #13 (
+INFO  23:39:10,026 - #44 curr
+INFO  23:39:10,026 - #14 )
+INFO  23:39:10,026 - #7 ;
+INFO  23:39:10,026 - #14 )
+INFO  23:39:10,026 - #7 ;
+INFO  23:39:10,026 - #22 print
+INFO  23:39:10,026 - #13 (
+INFO  23:39:10,026 - #44 eol
+INFO  23:39:10,026 - #14 )
+INFO  23:39:10,026 - #7 ;
+INFO  23:39:10,027 - #44 niz2
+INFO  23:39:10,027 - #6 =
+INFO  23:39:10,027 - #43 0
+INFO  23:39:10,027 - #7 ;
+INFO  23:39:10,027 - #44 niz
+INFO  23:39:10,027 - #24 .
+INFO  23:39:10,027 - #25 foreach
+INFO  23:39:10,027 - #13 (
+INFO  23:39:10,027 - #44 curr
+INFO  23:39:10,027 - #26 =>
+INFO  23:39:10,027 - #3 {
+INFO  23:39:10,027 - #44 niz2
+INFO  23:39:10,027 - #6 =
+INFO  23:39:10,027 - #44 niz2
+INFO  23:39:10,027 - #38 +
+INFO  23:39:10,027 - #44 curr
+INFO  23:39:10,027 - #40 *
+INFO  23:39:10,027 - #44 curr
+INFO  23:39:10,027 - #7 ;
+INFO  23:39:10,027 - #4 }
+INFO  23:39:10,027 - #14 )
+INFO  23:39:10,027 - #7 ;
+INFO  23:39:10,027 - #22 print
+INFO  23:39:10,027 - #13 (
+INFO  23:39:10,027 - #44 niz2
+INFO  23:39:10,027 - #14 )
+INFO  23:39:10,027 - #7 ;
+INFO  23:39:10,027 - #4 }
+INFO  23:39:10,027 - #4 }
+INFO  23:39:10,031 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  VarItemDecl(
+    VarItemDecl(
+      VarItemDecl(
+        VarItemDecl(
+          VarItemDecl(
+            ConstItemDecl(
+              NoItemDecl(
+              ) [NoItemDecl]
+              ConstDeclarations(
+                Type(
+                 int
+                ) [Type]
+                SingleConstDecl(
+                 jedan
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [SingleConstDecl]
+              ) [ConstDeclarations]
+            ) [ConstItemDecl]
+            VarNonEmptyDecl(
+              Type(
+               int
+              ) [Type]
+              SingleVarDecl(
+                VarNoArray(
+                 i
+                ) [VarNoArray]
+              ) [SingleVarDecl]
+            ) [VarNonEmptyDecl]
+          ) [VarItemDecl]
+          VarNonEmptyDecl(
+            Type(
+             bool
+            ) [Type]
+            SingleVarDecl(
+              VarNoArray(
+               ibool
+              ) [VarNoArray]
+            ) [SingleVarDecl]
+          ) [VarNonEmptyDecl]
+        ) [VarItemDecl]
+        VarNonEmptyDecl(
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarNoArray(
+             niz2
+            ) [VarNoArray]
+          ) [SingleVarDecl]
+        ) [VarNonEmptyDecl]
+      ) [VarItemDecl]
+      VarNonEmptyDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarArray(
+           niz
+          ) [VarArray]
+        ) [SingleVarDecl]
+      ) [VarNonEmptyDecl]
+    ) [VarItemDecl]
+    VarNonEmptyDecl(
+      Type(
+       int
+      ) [Type]
+      MultipleVarDecl(
+        SingleVarDecl(
+          VarNoArray(
+           a
+          ) [VarNoArray]
+        ) [SingleVarDecl]
+        VarNoArray(
+         curr
+        ) [VarNoArray]
+      ) [MultipleVarDecl]
+    ) [VarNonEmptyDecl]
+  ) [VarItemDecl]
+  VoidMethodDeclarations(
+    TypeMethodDeclarations(
+      TypeMethodDeclarations(
+        TypeMethodDeclarations(
+          NoMethodDeclarations(
+          ) [NoMethodDeclarations]
+          FunType(
+            Type(
+             int
+            ) [Type]
+          ) [FunType]
+          MethodName(
+           sum
+          ) [MethodName]
+          FormParsNonEmpty(
+            FormalParamList(
+              SingleFormalParam(
+                FormParamNoArray(
+                  Type(
+                   int
+                  ) [Type]
+                 z
+                ) [FormParamNoArray]
+              ) [SingleFormalParam]
+              FormParamNoArray(
+                Type(
+                 int
+                ) [Type]
+               d
+              ) [FormParamNoArray]
+            ) [FormalParamList]
+          ) [FormParsNonEmpty]
+          NoVarDeclarations(
+          ) [NoVarDeclarations]
+          StatementListNonEmpty(
+            NoStatements(
+            ) [NoStatements]
+            ReturnStatementNonEmpty(
+              ExprMultipleTerms(
+                PosExpr(
+                  SingleTerm(
+                    FactorDesi(
+                      DesiOnlyIdent(
+                       z
+                      ) [DesiOnlyIdent]
+                    ) [FactorDesi]
+                  ) [SingleTerm]
+                ) [PosExpr]
+                Addition(
+                ) [Addition]
+                SingleTerm(
+                  FactorDesi(
+                    DesiOnlyIdent(
+                     d
+                    ) [DesiOnlyIdent]
+                  ) [FactorDesi]
+                ) [SingleTerm]
+              ) [ExprMultipleTerms]
+            ) [ReturnStatementNonEmpty]
+          ) [StatementListNonEmpty]
+        ) [TypeMethodDeclarations]
+        FunType(
+          Type(
+           int
+          ) [Type]
+        ) [FunType]
+        MethodName(
+         inkrement
+        ) [MethodName]
+        FormParsNonEmpty(
+          FormalParamList(
+            SingleFormalParam(
+              FormParamNoArray(
+                Type(
+                 int
+                ) [Type]
+               a
+              ) [FormParamNoArray]
+            ) [SingleFormalParam]
+            FormParamNoArray(
+              Type(
+               int
+              ) [Type]
+             inc
+            ) [FormParamNoArray]
+          ) [FormalParamList]
+        ) [FormParsNonEmpty]
+        MultipleVarDeclarations(
+          NoVarDeclarations(
+          ) [NoVarDeclarations]
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarNoArray(
+             pom
+            ) [VarNoArray]
+          ) [SingleVarDecl]
+        ) [MultipleVarDeclarations]
+        StatementListNonEmpty(
+          StatementListNonEmpty(
+            NoStatements(
+            ) [NoStatements]
+            IfElseStatement(
+              IfHeader(
+              ) [IfHeader]
+              SingleCondition(
+                SingleCondTerm(
+                  CondFactRel(
+                    PosExpr(
+                      SingleTerm(
+                        FactorDesi(
+                          DesiOnlyIdent(
+                           inc
+                          ) [DesiOnlyIdent]
+                        ) [FactorDesi]
+                      ) [SingleTerm]
+                    ) [PosExpr]
+                    RelEq(
+                    ) [RelEq]
+                    PosExpr(
+                      SingleTerm(
+                        FactorDesi(
+                          DesiOnlyIdent(
+                           jedan
+                          ) [DesiOnlyIdent]
+                        ) [FactorDesi]
+                      ) [SingleTerm]
+                    ) [PosExpr]
+                  ) [CondFactRel]
+                ) [SingleCondTerm]
+              ) [SingleCondition]
+              Empty(
+              ) [Empty]
+              StatementDesiStatement(
+                DesiStatementAssign(
+                  AssignDesignatorStmt(
+                    DesiOnlyIdent(
+                     pom
+                    ) [DesiOnlyIdent]
+                    Assignop(
+                    ) [Assignop]
+                    PosExpr(
+                      SingleTerm(
+                        FactorNum(
+                         1
+                        ) [FactorNum]
+                      ) [SingleTerm]
+                    ) [PosExpr]
+                  ) [AssignDesignatorStmt]
+                ) [DesiStatementAssign]
+              ) [StatementDesiStatement]
+              ElseHeader(
+              ) [ElseHeader]
+              IfStatement(
+                IfHeader(
+                ) [IfHeader]
+                SingleCondition(
+                  SingleCondTerm(
+                    CondFactRel(
+                      PosExpr(
+                        SingleTerm(
+                          FactorDesi(
+                            DesiOnlyIdent(
+                             inc
+                            ) [DesiOnlyIdent]
+                          ) [FactorDesi]
+                        ) [SingleTerm]
+                      ) [PosExpr]
+                      RelEq(
+                      ) [RelEq]
+                      PosExpr(
+                        SingleTerm(
+                          FactorNum(
+                           2
+                          ) [FactorNum]
+                        ) [SingleTerm]
+                      ) [PosExpr]
+                    ) [CondFactRel]
+                  ) [SingleCondTerm]
+                ) [SingleCondition]
+                Empty(
+                ) [Empty]
+                StatementDesiStatement(
+                  DesiStatementAssign(
+                    AssignDesignatorStmt(
+                      DesiOnlyIdent(
+                       pom
+                      ) [DesiOnlyIdent]
+                      Assignop(
+                      ) [Assignop]
+                      PosExpr(
+                        SingleTerm(
+                          FactorDesi(
+                            DesiOnlyIdent(
+                             a
+                            ) [DesiOnlyIdent]
+                          ) [FactorDesi]
+                        ) [SingleTerm]
+                      ) [PosExpr]
+                    ) [AssignDesignatorStmt]
+                  ) [DesiStatementAssign]
+                ) [StatementDesiStatement]
+              ) [IfStatement]
+            ) [IfElseStatement]
+          ) [StatementListNonEmpty]
+          ReturnStatementNonEmpty(
+            PosExpr(
+              SingleTerm(
+                FactorFuncCall(
+                  DesiOnlyIdent(
+                   sum
+                  ) [DesiOnlyIdent]
+                  ActParsNonEmpty(
+                    MultipleActPars(
+                      SingleActPar(
+                        PosExpr(
+                          SingleTerm(
+                            FactorDesi(
+                              DesiOnlyIdent(
+                               a
+                              ) [DesiOnlyIdent]
+                            ) [FactorDesi]
+                          ) [SingleTerm]
+                        ) [PosExpr]
+                      ) [SingleActPar]
+                      PosExpr(
+                        SingleTerm(
+                          FactorDesi(
+                            DesiOnlyIdent(
+                             pom
+                            ) [DesiOnlyIdent]
+                          ) [FactorDesi]
+                        ) [SingleTerm]
+                      ) [PosExpr]
+                    ) [MultipleActPars]
+                  ) [ActParsNonEmpty]
+                ) [FactorFuncCall]
+              ) [SingleTerm]
+            ) [PosExpr]
+          ) [ReturnStatementNonEmpty]
+        ) [StatementListNonEmpty]
+      ) [TypeMethodDeclarations]
+      FunType(
+        Type(
+         bool
+        ) [Type]
+      ) [FunType]
+      MethodName(
+       verify
+      ) [MethodName]
+      NoFormPars(
+      ) [NoFormPars]
+      NoVarDeclarations(
+      ) [NoVarDeclarations]
+      StatementListNonEmpty(
+        StatementListNonEmpty(
+          NoStatements(
+          ) [NoStatements]
+          PrintStatementNoWidth(
+            PosExpr(
+              SingleTerm(
+                FactorChar(
+                 v
+                ) [FactorChar]
+              ) [SingleTerm]
+            ) [PosExpr]
+          ) [PrintStatementNoWidth]
+        ) [StatementListNonEmpty]
+        ReturnStatementNonEmpty(
+          PosExpr(
+            SingleTerm(
+              FactorBool(
+               false
+              ) [FactorBool]
+            ) [SingleTerm]
+          ) [PosExpr]
+        ) [ReturnStatementNonEmpty]
+      ) [StatementListNonEmpty]
+    ) [TypeMethodDeclarations]
+    MethodName(
+     main
+    ) [MethodName]
+    NoFormPars(
+    ) [NoFormPars]
+    NoVarDeclarations(
+    ) [NoVarDeclarations]
+    StatementListNonEmpty(
+      StatementListNonEmpty(
+        StatementListNonEmpty(
+          StatementListNonEmpty(
+            StatementListNonEmpty(
+              StatementListNonEmpty(
+                StatementListNonEmpty(
+                  StatementListNonEmpty(
+                    StatementListNonEmpty(
+                      StatementListNonEmpty(
+                        StatementListNonEmpty(
+                          StatementListNonEmpty(
+                            StatementListNonEmpty(
+                              StatementListNonEmpty(
+                                StatementListNonEmpty(
+                                  StatementListNonEmpty(
+                                    StatementListNonEmpty(
+                                      StatementListNonEmpty(
+                                        StatementListNonEmpty(
+                                          StatementListNonEmpty(
+                                            StatementListNonEmpty(
+                                              StatementListNonEmpty(
+                                                StatementListNonEmpty(
+                                                  StatementListNonEmpty(
+                                                    StatementListNonEmpty(
+                                                      StatementListNonEmpty(
+                                                        StatementListNonEmpty(
+                                                          StatementListNonEmpty(
+                                                            StatementListNonEmpty(
+                                                              StatementListNonEmpty(
+                                                                NoStatements(
+                                                                ) [NoStatements]
+                                                                IfElseStatement(
+                                                                  IfHeader(
+                                                                  ) [IfHeader]
+                                                                  SingleCondition(
+                                                                    SingleCondTerm(
+                                                                      CondFactRel(
+                                                                        PosExpr(
+                                                                          SingleTerm(
+                                                                            FactorNum(
+                                                                             1
+                                                                            ) [FactorNum]
+                                                                          ) [SingleTerm]
+                                                                        ) [PosExpr]
+                                                                        RelNeq(
+                                                                        ) [RelNeq]
+                                                                        PosExpr(
+                                                                          SingleTerm(
+                                                                            FactorNum(
+                                                                             1
+                                                                            ) [FactorNum]
+                                                                          ) [SingleTerm]
+                                                                        ) [PosExpr]
+                                                                      ) [CondFactRel]
+                                                                    ) [SingleCondTerm]
+                                                                  ) [SingleCondition]
+                                                                  Empty(
+                                                                  ) [Empty]
+                                                                  PrintStatementNoWidth(
+                                                                    NegExpr(
+                                                                      SingleTerm(
+                                                                        FactorNum(
+                                                                         6
+                                                                        ) [FactorNum]
+                                                                      ) [SingleTerm]
+                                                                    ) [NegExpr]
+                                                                  ) [PrintStatementNoWidth]
+                                                                  ElseHeader(
+                                                                  ) [ElseHeader]
+                                                                  PrintStatementNoWidth(
+                                                                    PosExpr(
+                                                                      SingleTerm(
+                                                                        FactorNum(
+                                                                         0
+                                                                        ) [FactorNum]
+                                                                      ) [SingleTerm]
+                                                                    ) [PosExpr]
+                                                                  ) [PrintStatementNoWidth]
+                                                                ) [IfElseStatement]
+                                                              ) [StatementListNonEmpty]
+                                                              StatementDesiStatement(
+                                                                DesiStatementAssign(
+                                                                  AssignDesignatorStmt(
+                                                                    DesiOnlyIdent(
+                                                                     ibool
+                                                                    ) [DesiOnlyIdent]
+                                                                    Assignop(
+                                                                    ) [Assignop]
+                                                                    PosExpr(
+                                                                      SingleTerm(
+                                                                        FactorBool(
+                                                                         false
+                                                                        ) [FactorBool]
+                                                                      ) [SingleTerm]
+                                                                    ) [PosExpr]
+                                                                  ) [AssignDesignatorStmt]
+                                                                ) [DesiStatementAssign]
+                                                              ) [StatementDesiStatement]
+                                                            ) [StatementListNonEmpty]
+                                                            StatementDesiStatement(
+                                                              DesiStatementAssign(
+                                                                AssignDesignatorStmt(
+                                                                  DesiOnlyIdent(
+                                                                   i
+                                                                  ) [DesiOnlyIdent]
+                                                                  Assignop(
+                                                                  ) [Assignop]
+                                                                  PosExpr(
+                                                                    SingleTerm(
+                                                                      FactorNum(
+                                                                       0
+                                                                      ) [FactorNum]
+                                                                    ) [SingleTerm]
+                                                                  ) [PosExpr]
+                                                                ) [AssignDesignatorStmt]
+                                                              ) [DesiStatementAssign]
+                                                            ) [StatementDesiStatement]
+                                                          ) [StatementListNonEmpty]
+                                                          WhileStatement(
+                                                            WhileHeader(
+                                                            ) [WhileHeader]
+                                                            SingleCondition(
+                                                              SingleCondTerm(
+                                                                CondFactRel(
+                                                                  PosExpr(
+                                                                    SingleTerm(
+                                                                      FactorDesi(
+                                                                        DesiOnlyIdent(
+                                                                         i
+                                                                        ) [DesiOnlyIdent]
+                                                                      ) [FactorDesi]
+                                                                    ) [SingleTerm]
+                                                                  ) [PosExpr]
+                                                                  RelLs(
+                                                                  ) [RelLs]
+                                                                  PosExpr(
+                                                                    SingleTerm(
+                                                                      FactorNum(
+                                                                       5
+                                                                      ) [FactorNum]
+                                                                    ) [SingleTerm]
+                                                                  ) [PosExpr]
+                                                                ) [CondFactRel]
+                                                              ) [SingleCondTerm]
+                                                            ) [SingleCondition]
+                                                            Empty(
+                                                            ) [Empty]
+                                                            MultipleStatements(
+                                                              StatementListNonEmpty(
+                                                                StatementListNonEmpty(
+                                                                  NoStatements(
+                                                                  ) [NoStatements]
+                                                                  IfStatement(
+                                                                    IfHeader(
+                                                                    ) [IfHeader]
+                                                                    SingleCondition(
+                                                                      SingleCondTerm(
+                                                                        CondFactRel(
+                                                                          PosExpr(
+                                                                            SingleTerm(
+                                                                              FactorDesi(
+                                                                                DesiOnlyIdent(
+                                                                                 i
+                                                                                ) [DesiOnlyIdent]
+                                                                              ) [FactorDesi]
+                                                                            ) [SingleTerm]
+                                                                          ) [PosExpr]
+                                                                          RelEq(
+                                                                          ) [RelEq]
+                                                                          PosExpr(
+                                                                            SingleTerm(
+                                                                              FactorNum(
+                                                                               2
+                                                                              ) [FactorNum]
+                                                                            ) [SingleTerm]
+                                                                          ) [PosExpr]
+                                                                        ) [CondFactRel]
+                                                                      ) [SingleCondTerm]
+                                                                    ) [SingleCondition]
+                                                                    Empty(
+                                                                    ) [Empty]
+                                                                    StatementDesiStatement(
+                                                                      DesiStatementAssign(
+                                                                        AssignDesignatorStmt(
+                                                                          DesiOnlyIdent(
+                                                                           ibool
+                                                                          ) [DesiOnlyIdent]
+                                                                          Assignop(
+                                                                          ) [Assignop]
+                                                                          PosExpr(
+                                                                            SingleTerm(
+                                                                              FactorBool(
+                                                                               true
+                                                                              ) [FactorBool]
+                                                                            ) [SingleTerm]
+                                                                          ) [PosExpr]
+                                                                        ) [AssignDesignatorStmt]
+                                                                      ) [DesiStatementAssign]
+                                                                    ) [StatementDesiStatement]
+                                                                  ) [IfStatement]
+                                                                ) [StatementListNonEmpty]
+                                                                StatementDesiStatement(
+                                                                  DesiStatementInc(
+                                                                    DesiOnlyIdent(
+                                                                     i
+                                                                    ) [DesiOnlyIdent]
+                                                                  ) [DesiStatementInc]
+                                                                ) [StatementDesiStatement]
+                                                              ) [StatementListNonEmpty]
+                                                            ) [MultipleStatements]
+                                                          ) [WhileStatement]
+                                                        ) [StatementListNonEmpty]
+                                                        IfStatement(
+                                                          IfHeader(
+                                                          ) [IfHeader]
+                                                          SingleCondition(
+                                                            SingleCondTerm(
+                                                              CondFactExpr(
+                                                                PosExpr(
+                                                                  SingleTerm(
+                                                                    FactorDesi(
+                                                                      DesiOnlyIdent(
+                                                                       ibool
+                                                                      ) [DesiOnlyIdent]
+                                                                    ) [FactorDesi]
+                                                                  ) [SingleTerm]
+                                                                ) [PosExpr]
+                                                              ) [CondFactExpr]
+                                                            ) [SingleCondTerm]
+                                                          ) [SingleCondition]
+                                                          Empty(
+                                                          ) [Empty]
+                                                          IfElseStatement(
+                                                            IfHeader(
+                                                            ) [IfHeader]
+                                                            SingleCondition(
+                                                              SingleCondTerm(
+                                                                CondFactRel(
+                                                                  PosExpr(
+                                                                    SingleTerm(
+                                                                      FactorDesi(
+                                                                        DesiOnlyIdent(
+                                                                         i
+                                                                        ) [DesiOnlyIdent]
+                                                                      ) [FactorDesi]
+                                                                    ) [SingleTerm]
+                                                                  ) [PosExpr]
+                                                                  RelEq(
+                                                                  ) [RelEq]
+                                                                  PosExpr(
+                                                                    SingleTerm(
+                                                                      FactorNum(
+                                                                       5
+                                                                      ) [FactorNum]
+                                                                    ) [SingleTerm]
+                                                                  ) [PosExpr]
+                                                                ) [CondFactRel]
+                                                              ) [SingleCondTerm]
+                                                            ) [SingleCondition]
+                                                            Empty(
+                                                            ) [Empty]
+                                                            PrintStatementNoWidth(
+                                                              PosExpr(
+                                                                SingleTerm(
+                                                                  FactorNum(
+                                                                   1
+                                                                  ) [FactorNum]
+                                                                ) [SingleTerm]
+                                                              ) [PosExpr]
+                                                            ) [PrintStatementNoWidth]
+                                                            ElseHeader(
+                                                            ) [ElseHeader]
+                                                            PrintStatementNoWidth(
+                                                              NegExpr(
+                                                                SingleTerm(
+                                                                  FactorNum(
+                                                                   1
+                                                                  ) [FactorNum]
+                                                                ) [SingleTerm]
+                                                              ) [NegExpr]
+                                                            ) [PrintStatementNoWidth]
+                                                          ) [IfElseStatement]
+                                                        ) [IfStatement]
+                                                      ) [StatementListNonEmpty]
+                                                      StatementDesiStatement(
+                                                        DesiStatementAssign(
+                                                          AssignDesignatorStmt(
+                                                            DesiOnlyIdent(
+                                                             a
+                                                            ) [DesiOnlyIdent]
+                                                            Assignop(
+                                                            ) [Assignop]
+                                                            PosExpr(
+                                                              SingleTerm(
+                                                                FactorNum(
+                                                                 2
+                                                                ) [FactorNum]
+                                                              ) [SingleTerm]
+                                                            ) [PosExpr]
+                                                          ) [AssignDesignatorStmt]
+                                                        ) [DesiStatementAssign]
+                                                      ) [StatementDesiStatement]
+                                                    ) [StatementListNonEmpty]
+                                                    StatementDesiStatement(
+                                                      DesiStatementAssign(
+                                                        AssignDesignatorStmt(
+                                                          DesiOnlyIdent(
+                                                           niz
+                                                          ) [DesiOnlyIdent]
+                                                          Assignop(
+                                                          ) [Assignop]
+                                                          PosExpr(
+                                                            SingleTerm(
+                                                              FactorNewArray(
+                                                                Type(
+                                                                 int
+                                                                ) [Type]
+                                                                PosExpr(
+                                                                  SingleTerm(
+                                                                    FactorNum(
+                                                                     3
+                                                                    ) [FactorNum]
+                                                                  ) [SingleTerm]
+                                                                ) [PosExpr]
+                                                              ) [FactorNewArray]
+                                                            ) [SingleTerm]
+                                                          ) [PosExpr]
+                                                        ) [AssignDesignatorStmt]
+                                                      ) [DesiStatementAssign]
+                                                    ) [StatementDesiStatement]
+                                                  ) [StatementListNonEmpty]
+                                                  StatementDesiStatement(
+                                                    DesiStatementAssign(
+                                                      AssignDesignatorStmt(
+                                                        DesiArray(
+                                                          DesiOnlyIdent(
+                                                           niz
+                                                          ) [DesiOnlyIdent]
+                                                          PosExpr(
+                                                            SingleTerm(
+                                                              FactorNum(
+                                                               0
+                                                              ) [FactorNum]
+                                                            ) [SingleTerm]
+                                                          ) [PosExpr]
+                                                        ) [DesiArray]
+                                                        Assignop(
+                                                        ) [Assignop]
+                                                        PosExpr(
+                                                          MultipleTerm(
+                                                            SingleTerm(
+                                                              FactorNum(
+                                                               1
+                                                              ) [FactorNum]
+                                                            ) [SingleTerm]
+                                                            Multiplication(
+                                                            ) [Multiplication]
+                                                            FactorDesi(
+                                                              DesiOnlyIdent(
+                                                               a
+                                                              ) [DesiOnlyIdent]
+                                                            ) [FactorDesi]
+                                                          ) [MultipleTerm]
+                                                        ) [PosExpr]
+                                                      ) [AssignDesignatorStmt]
+                                                    ) [DesiStatementAssign]
+                                                  ) [StatementDesiStatement]
+                                                ) [StatementListNonEmpty]
+                                                StatementDesiStatement(
+                                                  DesiStatementAssign(
+                                                    AssignDesignatorStmt(
+                                                      DesiArray(
+                                                        DesiOnlyIdent(
+                                                         niz
+                                                        ) [DesiOnlyIdent]
+                                                        PosExpr(
+                                                          SingleTerm(
+                                                            FactorNum(
+                                                             1
+                                                            ) [FactorNum]
+                                                          ) [SingleTerm]
+                                                        ) [PosExpr]
+                                                      ) [DesiArray]
+                                                      Assignop(
+                                                      ) [Assignop]
+                                                      PosExpr(
+                                                        MultipleTerm(
+                                                          SingleTerm(
+                                                            FactorNum(
+                                                             2
+                                                            ) [FactorNum]
+                                                          ) [SingleTerm]
+                                                          Multiplication(
+                                                          ) [Multiplication]
+                                                          FactorDesi(
+                                                            DesiOnlyIdent(
+                                                             a
+                                                            ) [DesiOnlyIdent]
+                                                          ) [FactorDesi]
+                                                        ) [MultipleTerm]
+                                                      ) [PosExpr]
+                                                    ) [AssignDesignatorStmt]
+                                                  ) [DesiStatementAssign]
+                                                ) [StatementDesiStatement]
+                                              ) [StatementListNonEmpty]
+                                              StatementDesiStatement(
+                                                DesiStatementAssign(
+                                                  AssignDesignatorStmt(
+                                                    DesiArray(
+                                                      DesiOnlyIdent(
+                                                       niz
+                                                      ) [DesiOnlyIdent]
+                                                      PosExpr(
+                                                        SingleTerm(
+                                                          FactorNum(
+                                                           2
+                                                          ) [FactorNum]
+                                                        ) [SingleTerm]
+                                                      ) [PosExpr]
+                                                    ) [DesiArray]
+                                                    Assignop(
+                                                    ) [Assignop]
+                                                    ExprMultipleTerms(
+                                                      PosExpr(
+                                                        MultipleTerm(
+                                                          SingleTerm(
+                                                            FactorFuncCall(
+                                                              DesiOnlyIdent(
+                                                               sum
+                                                              ) [DesiOnlyIdent]
+                                                              ActParsNonEmpty(
+                                                                MultipleActPars(
+                                                                  SingleActPar(
+                                                                    PosExpr(
+                                                                      SingleTerm(
+                                                                        FactorDesi(
+                                                                          DesiArray(
+                                                                            DesiOnlyIdent(
+                                                                             niz
+                                                                            ) [DesiOnlyIdent]
+                                                                            PosExpr(
+                                                                              SingleTerm(
+                                                                                FactorNum(
+                                                                                 1
+                                                                                ) [FactorNum]
+                                                                              ) [SingleTerm]
+                                                                            ) [PosExpr]
+                                                                          ) [DesiArray]
+                                                                        ) [FactorDesi]
+                                                                      ) [SingleTerm]
+                                                                    ) [PosExpr]
+                                                                  ) [SingleActPar]
+                                                                  PosExpr(
+                                                                    SingleTerm(
+                                                                      FactorDesi(
+                                                                        DesiArray(
+                                                                          DesiOnlyIdent(
+                                                                           niz
+                                                                          ) [DesiOnlyIdent]
+                                                                          PosExpr(
+                                                                            SingleTerm(
+                                                                              FactorNum(
+                                                                               0
+                                                                              ) [FactorNum]
+                                                                            ) [SingleTerm]
+                                                                          ) [PosExpr]
+                                                                        ) [DesiArray]
+                                                                      ) [FactorDesi]
+                                                                    ) [SingleTerm]
+                                                                  ) [PosExpr]
+                                                                ) [MultipleActPars]
+                                                              ) [ActParsNonEmpty]
+                                                            ) [FactorFuncCall]
+                                                          ) [SingleTerm]
+                                                          Multiplication(
+                                                          ) [Multiplication]
+                                                          FactorDesi(
+                                                            DesiOnlyIdent(
+                                                             a
+                                                            ) [DesiOnlyIdent]
+                                                          ) [FactorDesi]
+                                                        ) [MultipleTerm]
+                                                      ) [PosExpr]
+                                                      Addition(
+                                                      ) [Addition]
+                                                      SingleTerm(
+                                                        FactorNum(
+                                                         1
+                                                        ) [FactorNum]
+                                                      ) [SingleTerm]
+                                                    ) [ExprMultipleTerms]
+                                                  ) [AssignDesignatorStmt]
+                                                ) [DesiStatementAssign]
+                                              ) [StatementDesiStatement]
+                                            ) [StatementListNonEmpty]
+                                            IfElseStatement(
+                                              IfHeader(
+                                              ) [IfHeader]
+                                              ConditionDisjunction(
+                                                SingleCondition(
+                                                  SingleCondTerm(
+                                                    CondFactExpr(
+                                                      PosExpr(
+                                                        SingleTerm(
+                                                          FactorFuncCall(
+                                                            DesiOnlyIdent(
+                                                             verify
+                                                            ) [DesiOnlyIdent]
+                                                            NoActPars(
+                                                            ) [NoActPars]
+                                                          ) [FactorFuncCall]
+                                                        ) [SingleTerm]
+                                                      ) [PosExpr]
+                                                    ) [CondFactExpr]
+                                                  ) [SingleCondTerm]
+                                                ) [SingleCondition]
+                                                SingleCondTerm(
+                                                  CondFactRel(
+                                                    PosExpr(
+                                                      SingleTerm(
+                                                        FactorDesi(
+                                                          DesiArray(
+                                                            DesiOnlyIdent(
+                                                             niz
+                                                            ) [DesiOnlyIdent]
+                                                            PosExpr(
+                                                              SingleTerm(
+                                                                FactorNum(
+                                                                 2
+                                                                ) [FactorNum]
+                                                              ) [SingleTerm]
+                                                            ) [PosExpr]
+                                                          ) [DesiArray]
+                                                        ) [FactorDesi]
+                                                      ) [SingleTerm]
+                                                    ) [PosExpr]
+                                                    RelEq(
+                                                    ) [RelEq]
+                                                    PosExpr(
+                                                      SingleTerm(
+                                                        FactorNum(
+                                                         4
+                                                        ) [FactorNum]
+                                                      ) [SingleTerm]
+                                                    ) [PosExpr]
+                                                  ) [CondFactRel]
+                                                ) [SingleCondTerm]
+                                              ) [ConditionDisjunction]
+                                              Empty(
+                                              ) [Empty]
+                                              PrintStatementNoWidth(
+                                                PosExpr(
+                                                  SingleTerm(
+                                                    FactorFuncCall(
+                                                      DesiOnlyIdent(
+                                                       ord
+                                                      ) [DesiOnlyIdent]
+                                                      ActParsNonEmpty(
+                                                        SingleActPar(
+                                                          PosExpr(
+                                                            SingleTerm(
+                                                              FactorChar(
+                                                               A
+                                                              ) [FactorChar]
+                                                            ) [SingleTerm]
+                                                          ) [PosExpr]
+                                                        ) [SingleActPar]
+                                                      ) [ActParsNonEmpty]
+                                                    ) [FactorFuncCall]
+                                                  ) [SingleTerm]
+                                                ) [PosExpr]
+                                              ) [PrintStatementNoWidth]
+                                              ElseHeader(
+                                              ) [ElseHeader]
+                                              PrintStatementNoWidth(
+                                                PosExpr(
+                                                  SingleTerm(
+                                                    FactorFuncCall(
+                                                      DesiOnlyIdent(
+                                                       ord
+                                                      ) [DesiOnlyIdent]
+                                                      ActParsNonEmpty(
+                                                        SingleActPar(
+                                                          PosExpr(
+                                                            SingleTerm(
+                                                              FactorChar(
+                                                               a
+                                                              ) [FactorChar]
+                                                            ) [SingleTerm]
+                                                          ) [PosExpr]
+                                                        ) [SingleActPar]
+                                                      ) [ActParsNonEmpty]
+                                                    ) [FactorFuncCall]
+                                                  ) [SingleTerm]
+                                                ) [PosExpr]
+                                              ) [PrintStatementNoWidth]
+                                            ) [IfElseStatement]
+                                          ) [StatementListNonEmpty]
+                                          PrintStatementNoWidth(
+                                            PosExpr(
+                                              SingleTerm(
+                                                FactorDesi(
+                                                  DesiOnlyIdent(
+                                                   eol
+                                                  ) [DesiOnlyIdent]
+                                                ) [FactorDesi]
+                                              ) [SingleTerm]
+                                            ) [PosExpr]
+                                          ) [PrintStatementNoWidth]
+                                        ) [StatementListNonEmpty]
+                                        StatementDesiStatement(
+                                          DesiStatementAssign(
+                                            AssignDesignatorStmt(
+                                              DesiOnlyIdent(
+                                               i
+                                              ) [DesiOnlyIdent]
+                                              Assignop(
+                                              ) [Assignop]
+                                              PosExpr(
+                                                SingleTerm(
+                                                  FactorNum(
+                                                   0
+                                                  ) [FactorNum]
+                                                ) [SingleTerm]
+                                              ) [PosExpr]
+                                            ) [AssignDesignatorStmt]
+                                          ) [DesiStatementAssign]
+                                        ) [StatementDesiStatement]
+                                      ) [StatementListNonEmpty]
+                                      WhileStatement(
+                                        WhileHeader(
+                                        ) [WhileHeader]
+                                        SingleCondition(
+                                          SingleCondTerm(
+                                            CondFactRel(
+                                              PosExpr(
+                                                SingleTerm(
+                                                  FactorDesi(
+                                                    DesiOnlyIdent(
+                                                     i
+                                                    ) [DesiOnlyIdent]
+                                                  ) [FactorDesi]
+                                                ) [SingleTerm]
+                                              ) [PosExpr]
+                                              RelLs(
+                                              ) [RelLs]
+                                              PosExpr(
+                                                SingleTerm(
+                                                  FactorNum(
+                                                   10
+                                                  ) [FactorNum]
+                                                ) [SingleTerm]
+                                              ) [PosExpr]
+                                            ) [CondFactRel]
+                                          ) [SingleCondTerm]
+                                        ) [SingleCondition]
+                                        Empty(
+                                        ) [Empty]
+                                        MultipleStatements(
+                                          StatementListNonEmpty(
+                                            StatementListNonEmpty(
+                                              StatementListNonEmpty(
+                                                NoStatements(
+                                                ) [NoStatements]
+                                                IfStatement(
+                                                  IfHeader(
+                                                  ) [IfHeader]
+                                                  SingleCondition(
+                                                    SingleCondTerm(
+                                                      CondFactRel(
+                                                        PosExpr(
+                                                          SingleTerm(
+                                                            FactorDesi(
+                                                              DesiOnlyIdent(
+                                                               i
+                                                              ) [DesiOnlyIdent]
+                                                            ) [FactorDesi]
+                                                          ) [SingleTerm]
+                                                        ) [PosExpr]
+                                                        RelEq(
+                                                        ) [RelEq]
+                                                        PosExpr(
+                                                          SingleTerm(
+                                                            FactorNum(
+                                                             3
+                                                            ) [FactorNum]
+                                                          ) [SingleTerm]
+                                                        ) [PosExpr]
+                                                      ) [CondFactRel]
+                                                    ) [SingleCondTerm]
+                                                  ) [SingleCondition]
+                                                  Empty(
+                                                  ) [Empty]
+                                                  MultipleStatements(
+                                                    StatementListNonEmpty(
+                                                      StatementListNonEmpty(
+                                                        NoStatements(
+                                                        ) [NoStatements]
+                                                        StatementDesiStatement(
+                                                          DesiStatementInc(
+                                                            DesiOnlyIdent(
+                                                             i
+                                                            ) [DesiOnlyIdent]
+                                                          ) [DesiStatementInc]
+                                                        ) [StatementDesiStatement]
+                                                      ) [StatementListNonEmpty]
+                                                      ContinueStatement(
+                                                      ) [ContinueStatement]
+                                                    ) [StatementListNonEmpty]
+                                                  ) [MultipleStatements]
+                                                ) [IfStatement]
+                                              ) [StatementListNonEmpty]
+                                              IfStatement(
+                                                IfHeader(
+                                                ) [IfHeader]
+                                                SingleCondition(
+                                                  SingleCondTerm(
+                                                    CondFactRel(
+                                                      PosExpr(
+                                                        SingleTerm(
+                                                          FactorDesi(
+                                                            DesiOnlyIdent(
+                                                             i
+                                                            ) [DesiOnlyIdent]
+                                                          ) [FactorDesi]
+                                                        ) [SingleTerm]
+                                                      ) [PosExpr]
+                                                      RelEq(
+                                                      ) [RelEq]
+                                                      PosExpr(
+                                                        SingleTerm(
+                                                          FactorNum(
+                                                           4
+                                                          ) [FactorNum]
+                                                        ) [SingleTerm]
+                                                      ) [PosExpr]
+                                                    ) [CondFactRel]
+                                                  ) [SingleCondTerm]
+                                                ) [SingleCondition]
+                                                Empty(
+                                                ) [Empty]
+                                                BreakStatement(
+                                                ) [BreakStatement]
+                                              ) [IfStatement]
+                                            ) [StatementListNonEmpty]
+                                            StatementDesiStatement(
+                                              DesiStatementAssign(
+                                                AssignDesignatorStmt(
+                                                  DesiOnlyIdent(
+                                                   i
+                                                  ) [DesiOnlyIdent]
+                                                  Assignop(
+                                                  ) [Assignop]
+                                                  PosExpr(
+                                                    SingleTerm(
+                                                      FactorFuncCall(
+                                                        DesiOnlyIdent(
+                                                         inkrement
+                                                        ) [DesiOnlyIdent]
+                                                        ActParsNonEmpty(
+                                                          MultipleActPars(
+                                                            SingleActPar(
+                                                              PosExpr(
+                                                                SingleTerm(
+                                                                  FactorDesi(
+                                                                    DesiOnlyIdent(
+                                                                     i
+                                                                    ) [DesiOnlyIdent]
+                                                                  ) [FactorDesi]
+                                                                ) [SingleTerm]
+                                                              ) [PosExpr]
+                                                            ) [SingleActPar]
+                                                            PosExpr(
+                                                              SingleTerm(
+                                                                FactorNum(
+                                                                 1
+                                                                ) [FactorNum]
+                                                              ) [SingleTerm]
+                                                            ) [PosExpr]
+                                                          ) [MultipleActPars]
+                                                        ) [ActParsNonEmpty]
+                                                      ) [FactorFuncCall]
+                                                    ) [SingleTerm]
+                                                  ) [PosExpr]
+                                                ) [AssignDesignatorStmt]
+                                              ) [DesiStatementAssign]
+                                            ) [StatementDesiStatement]
+                                          ) [StatementListNonEmpty]
+                                        ) [MultipleStatements]
+                                      ) [WhileStatement]
+                                    ) [StatementListNonEmpty]
+                                    IfElseStatement(
+                                      IfHeader(
+                                      ) [IfHeader]
+                                      SingleCondition(
+                                        CondTermConjunction(
+                                          SingleCondTerm(
+                                            CondFactRel(
+                                              PosExpr(
+                                                SingleTerm(
+                                                  FactorDesi(
+                                                    DesiOnlyIdent(
+                                                     i
+                                                    ) [DesiOnlyIdent]
+                                                  ) [FactorDesi]
+                                                ) [SingleTerm]
+                                              ) [PosExpr]
+                                              RelEq(
+                                              ) [RelEq]
+                                              PosExpr(
+                                                SingleTerm(
+                                                  FactorNum(
+                                                   3
+                                                  ) [FactorNum]
+                                                ) [SingleTerm]
+                                              ) [PosExpr]
+                                            ) [CondFactRel]
+                                          ) [SingleCondTerm]
+                                          CondFactExpr(
+                                            PosExpr(
+                                              SingleTerm(
+                                                FactorFuncCall(
+                                                  DesiOnlyIdent(
+                                                   verify
+                                                  ) [DesiOnlyIdent]
+                                                  NoActPars(
+                                                  ) [NoActPars]
+                                                ) [FactorFuncCall]
+                                              ) [SingleTerm]
+                                            ) [PosExpr]
+                                          ) [CondFactExpr]
+                                        ) [CondTermConjunction]
+                                      ) [SingleCondition]
+                                      Empty(
+                                      ) [Empty]
+                                      PrintStatementNoWidth(
+                                        NegExpr(
+                                          SingleTerm(
+                                            FactorNum(
+                                             4
+                                            ) [FactorNum]
+                                          ) [SingleTerm]
+                                        ) [NegExpr]
+                                      ) [PrintStatementNoWidth]
+                                      ElseHeader(
+                                      ) [ElseHeader]
+                                      PrintStatementNoWidth(
+                                        PosExpr(
+                                          SingleTerm(
+                                            FactorNum(
+                                             4
+                                            ) [FactorNum]
+                                          ) [SingleTerm]
+                                        ) [PosExpr]
+                                      ) [PrintStatementNoWidth]
+                                    ) [IfElseStatement]
+                                  ) [StatementListNonEmpty]
+                                  ReadStatement(
+                                    DesiArray(
+                                      DesiOnlyIdent(
+                                       niz
+                                      ) [DesiOnlyIdent]
+                                      PosExpr(
+                                        SingleTerm(
+                                          FactorNum(
+                                           0
+                                          ) [FactorNum]
+                                        ) [SingleTerm]
+                                      ) [PosExpr]
+                                    ) [DesiArray]
+                                  ) [ReadStatement]
+                                ) [StatementListNonEmpty]
+                                ReadStatement(
+                                  DesiArray(
+                                    DesiOnlyIdent(
+                                     niz
+                                    ) [DesiOnlyIdent]
+                                    PosExpr(
+                                      SingleTerm(
+                                        FactorNum(
+                                         1
+                                        ) [FactorNum]
+                                      ) [SingleTerm]
+                                    ) [PosExpr]
+                                  ) [DesiArray]
+                                ) [ReadStatement]
+                              ) [StatementListNonEmpty]
+                              ReadStatement(
+                                DesiArray(
+                                  DesiOnlyIdent(
+                                   niz
+                                  ) [DesiOnlyIdent]
+                                  PosExpr(
+                                    SingleTerm(
+                                      FactorNum(
+                                       2
+                                      ) [FactorNum]
+                                    ) [SingleTerm]
+                                  ) [PosExpr]
+                                ) [DesiArray]
+                              ) [ReadStatement]
+                            ) [StatementListNonEmpty]
+                            PrintStatementNoWidth(
+                              PosExpr(
+                                SingleTerm(
+                                  FactorDesi(
+                                    DesiOnlyIdent(
+                                     eol
+                                    ) [DesiOnlyIdent]
+                                  ) [FactorDesi]
+                                ) [SingleTerm]
+                              ) [PosExpr]
+                            ) [PrintStatementNoWidth]
+                          ) [StatementListNonEmpty]
+                          PrintStatementNoWidth(
+                            PosExpr(
+                              SingleTerm(
+                                FactorFuncCall(
+                                  DesiOnlyIdent(
+                                   sum
+                                  ) [DesiOnlyIdent]
+                                  ActParsNonEmpty(
+                                    MultipleActPars(
+                                      SingleActPar(
+                                        PosExpr(
+                                          SingleTerm(
+                                            FactorFuncCall(
+                                              DesiOnlyIdent(
+                                               sum
+                                              ) [DesiOnlyIdent]
+                                              ActParsNonEmpty(
+                                                MultipleActPars(
+                                                  SingleActPar(
+                                                    PosExpr(
+                                                      SingleTerm(
+                                                        FactorDesi(
+                                                          DesiArray(
+                                                            DesiOnlyIdent(
+                                                             niz
+                                                            ) [DesiOnlyIdent]
+                                                            PosExpr(
+                                                              SingleTerm(
+                                                                FactorNum(
+                                                                 0
+                                                                ) [FactorNum]
+                                                              ) [SingleTerm]
+                                                            ) [PosExpr]
+                                                          ) [DesiArray]
+                                                        ) [FactorDesi]
+                                                      ) [SingleTerm]
+                                                    ) [PosExpr]
+                                                  ) [SingleActPar]
+                                                  PosExpr(
+                                                    SingleTerm(
+                                                      FactorDesi(
+                                                        DesiArray(
+                                                          DesiOnlyIdent(
+                                                           niz
+                                                          ) [DesiOnlyIdent]
+                                                          PosExpr(
+                                                            SingleTerm(
+                                                              FactorNum(
+                                                               1
+                                                              ) [FactorNum]
+                                                            ) [SingleTerm]
+                                                          ) [PosExpr]
+                                                        ) [DesiArray]
+                                                      ) [FactorDesi]
+                                                    ) [SingleTerm]
+                                                  ) [PosExpr]
+                                                ) [MultipleActPars]
+                                              ) [ActParsNonEmpty]
+                                            ) [FactorFuncCall]
+                                          ) [SingleTerm]
+                                        ) [PosExpr]
+                                      ) [SingleActPar]
+                                      PosExpr(
+                                        SingleTerm(
+                                          FactorDesi(
+                                            DesiArray(
+                                              DesiOnlyIdent(
+                                               niz
+                                              ) [DesiOnlyIdent]
+                                              PosExpr(
+                                                SingleTerm(
+                                                  FactorNum(
+                                                   2
+                                                  ) [FactorNum]
+                                                ) [SingleTerm]
+                                              ) [PosExpr]
+                                            ) [DesiArray]
+                                          ) [FactorDesi]
+                                        ) [SingleTerm]
+                                      ) [PosExpr]
+                                    ) [MultipleActPars]
+                                  ) [ActParsNonEmpty]
+                                ) [FactorFuncCall]
+                              ) [SingleTerm]
+                            ) [PosExpr]
+                          ) [PrintStatementNoWidth]
+                        ) [StatementListNonEmpty]
+                        PrintStatementNoWidth(
+                          PosExpr(
+                            SingleTerm(
+                              FactorDesi(
+                                DesiOnlyIdent(
+                                 eol
+                                ) [DesiOnlyIdent]
+                              ) [FactorDesi]
+                            ) [SingleTerm]
+                          ) [PosExpr]
+                        ) [PrintStatementNoWidth]
+                      ) [StatementListNonEmpty]
+                      PrintStatementNoWidth(
+                        PosExpr(
+                          SingleTerm(
+                            FactorFuncCall(
+                              DesiOnlyIdent(
+                               inkrement
+                              ) [DesiOnlyIdent]
+                              ActParsNonEmpty(
+                                MultipleActPars(
+                                  SingleActPar(
+                                    PosExpr(
+                                      SingleTerm(
+                                        FactorDesi(
+                                          DesiArray(
+                                            DesiOnlyIdent(
+                                             niz
+                                            ) [DesiOnlyIdent]
+                                            PosExpr(
+                                              SingleTerm(
+                                                FactorNum(
+                                                 2
+                                                ) [FactorNum]
+                                              ) [SingleTerm]
+                                            ) [PosExpr]
+                                          ) [DesiArray]
+                                        ) [FactorDesi]
+                                      ) [SingleTerm]
+                                    ) [PosExpr]
+                                  ) [SingleActPar]
+                                  PosExpr(
+                                    SingleTerm(
+                                      FactorNum(
+                                       2
+                                      ) [FactorNum]
+                                    ) [SingleTerm]
+                                  ) [PosExpr]
+                                ) [MultipleActPars]
+                              ) [ActParsNonEmpty]
+                            ) [FactorFuncCall]
+                          ) [SingleTerm]
+                        ) [PosExpr]
+                      ) [PrintStatementNoWidth]
+                    ) [StatementListNonEmpty]
+                    StatementDesiStatement(
+                      DesiStatementAssign(
+                        AssignDesignatorStmt(
+                          DesiOnlyIdent(
+                           a
+                          ) [DesiOnlyIdent]
+                          Assignop(
+                          ) [Assignop]
+                          PosExpr(
+                            SingleTerm(
+                              FactorNum(
+                               3
+                              ) [FactorNum]
+                            ) [SingleTerm]
+                          ) [PosExpr]
+                        ) [AssignDesignatorStmt]
+                      ) [DesiStatementAssign]
+                    ) [StatementDesiStatement]
+                  ) [StatementListNonEmpty]
+                  StatementDesiStatement(
+                    DesiStatementAssign(
+                      AssignDesignatorStmt(
+                        DesiOnlyIdent(
+                         i
+                        ) [DesiOnlyIdent]
+                        Assignop(
+                        ) [Assignop]
+                        PosExpr(
+                          SingleTerm(
+                            FactorNum(
+                             0
+                            ) [FactorNum]
+                          ) [SingleTerm]
+                        ) [PosExpr]
+                      ) [AssignDesignatorStmt]
+                    ) [DesiStatementAssign]
+                  ) [StatementDesiStatement]
+                ) [StatementListNonEmpty]
+                WhileStatement(
+                  WhileHeader(
+                  ) [WhileHeader]
+                  SingleCondition(
+                    SingleCondTerm(
+                      CondFactRel(
+                        PosExpr(
+                          SingleTerm(
+                            FactorDesi(
+                              DesiOnlyIdent(
+                               i
+                              ) [DesiOnlyIdent]
+                            ) [FactorDesi]
+                          ) [SingleTerm]
+                        ) [PosExpr]
+                        RelLs(
+                        ) [RelLs]
+                        PosExpr(
+                          SingleTerm(
+                            FactorNum(
+                             3
+                            ) [FactorNum]
+                          ) [SingleTerm]
+                        ) [PosExpr]
+                      ) [CondFactRel]
+                    ) [SingleCondTerm]
+                  ) [SingleCondition]
+                  Empty(
+                  ) [Empty]
+                  MultipleStatements(
+                    StatementListNonEmpty(
+                      StatementListNonEmpty(
+                        NoStatements(
+                        ) [NoStatements]
+                        StatementDesiStatement(
+                          DesiStatementAssign(
+                            AssignDesignatorStmt(
+                              DesiArray(
+                                DesiOnlyIdent(
+                                 niz
+                                ) [DesiOnlyIdent]
+                                PosExpr(
+                                  SingleTerm(
+                                    FactorDesi(
+                                      DesiOnlyIdent(
+                                       i
+                                      ) [DesiOnlyIdent]
+                                    ) [FactorDesi]
+                                  ) [SingleTerm]
+                                ) [PosExpr]
+                              ) [DesiArray]
+                              Assignop(
+                              ) [Assignop]
+                              PosExpr(
+                                MultipleTerm(
+                                  MultipleTerm(
+                                    SingleTerm(
+                                      FactorDesi(
+                                        DesiArray(
+                                          DesiOnlyIdent(
+                                           niz
+                                          ) [DesiOnlyIdent]
+                                          PosExpr(
+                                            SingleTerm(
+                                              FactorDesi(
+                                                DesiOnlyIdent(
+                                                 i
+                                                ) [DesiOnlyIdent]
+                                              ) [FactorDesi]
+                                            ) [SingleTerm]
+                                          ) [PosExpr]
+                                        ) [DesiArray]
+                                      ) [FactorDesi]
+                                    ) [SingleTerm]
+                                    Multiplication(
+                                    ) [Multiplication]
+                                    FactorNum(
+                                     2
+                                    ) [FactorNum]
+                                  ) [MultipleTerm]
+                                  Multiplication(
+                                  ) [Multiplication]
+                                  FactorDesi(
+                                    DesiOnlyIdent(
+                                     a
+                                    ) [DesiOnlyIdent]
+                                  ) [FactorDesi]
+                                ) [MultipleTerm]
+                              ) [PosExpr]
+                            ) [AssignDesignatorStmt]
+                          ) [DesiStatementAssign]
+                        ) [StatementDesiStatement]
+                      ) [StatementListNonEmpty]
+                      StatementDesiStatement(
+                        DesiStatementInc(
+                          DesiOnlyIdent(
+                           i
+                          ) [DesiOnlyIdent]
+                        ) [DesiStatementInc]
+                      ) [StatementDesiStatement]
+                    ) [StatementListNonEmpty]
+                  ) [MultipleStatements]
+                ) [WhileStatement]
+              ) [StatementListNonEmpty]
+              ForeachStatement(
+                DesiOnlyIdent(
+                 niz
+                ) [DesiOnlyIdent]
+                ForeachIterIdent(
+                 curr
+                ) [ForeachIterIdent]
+                PrintStatementNoWidth(
+                  PosExpr(
+                    SingleTerm(
+                      FactorDesi(
+                        DesiOnlyIdent(
+                         curr
+                        ) [DesiOnlyIdent]
+                      ) [FactorDesi]
+                    ) [SingleTerm]
+                  ) [PosExpr]
+                ) [PrintStatementNoWidth]
+              ) [ForeachStatement]
+            ) [StatementListNonEmpty]
+            PrintStatementNoWidth(
+              PosExpr(
+                SingleTerm(
+                  FactorDesi(
+                    DesiOnlyIdent(
+                     eol
+                    ) [DesiOnlyIdent]
+                  ) [FactorDesi]
+                ) [SingleTerm]
+              ) [PosExpr]
+            ) [PrintStatementNoWidth]
+          ) [StatementListNonEmpty]
+          StatementDesiStatement(
+            DesiStatementAssign(
+              AssignDesignatorStmt(
+                DesiOnlyIdent(
+                 niz2
+                ) [DesiOnlyIdent]
+                Assignop(
+                ) [Assignop]
+                PosExpr(
+                  SingleTerm(
+                    FactorNum(
+                     0
+                    ) [FactorNum]
+                  ) [SingleTerm]
+                ) [PosExpr]
+              ) [AssignDesignatorStmt]
+            ) [DesiStatementAssign]
+          ) [StatementDesiStatement]
+        ) [StatementListNonEmpty]
+        ForeachStatement(
+          DesiOnlyIdent(
+           niz
+          ) [DesiOnlyIdent]
+          ForeachIterIdent(
+           curr
+          ) [ForeachIterIdent]
+          MultipleStatements(
+            StatementListNonEmpty(
+              NoStatements(
+              ) [NoStatements]
+              StatementDesiStatement(
+                DesiStatementAssign(
+                  AssignDesignatorStmt(
+                    DesiOnlyIdent(
+                     niz2
+                    ) [DesiOnlyIdent]
+                    Assignop(
+                    ) [Assignop]
+                    ExprMultipleTerms(
+                      PosExpr(
+                        SingleTerm(
+                          FactorDesi(
+                            DesiOnlyIdent(
+                             niz2
+                            ) [DesiOnlyIdent]
+                          ) [FactorDesi]
+                        ) [SingleTerm]
+                      ) [PosExpr]
+                      Addition(
+                      ) [Addition]
+                      MultipleTerm(
+                        SingleTerm(
+                          FactorDesi(
+                            DesiOnlyIdent(
+                             curr
+                            ) [DesiOnlyIdent]
+                          ) [FactorDesi]
+                        ) [SingleTerm]
+                        Multiplication(
+                        ) [Multiplication]
+                        FactorDesi(
+                          DesiOnlyIdent(
+                           curr
+                          ) [DesiOnlyIdent]
+                        ) [FactorDesi]
+                      ) [MultipleTerm]
+                    ) [ExprMultipleTerms]
+                  ) [AssignDesignatorStmt]
+                ) [DesiStatementAssign]
+              ) [StatementDesiStatement]
+            ) [StatementListNonEmpty]
+          ) [MultipleStatements]
+        ) [ForeachStatement]
+      ) [StatementListNonEmpty]
+      PrintStatementNoWidth(
+        PosExpr(
+          SingleTerm(
+            FactorDesi(
+              DesiOnlyIdent(
+               niz2
+              ) [DesiOnlyIdent]
+            ) [FactorDesi]
+          ) [SingleTerm]
+        ) [PosExpr]
+      ) [PrintStatementNoWidth]
+    ) [StatementListNonEmpty]
+  ) [VoidMethodDeclarations]
+) [Program]
+INFO  23:39:10,032 - ===================================
+INFO  23:39:10,035 - 0
+INFO  23:39:10,035 - 1
+INFO  23:39:10,035 - Deklarisana simbolicka konstanta "jedan" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,035 - Deklarisana globalna promenljiva "i" na liniji 7 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,035 - Deklarisana globalna promenljiva "ibool" na liniji 8 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,035 - Deklarisana globalna promenljiva "niz2" na liniji 10 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,035 - Deklarisan globalni niz "niz" na liniji 12 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,035 - Deklarisana globalna promenljiva "a" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,035 - Deklarisana globalna promenljiva "curr" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,035 - Deklarisan formalni argument "z" na liniji 17 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,036 - Deklarisan formalni argument "d" na liniji 17 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,036 - Koriscenje formalnog argumenta z na liniji 19.
+INFO  23:39:10,036 - Koriscenje formalnog argumenta d na liniji 19.
+INFO  23:39:10,036 - form pars: 2; total vars: 2
+INFO  23:39:10,036 - Deklarisan formalni argument "a" na liniji 23 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,036 - Deklarisan formalni argument "inc" na liniji 23 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,036 - Deklarisana lokalna promenljiva "pom" na liniji 24 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:39:10,036 - Koriscenje formalnog argumenta inc na liniji 26.
+INFO  23:39:10,036 - Koriscenje formalnog argumenta inc na liniji 27.
+INFO  23:39:10,036 - Koriscenje formalnog argumenta a na liniji 27.
+INFO  23:39:10,036 - Koriscenje formalnog argumenta a na liniji 29.
+INFO  23:39:10,037 - Poziv funkcije sum na liniji 29.
+INFO  23:39:10,037 - form pars: 2; total vars: 3
+INFO  23:39:10,037 - form pars: 0; total vars: 0
+INFO  23:39:10,037 - Pristup nizu niz na liniji 55.
+INFO  23:39:10,037 - Pristup nizu niz na liniji 56.
+INFO  23:39:10,037 - Pristup nizu niz na liniji 57.
+INFO  23:39:10,037 - Pristup nizu niz na liniji 57.
+INFO  23:39:10,037 - Pristup nizu niz na liniji 57.
+INFO  23:39:10,037 - Poziv funkcije sum na liniji 57.
+INFO  23:39:10,037 - Poziv funkcije verify na liniji 58.
+INFO  23:39:10,037 - Pristup nizu niz na liniji 58.
+INFO  23:39:10,037 - Poziv funkcije ord na liniji 58.
+INFO  23:39:10,037 - Poziv funkcije ord na liniji 59.
+INFO  23:39:10,037 - Poziv funkcije inkrement na liniji 70.
+INFO  23:39:10,038 - Poziv funkcije verify na liniji 73.
+INFO  23:39:10,038 - Pristup nizu niz na liniji 76.
+INFO  23:39:10,038 - Pristup nizu niz na liniji 77.
+INFO  23:39:10,038 - Pristup nizu niz na liniji 78.
+INFO  23:39:10,038 - Pristup nizu niz na liniji 80.
+INFO  23:39:10,038 - Pristup nizu niz na liniji 80.
+INFO  23:39:10,038 - Poziv funkcije sum na liniji 80.
+INFO  23:39:10,038 - Pristup nizu niz na liniji 80.
+INFO  23:39:10,038 - Poziv funkcije sum na liniji 80.
+INFO  23:39:10,038 - Pristup nizu niz na liniji 83.
+INFO  23:39:10,038 - Poziv funkcije inkrement na liniji 83.
+INFO  23:39:10,038 - Pristup nizu niz na liniji 88.
+INFO  23:39:10,038 - Pristup nizu niz na liniji 88.
+INFO  23:39:10,038 - form pars: 0; total vars: 0
+INFO  23:39:10,038 - ===================================
+INFO  23:39:10,043 - Parsiranje je uspesno zavrseno!

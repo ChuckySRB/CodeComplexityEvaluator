@@ -1,0 +1,300 @@
+INFO  22:00:15,254 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  22:00:15,287 - #2 program
+INFO  22:00:15,287 - #44 p
+INFO  22:00:15,287 - #44 int
+INFO  22:00:15,288 - #44 c
+INFO  22:00:15,288 - #9 ,
+INFO  22:00:15,288 - #44 d
+INFO  22:00:15,288 - #10 [
+INFO  22:00:15,289 - #11 ]
+INFO  22:00:15,289 - #9 ,
+INFO  22:00:15,289 - #44 e
+INFO  22:00:15,289 - #7 ;
+INFO  22:00:15,289 - #44 char
+INFO  22:00:15,289 - #44 a
+INFO  22:00:15,289 - #10 [
+INFO  22:00:15,289 - #11 ]
+INFO  22:00:15,289 - #9 ,
+INFO  22:00:15,289 - #44 aa
+INFO  22:00:15,289 - #7 ;
+INFO  22:00:15,289 - #44 bool
+INFO  22:00:15,289 - #44 gggg
+INFO  22:00:15,289 - #7 ;
+INFO  22:00:15,289 - #5 const
+INFO  22:00:15,290 - #44 int
+INFO  22:00:15,290 - #44 size
+INFO  22:00:15,290 - #6 =
+INFO  22:00:15,290 - #43 10
+INFO  22:00:15,290 - #9 ,
+INFO  22:00:15,290 - #44 width
+INFO  22:00:15,290 - #6 =
+INFO  22:00:15,290 - #43 50
+INFO  22:00:15,290 - #9 ,
+INFO  22:00:15,290 - #44 length
+INFO  22:00:15,290 - #6 =
+INFO  22:00:15,290 - #43 100
+INFO  22:00:15,290 - #7 ;
+INFO  22:00:15,290 - #5 const
+INFO  22:00:15,291 - #44 bool
+INFO  22:00:15,291 - #44 b
+INFO  22:00:15,291 - #6 =
+INFO  22:00:15,291 - #45 true
+INFO  22:00:15,291 - #7 ;
+INFO  22:00:15,291 - #5 const
+INFO  22:00:15,291 - #44 char
+INFO  22:00:15,291 - #44 karakter
+INFO  22:00:15,291 - #6 =
+INFO  22:00:15,291 - #46 b
+INFO  22:00:15,291 - #7 ;
+INFO  22:00:15,291 - #5 const
+INFO  22:00:15,291 - #44 int
+INFO  22:00:15,291 - #44 width
+INFO  22:00:15,291 - #6 =
+INFO  22:00:15,291 - #43 30
+INFO  22:00:15,292 - #7 ;
+INFO  22:00:15,292 - #5 const
+INFO  22:00:15,292 - #44 int
+INFO  22:00:15,292 - #44 nova
+INFO  22:00:15,292 - #6 =
+INFO  22:00:15,292 - #43 34
+INFO  22:00:15,292 - #7 ;
+INFO  22:00:15,292 - #44 char
+INFO  22:00:15,292 - #44 c
+INFO  22:00:15,292 - #7 ;
+INFO  22:00:15,292 - #8 class
+INFO  22:00:15,292 - #44 Table
+INFO  22:00:15,292 - #3 {
+INFO  22:00:15,292 - #44 int
+INFO  22:00:15,292 - #44 pos
+INFO  22:00:15,292 - #10 [
+INFO  22:00:15,292 - #11 ]
+INFO  22:00:15,292 - #9 ,
+INFO  22:00:15,293 - #44 neg
+INFO  22:00:15,293 - #10 [
+INFO  22:00:15,293 - #11 ]
+INFO  22:00:15,293 - #9 ,
+INFO  22:00:15,293 - #44 factor
+INFO  22:00:15,293 - #7 ;
+INFO  22:00:15,293 - #3 {
+INFO  22:00:15,293 - #15 void
+INFO  22:00:15,293 - #44 putp
+INFO  22:00:15,293 - #13 (
+INFO  22:00:15,294 - #44 int
+INFO  22:00:15,294 - #44 a
+INFO  22:00:15,294 - #9 ,
+INFO  22:00:15,294 - #44 int
+INFO  22:00:15,294 - #44 idx
+INFO  22:00:15,294 - #14 )
+INFO  22:00:15,294 - #3 {
+INFO  22:00:15,294 - #44 this
+INFO  22:00:15,294 - #24 .
+INFO  22:00:15,294 - #44 pos
+INFO  22:00:15,294 - #10 [
+INFO  22:00:15,295 - #44 idx
+INFO  22:00:15,295 - #11 ]
+INFO  22:00:15,295 - #6 =
+INFO  22:00:15,295 - #44 a
+INFO  22:00:15,295 - #7 ;
+INFO  22:00:15,295 - #4 }
+INFO  22:00:15,295 - #15 void
+INFO  22:00:15,296 - #44 putn
+INFO  22:00:15,296 - #13 (
+INFO  22:00:15,296 - #44 int
+INFO  22:00:15,296 - #44 a
+INFO  22:00:15,296 - #9 ,
+INFO  22:00:15,296 - #44 int
+INFO  22:00:15,296 - #44 idx
+INFO  22:00:15,296 - #14 )
+INFO  22:00:15,297 - #3 {
+INFO  22:00:15,297 - #44 this
+INFO  22:00:15,297 - #24 .
+INFO  22:00:15,297 - #44 neg
+INFO  22:00:15,297 - #10 [
+INFO  22:00:15,297 - #44 idx
+INFO  22:00:15,297 - #11 ]
+INFO  22:00:15,297 - #6 =
+INFO  22:00:15,297 - #44 a
+INFO  22:00:15,297 - #7 ;
+INFO  22:00:15,297 - #4 }
+INFO  22:00:15,297 - #44 int
+INFO  22:00:15,297 - #44 getp
+INFO  22:00:15,298 - #13 (
+INFO  22:00:15,298 - #44 int
+INFO  22:00:15,298 - #44 idx
+INFO  22:00:15,298 - #14 )
+INFO  22:00:15,298 - #3 {
+INFO  22:00:15,298 - #21 return
+INFO  22:00:15,298 - #44 pos
+INFO  22:00:15,298 - #10 [
+INFO  22:00:15,298 - #44 idx
+INFO  22:00:15,298 - #11 ]
+INFO  22:00:15,298 - #7 ;
+INFO  22:00:15,298 - #4 }
+INFO  22:00:15,298 - #44 int
+INFO  22:00:15,298 - #44 getn
+INFO  22:00:15,298 - #13 (
+INFO  22:00:15,298 - #44 int
+INFO  22:00:15,298 - #44 idx
+INFO  22:00:15,298 - #14 )
+INFO  22:00:15,298 - #3 {
+INFO  22:00:15,298 - #21 return
+INFO  22:00:15,298 - #44 neg
+INFO  22:00:15,298 - #10 [
+INFO  22:00:15,298 - #44 idx
+INFO  22:00:15,298 - #11 ]
+INFO  22:00:15,298 - #7 ;
+INFO  22:00:15,299 - #4 }
+INFO  22:00:15,299 - #4 }
+INFO  22:00:15,299 - #4 }
+INFO  22:00:15,299 - #8 class
+INFO  22:00:15,299 - #44 GlassBottle
+INFO  22:00:15,300 - #12 extends
+INFO  22:00:15,300 - #44 Bottle
+INFO  22:00:15,300 - #3 {
+INFO  22:00:15,300 - #44 int
+INFO  22:00:15,300 - #44 ne
+INFO  22:00:15,300 - #9 ,
+INFO  22:00:15,300 - #44 bi
+INFO  22:00:15,300 - #9 ,
+INFO  22:00:15,300 - #44 smelo
+INFO  22:00:15,300 - #7 ;
+INFO  22:00:15,300 - #4 }
+INFO  22:00:15,300 - #8 class
+INFO  22:00:15,300 - #44 Klasa
+INFO  22:00:15,300 - #3 {
+INFO  22:00:15,300 - #3 {
+INFO  22:00:15,300 - #15 void
+INFO  22:00:15,300 - #44 putp
+INFO  22:00:15,300 - #13 (
+INFO  22:00:15,300 - #44 int
+INFO  22:00:15,300 - #44 a
+INFO  22:00:15,300 - #9 ,
+INFO  22:00:15,300 - #44 int
+INFO  22:00:15,300 - #44 idx
+INFO  22:00:15,301 - #14 )
+INFO  22:00:15,301 - #44 int
+INFO  22:00:15,301 - #44 b
+INFO  22:00:15,301 - #7 ;
+INFO  22:00:15,301 - #3 {
+INFO  22:00:15,301 - #44 this
+INFO  22:00:15,301 - #24 .
+INFO  22:00:15,301 - #44 pos
+INFO  22:00:15,301 - #10 [
+INFO  22:00:15,301 - #44 idx
+INFO  22:00:15,301 - #11 ]
+INFO  22:00:15,301 - #6 =
+INFO  22:00:15,301 - #44 a
+INFO  22:00:15,301 - #7 ;
+INFO  22:00:15,301 - #4 }
+INFO  22:00:15,301 - #15 void
+INFO  22:00:15,301 - #44 putn
+INFO  22:00:15,301 - #13 (
+INFO  22:00:15,301 - #44 int
+INFO  22:00:15,301 - #44 a
+INFO  22:00:15,301 - #9 ,
+INFO  22:00:15,301 - #44 int
+INFO  22:00:15,301 - #44 idx
+INFO  22:00:15,301 - #14 )
+INFO  22:00:15,301 - #3 {
+INFO  22:00:15,301 - #44 this
+INFO  22:00:15,301 - #24 .
+INFO  22:00:15,301 - #44 neg
+INFO  22:00:15,301 - #10 [
+INFO  22:00:15,301 - #44 idx
+INFO  22:00:15,301 - #11 ]
+INFO  22:00:15,301 - #6 =
+INFO  22:00:15,301 - #44 a
+INFO  22:00:15,301 - #7 ;
+INFO  22:00:15,301 - #4 }
+INFO  22:00:15,301 - #44 int
+INFO  22:00:15,302 - #44 getp
+INFO  22:00:15,302 - #13 (
+INFO  22:00:15,302 - #44 int
+INFO  22:00:15,302 - #44 idx
+INFO  22:00:15,302 - #14 )
+INFO  22:00:15,302 - #3 {
+INFO  22:00:15,302 - #21 return
+INFO  22:00:15,302 - #44 pos
+INFO  22:00:15,302 - #10 [
+INFO  22:00:15,302 - #44 idx
+INFO  22:00:15,302 - #11 ]
+INFO  22:00:15,302 - #7 ;
+INFO  22:00:15,302 - #4 }
+INFO  22:00:15,302 - #44 int
+INFO  22:00:15,302 - #44 getn
+INFO  22:00:15,302 - #13 (
+INFO  22:00:15,302 - #44 int
+INFO  22:00:15,302 - #44 idx
+INFO  22:00:15,302 - #14 )
+INFO  22:00:15,302 - #3 {
+INFO  22:00:15,302 - #21 return
+INFO  22:00:15,302 - #44 neg
+INFO  22:00:15,302 - #10 [
+INFO  22:00:15,302 - #44 idx
+INFO  22:00:15,302 - #11 ]
+INFO  22:00:15,303 - #7 ;
+INFO  22:00:15,303 - #4 }
+INFO  22:00:15,303 - #4 }
+INFO  22:00:15,303 - #4 }
+INFO  22:00:15,303 - #8 class
+INFO  22:00:15,303 - #44 GlassBottle
+INFO  22:00:15,303 - #12 extends
+INFO  22:00:15,303 - #44 Table
+INFO  22:00:15,303 - #3 {
+INFO  22:00:15,303 - #44 char
+INFO  22:00:15,303 - #44 ovo
+INFO  22:00:15,303 - #9 ,
+INFO  22:00:15,303 - #44 bi
+INFO  22:00:15,303 - #9 ,
+INFO  22:00:15,303 - #44 moralo
+INFO  22:00:15,303 - #7 ;
+INFO  22:00:15,303 - #4 }
+INFO  22:00:15,303 - #3 {
+INFO  22:00:15,304 - #44 int
+INFO  22:00:15,304 - #44 main
+INFO  22:00:15,304 - #13 (
+INFO  22:00:15,304 - #14 )
+INFO  22:00:15,305 - #44 char
+INFO  22:00:15,305 - #44 niz
+INFO  22:00:15,305 - #10 [
+INFO  22:00:15,305 - #11 ]
+INFO  22:00:15,305 - #7 ;
+INFO  22:00:15,305 - #3 {
+INFO  22:00:15,305 - #21 return
+INFO  22:00:15,305 - #43 1
+INFO  22:00:15,305 - #7 ;
+INFO  22:00:15,305 - #4 }
+INFO  22:00:15,305 - #4 }
+INFO  22:00:15,310 - Deklarisana globalna promenljiva "c" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - Deklarisan globalni niz "d" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - Deklarisana globalna promenljiva "e" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - Deklarisan globalni niz "a" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - Deklarisana globalna promenljiva "aa" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - Deklarisana globalna promenljiva "gggg" na liniji 4 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - 0
+INFO  22:00:15,310 - 1
+INFO  22:00:15,310 - 1
+INFO  22:00:15,310 - 2
+INFO  22:00:15,310 - 2
+INFO  22:00:15,310 - 3
+INFO  22:00:15,310 - Deklarisana simbolicka konstanta "size" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - Deklarisana simbolicka konstanta "width" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - Deklarisana simbolicka konstanta "length" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - Deklarisana simbolicka konstanta "b" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - Deklarisana simbolicka konstanta "karakter" na liniji 7 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,310 - 0
+INFO  22:00:15,310 - 1
+ERROR 22:00:15,310 - Greska na liniji 8: width je vec definisana u trenutnom opsegu
+INFO  22:00:15,310 - 0
+INFO  22:00:15,310 - 1
+INFO  22:00:15,310 - Deklarisana simbolicka konstanta "nova" na liniji 9 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+ERROR 22:00:15,310 - Greska na liniji 10: c je vec definisana u trenutnom opsegu
+INFO  22:00:15,311 - Deklarisana klasa Table na liniji 11
+INFO  22:00:15,311 - Deklarisan lokalni niz "pos" na liniji 12 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,311 - Deklarisan lokalni niz "neg" na liniji 12 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,311 - Deklarisana lokalna promenljiva "factor" na liniji 12 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,311 - Deklarisan formalni argument "a" na liniji 15 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:00:15,311 - Deklarisan formalni argument "idx" na liniji 15 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+ERROR 22:00:15,311 - Greska na liniji 15: Nije pronadjena promenljivathis u tabeli simbola!
+ERROR 22:00:15,311 - Greska na liniji 15: noObj nije objekat klase!
+ERROR 22:00:15,311 - Greska na liniji 15: noObj mora biti niz!

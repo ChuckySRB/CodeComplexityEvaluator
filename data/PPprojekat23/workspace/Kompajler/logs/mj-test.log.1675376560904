@@ -1,0 +1,297 @@
+INFO  23:22:21,400 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program9.mj
+INFO  23:22:21,424 - #2 program
+INFO  23:22:21,424 - #44 p
+INFO  23:22:21,424 - #44 int
+INFO  23:22:21,425 - #44 c
+INFO  23:22:21,425 - #7 ;
+INFO  23:22:21,425 - #44 char
+INFO  23:22:21,425 - #44 a
+INFO  23:22:21,425 - #10 [
+INFO  23:22:21,425 - #11 ]
+INFO  23:22:21,425 - #9 ,
+INFO  23:22:21,425 - #44 aa
+INFO  23:22:21,425 - #7 ;
+INFO  23:22:21,425 - #44 bool
+INFO  23:22:21,426 - #44 gggg
+INFO  23:22:21,426 - #7 ;
+INFO  23:22:21,426 - #5 const
+INFO  23:22:21,426 - #44 int
+INFO  23:22:21,426 - #44 size
+INFO  23:22:21,426 - #6 =
+INFO  23:22:21,426 - #43 10
+INFO  23:22:21,426 - #9 ,
+INFO  23:22:21,426 - #44 width
+INFO  23:22:21,426 - #6 =
+INFO  23:22:21,426 - #43 50
+INFO  23:22:21,426 - #9 ,
+INFO  23:22:21,426 - #44 length
+INFO  23:22:21,426 - #6 =
+INFO  23:22:21,426 - #43 100
+INFO  23:22:21,426 - #7 ;
+INFO  23:22:21,427 - #5 const
+INFO  23:22:21,427 - #44 bool
+INFO  23:22:21,427 - #44 b
+INFO  23:22:21,427 - #6 =
+INFO  23:22:21,427 - #45 true
+INFO  23:22:21,427 - #7 ;
+INFO  23:22:21,427 - #5 const
+INFO  23:22:21,427 - #44 char
+INFO  23:22:21,427 - #44 karakter
+INFO  23:22:21,427 - #6 =
+INFO  23:22:21,427 - #46 b
+INFO  23:22:21,427 - #7 ;
+INFO  23:22:21,427 - #5 const
+INFO  23:22:21,428 - #44 int
+INFO  23:22:21,428 - #44 width
+INFO  23:22:21,428 - #6 =
+INFO  23:22:21,428 - #43 30
+INFO  23:22:21,428 - #7 ;
+INFO  23:22:21,428 - #5 const
+INFO  23:22:21,428 - #44 int
+INFO  23:22:21,428 - #44 nova
+INFO  23:22:21,428 - #6 =
+INFO  23:22:21,428 - #43 34
+INFO  23:22:21,428 - #7 ;
+INFO  23:22:21,428 - #3 {
+INFO  23:22:21,428 - #44 int
+INFO  23:22:21,428 - #44 main
+INFO  23:22:21,429 - #13 (
+INFO  23:22:21,429 - #14 )
+INFO  23:22:21,429 - #44 char
+INFO  23:22:21,429 - #44 niz
+INFO  23:22:21,429 - #10 [
+INFO  23:22:21,429 - #11 ]
+INFO  23:22:21,429 - #7 ;
+INFO  23:22:21,429 - #3 {
+INFO  23:22:21,430 - #22 print
+INFO  23:22:21,430 - #13 (
+INFO  23:22:21,430 - #44 ord
+INFO  23:22:21,430 - #13 (
+INFO  23:22:21,430 - #46 a
+INFO  23:22:21,430 - #14 )
+INFO  23:22:21,430 - #14 )
+INFO  23:22:21,430 - #7 ;
+INFO  23:22:21,430 - #21 return
+INFO  23:22:21,430 - #43 1
+INFO  23:22:21,430 - #7 ;
+INFO  23:22:21,431 - #4 }
+INFO  23:22:21,431 - #4 }
+INFO  23:22:21,431 - Program(
+  ProgName(
+   p
+  ) [ProgName]
+  ConstItemDecl(
+    ConstItemDecl(
+      ConstItemDecl(
+        ConstItemDecl(
+          ConstItemDecl(
+            VarItemDecl(
+              VarItemDecl(
+                VarItemDecl(
+                  NoItemDecl(
+                  ) [NoItemDecl]
+                  VarNonEmptyDecl(
+                    Type(
+                     int
+                    ) [Type]
+                    SingleVarDecl(
+                      VarNoArray(
+                       c
+                      ) [VarNoArray]
+                    ) [SingleVarDecl]
+                  ) [VarNonEmptyDecl]
+                ) [VarItemDecl]
+                VarNonEmptyDecl(
+                  Type(
+                   char
+                  ) [Type]
+                  MultipleVarDecl(
+                    SingleVarDecl(
+                      VarArray(
+                       a
+                      ) [VarArray]
+                    ) [SingleVarDecl]
+                    VarNoArray(
+                     aa
+                    ) [VarNoArray]
+                  ) [MultipleVarDecl]
+                ) [VarNonEmptyDecl]
+              ) [VarItemDecl]
+              VarNonEmptyDecl(
+                Type(
+                 bool
+                ) [Type]
+                SingleVarDecl(
+                  VarNoArray(
+                   gggg
+                  ) [VarNoArray]
+                ) [SingleVarDecl]
+              ) [VarNonEmptyDecl]
+            ) [VarItemDecl]
+            ConstDeclarations(
+              Type(
+               int
+              ) [Type]
+              MultipleConstDecl(
+                MultipleConstDecl(
+                  SingleConstDecl(
+                   size
+                    NumConst(
+                     10
+                    ) [NumConst]
+                  ) [SingleConstDecl]
+                 width
+                  NumConst(
+                   50
+                  ) [NumConst]
+                ) [MultipleConstDecl]
+               length
+                NumConst(
+                 100
+                ) [NumConst]
+              ) [MultipleConstDecl]
+            ) [ConstDeclarations]
+          ) [ConstItemDecl]
+          ConstDeclarations(
+            Type(
+             bool
+            ) [Type]
+            SingleConstDecl(
+             b
+              BoolConst(
+               true
+              ) [BoolConst]
+            ) [SingleConstDecl]
+          ) [ConstDeclarations]
+        ) [ConstItemDecl]
+        ConstDeclarations(
+          Type(
+           char
+          ) [Type]
+          SingleConstDecl(
+           karakter
+            CharConst(
+             b
+            ) [CharConst]
+          ) [SingleConstDecl]
+        ) [ConstDeclarations]
+      ) [ConstItemDecl]
+      ConstDeclarations(
+        Type(
+         int
+        ) [Type]
+        SingleConstDecl(
+         width
+          NumConst(
+           30
+          ) [NumConst]
+        ) [SingleConstDecl]
+      ) [ConstDeclarations]
+    ) [ConstItemDecl]
+    ConstDeclarations(
+      Type(
+       int
+      ) [Type]
+      SingleConstDecl(
+       nova
+        NumConst(
+         34
+        ) [NumConst]
+      ) [SingleConstDecl]
+    ) [ConstDeclarations]
+  ) [ConstItemDecl]
+  TypeMethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    FunType(
+      Type(
+       int
+      ) [Type]
+    ) [FunType]
+    MethodName(
+     main
+    ) [MethodName]
+    NoFormPars(
+    ) [NoFormPars]
+    MultipleVarDeclarations(
+      NoVarDeclarations(
+      ) [NoVarDeclarations]
+      Type(
+       char
+      ) [Type]
+      SingleVarDecl(
+        VarArray(
+         niz
+        ) [VarArray]
+      ) [SingleVarDecl]
+    ) [MultipleVarDeclarations]
+    StatementListNonEmpty(
+      StatementListNonEmpty(
+        NoStatements(
+        ) [NoStatements]
+        PrintStatementNoWidth(
+          PosExpr(
+            ExprSingleTerm(
+              SingleTerm(
+                FactorFuncCall(
+                  DesiOnlyIdent(
+                   ord
+                  ) [DesiOnlyIdent]
+                  ActParsNonEmpty(
+                    SingleActPar(
+                      PosExpr(
+                        ExprSingleTerm(
+                          SingleTerm(
+                            FactorChar(
+                             a
+                            ) [FactorChar]
+                          ) [SingleTerm]
+                        ) [ExprSingleTerm]
+                      ) [PosExpr]
+                    ) [SingleActPar]
+                  ) [ActParsNonEmpty]
+                ) [FactorFuncCall]
+              ) [SingleTerm]
+            ) [ExprSingleTerm]
+          ) [PosExpr]
+        ) [PrintStatementNoWidth]
+      ) [StatementListNonEmpty]
+      ReturnStatementNonEmpty(
+        PosExpr(
+          ExprSingleTerm(
+            SingleTerm(
+              FactorNum(
+               1
+              ) [FactorNum]
+            ) [SingleTerm]
+          ) [ExprSingleTerm]
+        ) [PosExpr]
+      ) [ReturnStatementNonEmpty]
+    ) [StatementListNonEmpty]
+  ) [TypeMethodDeclarations]
+) [Program]
+INFO  23:22:21,432 - ===================================
+INFO  23:22:21,435 - Deklarisana globalna promenljiva "c" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,435 - Deklarisan globalni niz "a" na liniji 4 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,435 - Deklarisana globalna promenljiva "aa" na liniji 4 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,435 - Deklarisana globalna promenljiva "gggg" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,435 - 0
+INFO  23:22:21,435 - 1
+INFO  23:22:21,435 - 1
+INFO  23:22:21,435 - 2
+INFO  23:22:21,435 - 2
+INFO  23:22:21,435 - 3
+INFO  23:22:21,435 - Deklarisana simbolicka konstanta "size" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,435 - Deklarisana simbolicka konstanta "width" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,435 - Deklarisana simbolicka konstanta "length" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,435 - Deklarisana simbolicka konstanta "b" na liniji 7 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,435 - Deklarisana simbolicka konstanta "karakter" na liniji 8 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,435 - 0
+INFO  23:22:21,435 - 1
+ERROR 23:22:21,436 - Greska na liniji 9: width je vec definisana u trenutnom opsegu
+INFO  23:22:21,436 - 0
+INFO  23:22:21,436 - 1
+INFO  23:22:21,436 - Deklarisana simbolicka konstanta "nova" na liniji 10 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,436 - Deklarisan lokalni niz "niz" na liniji 16 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:22:21,436 - form pars: 0; total vars: 1
+INFO  23:22:21,436 - ===================================

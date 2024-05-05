@@ -1,0 +1,16 @@
+program p
+
+{
+	char fun(int i) {
+		return 'a';
+	}
+
+	int main()
+		int in;
+	{
+		in = 5;
+		//print(fun(in));
+		fun(in);
+		return 1;
+	}
+}		

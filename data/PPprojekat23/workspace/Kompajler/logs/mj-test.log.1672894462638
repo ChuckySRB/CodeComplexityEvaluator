@@ -1,0 +1,58 @@
+INFO  05:53:40,732 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  05:53:40,757 - #2 program
+INFO  05:53:40,757 - #44 p
+INFO  05:53:40,757 - #44 int
+INFO  05:53:40,758 - #44 c
+INFO  05:53:40,758 - #9 ,
+INFO  05:53:40,758 - #44 d
+INFO  05:53:40,758 - #9 ,
+INFO  05:53:40,758 - #44 e
+INFO  05:53:40,758 - #7 ;
+INFO  05:53:40,758 - #44 char
+INFO  05:53:40,759 - #44 a
+INFO  05:53:40,759 - #9 ,
+INFO  05:53:40,759 - #44 aa
+INFO  05:53:40,759 - #7 ;
+INFO  05:53:40,759 - #44 bool
+INFO  05:53:40,759 - #44 gggg
+INFO  05:53:40,759 - #7 ;
+INFO  05:53:40,759 - #5 const
+INFO  05:53:40,759 - #44 int
+INFO  05:53:40,759 - #44 size
+INFO  05:53:40,759 - #6 =
+INFO  05:53:40,759 - #43 10
+INFO  05:53:40,759 - #9 ,
+INFO  05:53:40,759 - #44 width
+INFO  05:53:40,759 - #6 =
+INFO  05:53:40,760 - #43 50
+INFO  05:53:40,760 - #9 ,
+INFO  05:53:40,760 - #44 length
+INFO  05:53:40,760 - #6 =
+INFO  05:53:40,760 - #43 100
+INFO  05:53:40,760 - #7 ;
+INFO  05:53:40,760 - #5 const
+INFO  05:53:40,760 - #44 bool
+INFO  05:53:40,760 - #44 b
+INFO  05:53:40,760 - #6 =
+INFO  05:53:40,760 - #45 true
+INFO  05:53:40,760 - #7 ;
+INFO  05:53:40,760 - #5 const
+INFO  05:53:40,760 - #44 char
+INFO  05:53:40,761 - #44 karakter
+INFO  05:53:40,761 - #6 =
+INFO  05:53:40,761 - #46 b
+INFO  05:53:40,761 - #7 ;
+INFO  05:53:40,761 - #3 {
+INFO  05:53:40,761 - #4 }
+INFO  05:53:40,763 - Deklarisana globalna promenljiva "c" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana globalna promenljiva "d" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana globalna promenljiva "e" na liniji 2 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana globalna promenljiva "a" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana globalna promenljiva "aa" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana globalna promenljiva "gggg" na liniji 4 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana simbolicka konstanta "size" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana simbolicka konstanta "width" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana simbolicka konstanta "length" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana simbolicka konstanta "b" na liniji 6 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - Deklarisana simbolicka konstanta "karakter" na liniji 7 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  05:53:40,764 - ===================================

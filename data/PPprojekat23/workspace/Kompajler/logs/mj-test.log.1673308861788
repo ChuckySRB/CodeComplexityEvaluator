@@ -1,0 +1,120 @@
+INFO  01:00:51,441 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  01:00:51,466 - #2 program
+INFO  01:00:51,466 - #44 MJProgram
+INFO  01:00:51,466 - #44 int
+INFO  01:00:51,467 - #44 x
+INFO  01:00:51,467 - #7 ;
+INFO  01:00:51,467 - #44 int
+INFO  01:00:51,467 - #44 y
+INFO  01:00:51,467 - #7 ;
+INFO  01:00:51,467 - #44 char
+INFO  01:00:51,468 - #44 z
+INFO  01:00:51,468 - #7 ;
+INFO  01:00:51,468 - #3 {
+INFO  01:00:51,468 - #44 int
+INFO  01:00:51,468 - #44 k
+INFO  01:00:51,468 - #13 (
+INFO  01:00:51,469 - #14 )
+INFO  01:00:51,469 - #44 int
+INFO  01:00:51,469 - #44 c
+INFO  01:00:51,469 - #7 ;
+INFO  01:00:51,470 - #3 {
+INFO  01:00:51,470 - #44 c
+INFO  01:00:51,470 - #6 =
+INFO  01:00:51,470 - #43 2
+INFO  01:00:51,470 - #7 ;
+INFO  01:00:51,471 - #22 print
+INFO  01:00:51,471 - #13 (
+INFO  01:00:51,471 - #43 0
+INFO  01:00:51,471 - #14 )
+INFO  01:00:51,471 - #7 ;
+INFO  01:00:51,471 - #21 return
+INFO  01:00:51,471 - #44 c
+INFO  01:00:51,471 - #38 +
+INFO  01:00:51,471 - #43 2
+INFO  01:00:51,471 - #7 ;
+INFO  01:00:51,472 - #4 }
+INFO  01:00:51,472 - #44 int
+INFO  01:00:51,472 - #44 j
+INFO  01:00:51,472 - #13 (
+INFO  01:00:51,472 - #44 int
+INFO  01:00:51,472 - #44 par
+INFO  01:00:51,472 - #9 ,
+INFO  01:00:51,472 - #44 int
+INFO  01:00:51,472 - #44 par2
+INFO  01:00:51,472 - #14 )
+INFO  01:00:51,472 - #3 {
+INFO  01:00:51,472 - #22 print
+INFO  01:00:51,472 - #13 (
+INFO  01:00:51,472 - #44 par
+INFO  01:00:51,472 - #14 )
+INFO  01:00:51,472 - #7 ;
+INFO  01:00:51,472 - #21 return
+INFO  01:00:51,473 - #43 1
+INFO  01:00:51,473 - #7 ;
+INFO  01:00:51,473 - #4 }
+INFO  01:00:51,473 - #44 int
+INFO  01:00:51,473 - #44 main
+INFO  01:00:51,473 - #13 (
+INFO  01:00:51,473 - #14 )
+INFO  01:00:51,473 - #3 {
+INFO  01:00:51,473 - #44 x
+INFO  01:00:51,473 - #6 =
+INFO  01:00:51,473 - #43 3
+INFO  01:00:51,473 - #7 ;
+INFO  01:00:51,473 - #44 z
+INFO  01:00:51,473 - #6 =
+INFO  01:00:51,473 - #46 b
+INFO  01:00:51,473 - #7 ;
+INFO  01:00:51,473 - #22 print
+INFO  01:00:51,473 - #13 (
+INFO  01:00:51,473 - #43 1
+INFO  01:00:51,473 - #14 )
+INFO  01:00:51,473 - #7 ;
+INFO  01:00:51,474 - #22 print
+INFO  01:00:51,474 - #13 (
+INFO  01:00:51,474 - #44 x
+INFO  01:00:51,474 - #14 )
+INFO  01:00:51,474 - #7 ;
+INFO  01:00:51,474 - #44 j
+INFO  01:00:51,474 - #13 (
+INFO  01:00:51,474 - #44 y
+INFO  01:00:51,474 - #9 ,
+INFO  01:00:51,474 - #44 z
+INFO  01:00:51,474 - #9 ,
+INFO  01:00:51,474 - #43 0
+INFO  01:00:51,474 - #14 )
+INFO  01:00:51,474 - #7 ;
+INFO  01:00:51,474 - #44 k
+INFO  01:00:51,474 - #13 (
+INFO  01:00:51,474 - #14 )
+INFO  01:00:51,475 - #7 ;
+INFO  01:00:51,475 - #44 y
+INFO  01:00:51,475 - #6 =
+INFO  01:00:51,475 - #43 4
+INFO  01:00:51,475 - #38 +
+INFO  01:00:51,475 - #44 x
+INFO  01:00:51,475 - #7 ;
+INFO  01:00:51,475 - #44 k
+INFO  01:00:51,475 - #13 (
+INFO  01:00:51,475 - #43 4
+INFO  01:00:51,475 - #14 )
+INFO  01:00:51,475 - #7 ;
+INFO  01:00:51,475 - #21 return
+INFO  01:00:51,475 - #43 1
+INFO  01:00:51,475 - #7 ;
+INFO  01:00:51,475 - #4 }
+INFO  01:00:51,475 - #4 }
+INFO  01:00:51,478 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:51,478 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:51,478 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:51,478 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:51,478 - form pars: 0; total vars: 1
+INFO  01:00:51,479 - Deklarisan formalni argument "par" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:51,479 - Deklarisan formalni argument "par2" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:51,479 - form pars: 2; total vars: 2
+ERROR 01:00:51,479 - Greska na liniji 25: Pogresan tip argumenta na poziciji 1 pri pozivu metodej!
+ERROR 01:00:51,479 - Greska na liniji 25: j prima 2 parametara!
+ERROR 01:00:51,479 - Greska na liniji 30: k prima 0 parametara!
+INFO  01:00:51,480 - form pars: 0; total vars: 0
+INFO  01:00:51,480 - ===================================

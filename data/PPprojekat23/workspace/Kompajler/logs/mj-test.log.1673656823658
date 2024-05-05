@@ -1,0 +1,78 @@
+INFO  01:39:15,206 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program7.mj
+INFO  01:39:15,231 - #2 program
+INFO  01:39:15,231 - #44 MJProgram
+INFO  01:39:15,231 - #44 int
+INFO  01:39:15,232 - #44 x
+INFO  01:39:15,232 - #7 ;
+INFO  01:39:15,232 - #44 int
+INFO  01:39:15,232 - #44 y
+INFO  01:39:15,232 - #7 ;
+INFO  01:39:15,232 - #44 char
+INFO  01:39:15,232 - #44 z
+INFO  01:39:15,232 - #7 ;
+INFO  01:39:15,232 - #3 {
+INFO  01:39:15,233 - #44 int
+INFO  01:39:15,233 - #44 main
+INFO  01:39:15,233 - #13 (
+INFO  01:39:15,233 - #14 )
+INFO  01:39:15,234 - #3 {
+INFO  01:39:15,234 - #44 y
+INFO  01:39:15,234 - #6 =
+INFO  01:39:15,234 - #43 7
+INFO  01:39:15,235 - #7 ;
+INFO  01:39:15,235 - #44 x
+INFO  01:39:15,235 - #6 =
+INFO  01:39:15,235 - #43 3
+INFO  01:39:15,235 - #7 ;
+INFO  01:39:15,235 - #18 while
+INFO  01:39:15,235 - #13 (
+INFO  01:39:15,236 - #44 y
+INFO  01:39:15,236 - #34 >
+INFO  01:39:15,236 - #43 4
+INFO  01:39:15,236 - #29 ||
+INFO  01:39:15,236 - #44 x
+INFO  01:39:15,236 - #32 ==
+INFO  01:39:15,236 - #43 3
+INFO  01:39:15,237 - #30 &&
+INFO  01:39:15,237 - #44 y
+INFO  01:39:15,237 - #34 >
+INFO  01:39:15,237 - #43 2
+INFO  01:39:15,237 - #14 )
+INFO  01:39:15,237 - #3 {
+INFO  01:39:15,237 - #22 print
+INFO  01:39:15,237 - #13 (
+INFO  01:39:15,237 - #46 a
+INFO  01:39:15,237 - #14 )
+INFO  01:39:15,238 - #7 ;
+INFO  01:39:15,238 - #22 print
+INFO  01:39:15,238 - #13 (
+INFO  01:39:15,238 - #46  
+INFO  01:39:15,238 - #14 )
+INFO  01:39:15,238 - #7 ;
+INFO  01:39:15,238 - #16 if
+INFO  01:39:15,238 - #13 (
+INFO  01:39:15,238 - #44 y
+INFO  01:39:15,238 - #32 ==
+INFO  01:39:15,238 - #43 6
+INFO  01:39:15,238 - #14 )
+INFO  01:39:15,238 - #20 continue
+INFO  01:39:15,238 - #7 ;
+INFO  01:39:15,238 - #22 print
+INFO  01:39:15,239 - #13 (
+INFO  01:39:15,239 - #46 b
+INFO  01:39:15,239 - #14 )
+INFO  01:39:15,239 - #7 ;
+INFO  01:39:15,239 - #44 y
+INFO  01:39:15,239 - #28 --
+INFO  01:39:15,239 - #7 ;
+INFO  01:39:15,239 - #4 }
+INFO  01:39:15,239 - #21 return
+INFO  01:39:15,239 - #43 1
+INFO  01:39:15,239 - #7 ;
+INFO  01:39:15,239 - #4 }
+INFO  01:39:15,239 - #4 }
+INFO  01:39:15,243 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:39:15,243 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:39:15,243 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:39:15,243 - form pars: 0; total vars: 0
+INFO  01:39:15,243 - ===================================

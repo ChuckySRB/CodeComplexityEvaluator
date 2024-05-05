@@ -1,0 +1,58 @@
+INFO  19:38:49,620 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  19:38:49,654 - #2 program
+INFO  19:38:49,654 - #44 MJProgram
+INFO  19:38:49,654 - #44 int
+INFO  19:38:49,655 - #44 x
+INFO  19:38:49,655 - #7 ;
+INFO  19:38:49,655 - #44 int
+INFO  19:38:49,655 - #44 y
+INFO  19:38:49,655 - #9 ,
+INFO  19:38:49,655 - #44 z
+INFO  19:38:49,655 - #7 ;
+INFO  19:38:49,655 - #3 {
+INFO  19:38:49,655 - #44 int
+INFO  19:38:49,656 - #44 main
+INFO  19:38:49,656 - #13 (
+INFO  19:38:49,656 - #14 )
+INFO  19:38:49,657 - #3 {
+INFO  19:38:49,657 - #44 x
+INFO  19:38:49,657 - #6 =
+INFO  19:38:49,657 - #43 3
+INFO  19:38:49,658 - #7 ;
+INFO  19:38:49,658 - #44 y
+INFO  19:38:49,658 - #6 =
+INFO  19:38:49,658 - #13 (
+INFO  19:38:49,658 - #43 4
+INFO  19:38:49,658 - #38 +
+INFO  19:38:49,658 - #43 9
+INFO  19:38:49,659 - #14 )
+INFO  19:38:49,659 - #42 %
+INFO  19:38:49,659 - #13 (
+INFO  19:38:49,660 - #44 x
+INFO  19:38:49,660 - #38 +
+INFO  19:38:49,660 - #43 3
+INFO  19:38:49,660 - #14 )
+INFO  19:38:49,660 - #7 ;
+INFO  19:38:49,660 - #44 x
+INFO  19:38:49,660 - #27 ++
+INFO  19:38:49,660 - #7 ;
+INFO  19:38:49,660 - #44 y
+INFO  19:38:49,660 - #28 --
+INFO  19:38:49,660 - #7 ;
+INFO  19:38:49,660 - #44 z
+INFO  19:38:49,660 - #6 =
+INFO  19:38:49,660 - #44 y
+INFO  19:38:49,660 - #38 +
+INFO  19:38:49,660 - #44 x
+INFO  19:38:49,660 - #7 ;
+INFO  19:38:49,661 - #22 print
+INFO  19:38:49,661 - #13 (
+INFO  19:38:49,661 - #44 z
+INFO  19:38:49,661 - #14 )
+INFO  19:38:49,661 - #7 ;
+INFO  19:38:49,661 - #4 }
+INFO  19:38:49,661 - #4 }
+INFO  19:38:49,666 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  19:38:49,666 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  19:38:49,666 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  19:38:51,116 - ===================================

@@ -1,0 +1,90 @@
+INFO  01:42:42,113 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  01:42:42,122 - #2 program
+INFO  01:42:42,122 - #15 MJProgram
+INFO  01:42:42,122 - #15 int
+INFO  01:42:42,122 - #15 x
+INFO  01:42:42,122 - #5 ;
+INFO  01:42:42,123 - #15 int
+INFO  01:42:42,123 - #15 y
+INFO  01:42:42,123 - #5 ;
+INFO  01:42:42,123 - #3 {
+INFO  01:42:42,123 - #15 int
+INFO  01:42:42,123 - #15 main
+INFO  01:42:42,123 - #6 (
+INFO  01:42:42,123 - #7 )
+INFO  01:42:42,124 - #3 {
+INFO  01:42:42,124 - #9 print
+INFO  01:42:42,124 - #6 (
+INFO  01:42:42,124 - #14 1
+INFO  01:42:42,124 - #7 )
+INFO  01:42:42,125 - #5 ;
+INFO  01:42:42,125 - #9 print
+INFO  01:42:42,125 - #6 (
+INFO  01:42:42,125 - #14 2
+INFO  01:42:42,125 - #7 )
+INFO  01:42:42,125 - #5 ;
+INFO  01:42:42,125 - #4 }
+INFO  01:42:42,125 - #4 }
+INFO  01:42:42,126 - Program(
+ MJProgram
+  VarDeclarations(
+    VarDeclarations(
+      NoVarDecl(
+      ) [NoVarDecl]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+       x
+      ) [VarDecl]
+    ) [VarDeclarations]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+     y
+    ) [VarDecl]
+  ) [VarDeclarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      Type(
+       int
+      ) [Type]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          PrintStmt(
+            TermExpr(
+              Term(
+                Const(
+                 1
+                ) [Const]
+              ) [Term]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [Statements]
+        PrintStmt(
+          TermExpr(
+            Term(
+              Const(
+               2
+              ) [Const]
+            ) [Term]
+          ) [TermExpr]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:42:42,126 - ===================================
+INFO  01:42:42,127 - Prepoznata naredba print!
+INFO  01:42:42,127 - Prepoznata naredba print!
+INFO  01:42:42,127 -  Print count calls = 2

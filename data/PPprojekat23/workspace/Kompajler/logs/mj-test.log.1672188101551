@@ -1,0 +1,14 @@
+INFO  01:41:23,208 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  01:41:23,216 - #2 program
+INFO  01:41:23,216 - #15 MJProgram
+INFO  01:41:23,216 - #15 int
+INFO  01:41:23,216 - #15 x
+INFO  01:41:23,216 - #5 ;
+INFO  01:41:23,216 - #15 int
+INFO  01:41:23,217 - #15 y
+INFO  01:41:23,217 - #5 ;
+INFO  01:41:23,217 - #3 {
+INFO  01:41:23,217 - #13 void
+ERROR 01:41:23,217 - 
+Sintaksna greska na liniji 4
+ERROR 01:41:23,217 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

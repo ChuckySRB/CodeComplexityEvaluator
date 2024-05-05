@@ -1,0 +1,30 @@
+INFO  01:45:19,356 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  01:45:19,365 - #2 program
+INFO  01:45:19,365 - #15 MJProgram
+INFO  01:45:19,365 - #15 int
+INFO  01:45:19,365 - #15 x
+INFO  01:45:19,365 - #5 ;
+INFO  01:45:19,365 - #15 int
+INFO  01:45:19,366 - #15 y
+INFO  01:45:19,366 - #5 ;
+INFO  01:45:19,366 - #3 {
+INFO  01:45:19,366 - #15 int
+INFO  01:45:19,366 - #15 main
+INFO  01:45:19,366 - #6 (
+INFO  01:45:19,366 - #7 )
+INFO  01:45:19,367 - #3 {
+INFO  01:45:19,367 - #9 print
+INFO  01:45:19,367 - #6 (
+INFO  01:45:19,368 - #14 1
+INFO  01:45:19,368 - #7 )
+INFO  01:45:19,368 - #5 ;
+INFO  01:45:19,368 - #15 x
+INFO  01:45:19,368 - #8 =
+INFO  01:45:19,369 - #15 y
+INFO  01:45:19,369 - #11 +
+INFO  01:45:19,369 - #14 5
+INFO  01:45:19,369 - #11 +
+INFO  01:45:19,369 - #5 ;
+ERROR 01:45:19,369 - 
+Sintaksna greska na liniji 8
+ERROR 01:45:19,369 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 8

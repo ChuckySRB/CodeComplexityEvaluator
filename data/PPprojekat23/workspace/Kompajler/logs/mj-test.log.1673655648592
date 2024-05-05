@@ -1,0 +1,38 @@
+INFO  01:20:39,447 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program7.mj
+INFO  01:20:39,472 - #2 program
+INFO  01:20:39,472 - #44 MJProgram
+INFO  01:20:39,472 - #44 int
+INFO  01:20:39,473 - #44 x
+INFO  01:20:39,473 - #7 ;
+INFO  01:20:39,473 - #44 int
+INFO  01:20:39,473 - #44 y
+INFO  01:20:39,473 - #7 ;
+INFO  01:20:39,473 - #44 char
+INFO  01:20:39,473 - #44 z
+INFO  01:20:39,473 - #7 ;
+INFO  01:20:39,473 - #3 {
+INFO  01:20:39,473 - #44 int
+INFO  01:20:39,474 - #44 main
+INFO  01:20:39,474 - #13 (
+INFO  01:20:39,474 - #14 )
+INFO  01:20:39,475 - #3 {
+INFO  01:20:39,475 - #16 if
+INFO  01:20:39,475 - #13 (
+INFO  01:20:39,475 - #45 true
+INFO  01:20:39,475 - #29 ||
+INFO  01:20:39,476 - #45 false
+INFO  01:20:39,476 - #30 &&
+INFO  01:20:39,476 - #45 true
+INFO  01:20:39,476 - #14 )
+INFO  01:20:39,476 - #22 print
+INFO  01:20:39,476 - #13 (
+INFO  01:20:39,476 - #43 4
+INFO  01:20:39,477 - #14 )
+INFO  01:20:39,477 - #21 return
+ERROR 01:20:39,477 - 
+Sintaksna greska na liniji 14
+INFO  01:20:39,477 - #43 1
+INFO  01:20:39,477 - #7 ;
+INFO  01:20:39,477 - #4 }
+INFO  01:20:39,477 - #4 }
+ERROR 01:20:39,477 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 16

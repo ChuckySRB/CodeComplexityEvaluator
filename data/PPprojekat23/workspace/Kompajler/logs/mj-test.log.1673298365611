@@ -1,0 +1,85 @@
+INFO  22:05:46,578 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  22:05:46,602 - #2 program
+INFO  22:05:46,603 - #44 MJProgram
+INFO  22:05:46,603 - #44 int
+INFO  22:05:46,603 - #44 x
+INFO  22:05:46,603 - #9 ,
+INFO  22:05:46,604 - #44 int
+INFO  22:05:46,604 - #44 y
+ERROR 22:05:46,604 - 
+Sintaksna greska na liniji 3
+INFO  22:05:46,604 - #9 ,
+INFO  22:05:46,604 - #44 int
+INFO  22:05:46,604 - #44 z
+INFO  22:05:46,604 - #7 ;
+ERROR 22:05:46,604 - Izvrsen oporavak do , u liniji 3
+INFO  22:05:46,605 - #3 {
+INFO  22:05:46,605 - #44 int
+INFO  22:05:46,605 - #44 metoda
+INFO  22:05:46,606 - #13 (
+INFO  22:05:46,606 - #44 int
+INFO  22:05:46,606 - #44 a
+INFO  22:05:46,606 - #9 ,
+INFO  22:05:46,606 - #44 int
+INFO  22:05:46,606 - #44 b
+INFO  22:05:46,606 - #14 )
+INFO  22:05:46,607 - #44 char
+INFO  22:05:46,607 - #44 aa
+INFO  22:05:46,607 - #7 ;
+INFO  22:05:46,607 - #44 bool
+INFO  22:05:46,607 - #44 c
+INFO  22:05:46,607 - #7 ;
+INFO  22:05:46,607 - #3 {
+INFO  22:05:46,607 - #44 x
+INFO  22:05:46,607 - #6 =
+INFO  22:05:46,607 - #43 3
+INFO  22:05:46,608 - #7 ;
+INFO  22:05:46,608 - #44 y
+INFO  22:05:46,608 - #6 =
+INFO  22:05:46,608 - #43 4
+INFO  22:05:46,608 - #38 +
+INFO  22:05:46,608 - #43 9
+INFO  22:05:46,609 - #7 ;
+INFO  22:05:46,609 - #44 z
+INFO  22:05:46,609 - #6 =
+INFO  22:05:46,609 - #44 y
+INFO  22:05:46,609 - #38 +
+INFO  22:05:46,609 - #44 x
+INFO  22:05:46,609 - #7 ;
+INFO  22:05:46,609 - #4 }
+INFO  22:05:46,609 - #44 int
+INFO  22:05:46,609 - #44 main
+INFO  22:05:46,609 - #13 (
+INFO  22:05:46,609 - #14 )
+INFO  22:05:46,609 - #3 {
+INFO  22:05:46,610 - #44 x
+INFO  22:05:46,610 - #6 =
+INFO  22:05:46,610 - #43 3
+INFO  22:05:46,610 - #7 ;
+INFO  22:05:46,610 - #44 y
+INFO  22:05:46,610 - #6 =
+INFO  22:05:46,610 - #43 4
+INFO  22:05:46,610 - #38 +
+INFO  22:05:46,610 - #43 9
+INFO  22:05:46,610 - #7 ;
+INFO  22:05:46,610 - #44 z
+INFO  22:05:46,610 - #6 =
+INFO  22:05:46,610 - #44 y
+INFO  22:05:46,610 - #38 +
+INFO  22:05:46,610 - #44 x
+INFO  22:05:46,610 - #7 ;
+INFO  22:05:46,610 - #4 }
+INFO  22:05:46,610 - #4 }
+INFO  22:05:46,613 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:05:46,613 - Deklarisan formalni argument "a" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:05:46,613 - Deklarisan formalni argument "b" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:05:46,613 - Deklarisana lokalna promenljiva "aa" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  22:05:46,613 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+ERROR 22:05:46,614 - Greska na liniji 6: Nije pronadjena promenljivax u tabeli simbola!
+ERROR 22:05:46,614 - Greska na liniji 6: Nekompatibilni tipovi u dodeli vrednosti!
+ERROR 22:05:46,614 - Greska na liniji 10: Nije pronadjena promenljivay u tabeli simbola!
+ERROR 22:05:46,614 - Greska na liniji 10: Nekompatibilni tipovi u dodeli vrednosti!
+ERROR 22:05:46,614 - Greska na liniji 12: Nije pronadjena promenljivay u tabeli simbola!
+ERROR 22:05:46,614 - Greska na liniji 12: Nije pronadjena promenljivax u tabeli simbola!
+ERROR 22:05:46,614 - Greska na liniji 12: Izraz mora biti tipa int!
+ERROR 22:05:46,614 - Greska na liniji 12: Nekompatibilni tipovi u dodeli vrednosti!

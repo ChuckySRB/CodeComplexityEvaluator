@@ -11,7 +11,7 @@ data class Method(
 class MethodsExtractor {
 
     // Regular expressions for extracting method/function declarations
-    private val JAVA_FUNCTION_REGEX = Regex("""(?s)(?<=\b(?:public|private|protected)\s+fun\s+)(\w+)\s*\([^)]*\)\s*\{([^{}]*(?:\{[^{}]*}[^{}]*)*)}""")
+    private val JAVA_FUNCTION_REGEX = Regex("""(?s)\b(?!if\b|for\b|while\b|switch\b|try\b|catch\b|else\b)\w+\b\s+(\w+)\s*\([^)]*\)\s*(?::[^{]*)?\s*\{([^{}]*(?:\{[^{}]*}[^{}]*)*)}""")
     private val KOTLIN_FUNCTION_REGEX = Regex("""(?s)fun\s+(\w+)\s*\([^)]*\)\s*(?::[^{]*)?\s*\{([^{}]*(?:\{[^{}]*}[^{}]*)*)}""")
 
 

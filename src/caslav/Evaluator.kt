@@ -1,5 +1,7 @@
 package caslav
 
+import java.util.Stack
+
 data class Evaluation(
     val method: Method,
     var complexity: Int = 0,
@@ -20,12 +22,7 @@ class Evaluator() {
 
     fun evaluateComplexity() {
         evaluations.forEach { evaluation ->
-            evaluation.method.code.split(" ").forEach { word ->
-                if (word.startsWith("if")) {
-                    evaluation.complexity++
-                }
-            }
-            // Implement your code complexity evaluation logic here
+            evaluateCodeComplexity(evaluation)
         }
     }
 
@@ -34,6 +31,30 @@ class Evaluator() {
         evaluations.forEach { evaluation ->
             evaluation.namingConvention = isCamelCase(evaluation.method.name) // Check if method names are camelCase
         }
+    }
+
+    fun countOccurrences(text: String, substr: String): Int {
+        val regex = Regex("""\Q$substr\E""")
+        return regex.findAll(text).count()
+    }
+
+    fun evaluateCodeComplexity(evaluation: Evaluation){
+        for (line in evaluation.method.code.split("\n")) {
+            val words = line.split(" ")
+            for(word in words){
+                if (word.startsWith("||") || word.startsWith("&&") || word.startsWith("==") || word.startsWith("!=")
+                    || word.startsWith("for")
+                    || word.contains(".forEach")
+                    || word.startsWith("while") || word.startsWith("if")){
+                        evaluation.complexity++
+                }
+            }
+            evaluation.complexity+= countOccurrences(line, "->")
+            evaluation.complexity+= countOccurrences(line, "case")
+        }
+    }
+    fun evaluateJavaCodeComplexity(evaluation: Evaluation){
+
     }
 
     fun isCamelCase(str: String): Boolean {
@@ -56,6 +77,16 @@ class Evaluator() {
         return true
     }
 
+    fun printTop3Evaluations(){
+        evaluations.sortedByDescending { it.complexity }.take(3).forEachIndexed{index, evaluation->
+            println("#${index+1}")
+            println("Method: ${evaluation.method.name}")
+            println("Complexity: ${evaluation.complexity}")
+            println("NamingConvention (camelCase): ${evaluation.namingConvention}")
+            println("Code: ${evaluation.method.code}")
+            println()
+        }
+    }
 
     fun printEvaluations() {
         evaluations.forEach { evaluation ->
@@ -81,6 +112,6 @@ fun main() {
     evaluator.setEvaluationDirectory(directoryPath)
     evaluator.evaluateComplexity()
     evaluator.evaluateCodeStyle()
-    evaluator.printEvaluations()
+    evaluator.printTop3Evaluations()
 }
 

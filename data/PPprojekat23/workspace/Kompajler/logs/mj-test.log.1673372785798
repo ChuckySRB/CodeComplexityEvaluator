@@ -1,0 +1,117 @@
+INFO  01:40:00,519 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  01:40:00,545 - #2 program
+INFO  01:40:00,545 - #44 MJProgram
+INFO  01:40:00,545 - #44 int
+INFO  01:40:00,546 - #44 x
+INFO  01:40:00,546 - #7 ;
+INFO  01:40:00,546 - #44 int
+INFO  01:40:00,546 - #44 y
+INFO  01:40:00,546 - #7 ;
+INFO  01:40:00,546 - #44 char
+INFO  01:40:00,546 - #44 z
+INFO  01:40:00,547 - #7 ;
+INFO  01:40:00,547 - #3 {
+INFO  01:40:00,547 - #44 int
+INFO  01:40:00,547 - #44 k
+INFO  01:40:00,547 - #13 (
+INFO  01:40:00,547 - #14 )
+INFO  01:40:00,548 - #44 char
+INFO  01:40:00,548 - #44 ch
+INFO  01:40:00,548 - #7 ;
+INFO  01:40:00,548 - #44 int
+INFO  01:40:00,548 - #44 c
+INFO  01:40:00,548 - #7 ;
+INFO  01:40:00,549 - #3 {
+INFO  01:40:00,549 - #44 c
+INFO  01:40:00,549 - #6 =
+INFO  01:40:00,549 - #43 2
+INFO  01:40:00,549 - #7 ;
+INFO  01:40:00,549 - #44 ch
+INFO  01:40:00,550 - #6 =
+INFO  01:40:00,550 - #46 a
+INFO  01:40:00,550 - #7 ;
+INFO  01:40:00,550 - #22 print
+INFO  01:40:00,550 - #13 (
+INFO  01:40:00,550 - #43 0
+INFO  01:40:00,550 - #14 )
+INFO  01:40:00,550 - #7 ;
+INFO  01:40:00,550 - #4 }
+INFO  01:40:00,550 - #44 int
+INFO  01:40:00,550 - #44 j
+INFO  01:40:00,550 - #13 (
+INFO  01:40:00,550 - #44 int
+INFO  01:40:00,550 - #44 par
+INFO  01:40:00,550 - #9 ,
+INFO  01:40:00,550 - #44 int
+INFO  01:40:00,551 - #44 par2
+INFO  01:40:00,551 - #14 )
+INFO  01:40:00,551 - #3 {
+INFO  01:40:00,551 - #22 print
+INFO  01:40:00,551 - #13 (
+INFO  01:40:00,551 - #44 par
+INFO  01:40:00,551 - #14 )
+INFO  01:40:00,551 - #7 ;
+INFO  01:40:00,551 - #21 return
+INFO  01:40:00,551 - #43 1
+INFO  01:40:00,551 - #7 ;
+INFO  01:40:00,551 - #4 }
+INFO  01:40:00,551 - #44 int
+INFO  01:40:00,551 - #44 main
+INFO  01:40:00,551 - #13 (
+INFO  01:40:00,551 - #14 )
+INFO  01:40:00,551 - #3 {
+INFO  01:40:00,551 - #44 x
+INFO  01:40:00,551 - #6 =
+INFO  01:40:00,551 - #43 3
+INFO  01:40:00,551 - #7 ;
+INFO  01:40:00,552 - #44 z
+INFO  01:40:00,552 - #6 =
+INFO  01:40:00,552 - #46 b
+INFO  01:40:00,552 - #7 ;
+INFO  01:40:00,552 - #22 print
+INFO  01:40:00,552 - #13 (
+INFO  01:40:00,552 - #43 1
+INFO  01:40:00,552 - #14 )
+INFO  01:40:00,552 - #7 ;
+INFO  01:40:00,552 - #22 print
+INFO  01:40:00,552 - #13 (
+INFO  01:40:00,552 - #44 x
+INFO  01:40:00,552 - #14 )
+INFO  01:40:00,552 - #7 ;
+INFO  01:40:00,552 - #44 j
+INFO  01:40:00,552 - #13 (
+INFO  01:40:00,552 - #44 y
+INFO  01:40:00,552 - #9 ,
+INFO  01:40:00,552 - #43 0
+INFO  01:40:00,552 - #14 )
+INFO  01:40:00,552 - #7 ;
+INFO  01:40:00,552 - #44 k
+INFO  01:40:00,553 - #13 (
+INFO  01:40:00,553 - #14 )
+INFO  01:40:00,553 - #7 ;
+INFO  01:40:00,553 - #44 y
+INFO  01:40:00,553 - #6 =
+INFO  01:40:00,553 - #43 4
+INFO  01:40:00,553 - #38 +
+INFO  01:40:00,553 - #44 x
+INFO  01:40:00,553 - #7 ;
+INFO  01:40:00,554 - #44 k
+INFO  01:40:00,554 - #13 (
+INFO  01:40:00,554 - #14 )
+INFO  01:40:00,554 - #7 ;
+INFO  01:40:00,554 - #21 return
+INFO  01:40:00,554 - #43 1
+INFO  01:40:00,554 - #7 ;
+INFO  01:40:00,554 - #4 }
+INFO  01:40:00,554 - #4 }
+INFO  01:40:00,557 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:40:00,557 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:40:00,557 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:40:00,557 - Deklarisana lokalna promenljiva "ch" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:40:00,557 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:40:00,557 - form pars: 0; total vars: 2
+INFO  01:40:00,557 - Deklarisan formalni argument "par" na liniji 11 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:40:00,557 - Deklarisan formalni argument "par2" na liniji 11 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:40:00,557 - form pars: 2; total vars: 2
+INFO  01:40:00,558 - form pars: 0; total vars: 0
+INFO  01:40:00,558 - ===================================

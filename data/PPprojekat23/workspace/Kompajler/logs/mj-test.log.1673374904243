@@ -1,0 +1,75 @@
+INFO  19:20:14,970 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  19:20:14,996 - #2 program
+INFO  19:20:14,997 - #44 MJProgram
+INFO  19:20:14,997 - #44 int
+INFO  19:20:14,997 - #44 x
+INFO  19:20:14,997 - #7 ;
+INFO  19:20:14,998 - #44 int
+INFO  19:20:14,998 - #44 y
+INFO  19:20:14,998 - #7 ;
+INFO  19:20:14,998 - #44 char
+INFO  19:20:14,998 - #44 z
+INFO  19:20:14,998 - #7 ;
+INFO  19:20:14,998 - #3 {
+INFO  19:20:14,998 - #44 int
+INFO  19:20:14,998 - #44 main
+INFO  19:20:14,999 - #13 (
+INFO  19:20:14,999 - #14 )
+INFO  19:20:14,999 - #3 {
+INFO  19:20:15,000 - #44 x
+INFO  19:20:15,000 - #6 =
+INFO  19:20:15,000 - #43 3
+INFO  19:20:15,000 - #7 ;
+INFO  19:20:15,001 - #44 y
+INFO  19:20:15,001 - #6 =
+INFO  19:20:15,001 - #43 1
+INFO  19:20:15,001 - #7 ;
+INFO  19:20:15,001 - #16 if
+INFO  19:20:15,001 - #13 (
+INFO  19:20:15,001 - #44 x
+INFO  19:20:15,001 - #34 >
+INFO  19:20:15,001 - #43 3
+INFO  19:20:15,002 - #14 )
+INFO  19:20:15,002 - #16 if
+INFO  19:20:15,002 - #13 (
+INFO  19:20:15,002 - #44 y
+INFO  19:20:15,002 - #37 <=
+INFO  19:20:15,002 - #43 3
+INFO  19:20:15,003 - #14 )
+INFO  19:20:15,003 - #22 print
+INFO  19:20:15,003 - #13 (
+INFO  19:20:15,003 - #46 t
+INFO  19:20:15,003 - #14 )
+INFO  19:20:15,003 - #7 ;
+INFO  19:20:15,003 - #17 else
+INFO  19:20:15,003 - #16 if
+INFO  19:20:15,003 - #13 (
+INFO  19:20:15,003 - #45 false
+INFO  19:20:15,004 - #14 )
+INFO  19:20:15,004 - #22 print
+INFO  19:20:15,004 - #13 (
+INFO  19:20:15,004 - #46 f
+INFO  19:20:15,004 - #14 )
+INFO  19:20:15,004 - #7 ;
+INFO  19:20:15,004 - #17 else
+INFO  19:20:15,004 - #22 print
+INFO  19:20:15,004 - #13 (
+INFO  19:20:15,004 - #46 g
+INFO  19:20:15,004 - #14 )
+INFO  19:20:15,004 - #7 ;
+INFO  19:20:15,004 - #17 else
+INFO  19:20:15,004 - #22 print
+INFO  19:20:15,004 - #13 (
+INFO  19:20:15,004 - #43 0
+INFO  19:20:15,004 - #14 )
+INFO  19:20:15,004 - #7 ;
+INFO  19:20:15,004 - #21 return
+INFO  19:20:15,004 - #43 1
+INFO  19:20:15,004 - #7 ;
+INFO  19:20:15,005 - #4 }
+INFO  19:20:15,005 - #4 }
+INFO  19:20:15,008 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  19:20:15,008 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  19:20:15,008 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  19:20:15,008 - form pars: 0; total vars: 0
+INFO  19:20:15,008 - ===================================

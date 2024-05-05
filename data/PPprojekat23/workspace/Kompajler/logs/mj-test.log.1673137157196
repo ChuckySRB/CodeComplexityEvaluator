@@ -1,0 +1,9 @@
+INFO  01:18:59,246 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program2.mj
+INFO  01:18:59,257 - #2 program
+INFO  01:18:59,257 - #15 p
+INFO  01:18:59,258 - #15 int
+INFO  01:18:59,258 - #15 c
+INFO  01:18:59,259 - #12 ,
+ERROR 01:18:59,259 - 
+Sintaksna greska na liniji 2
+ERROR 01:18:59,259 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2

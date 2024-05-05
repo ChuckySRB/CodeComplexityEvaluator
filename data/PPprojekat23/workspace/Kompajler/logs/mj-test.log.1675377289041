@@ -1,0 +1,150 @@
+INFO  23:33:49,207 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program9.mj
+INFO  23:33:49,233 - #2 program
+INFO  23:33:49,233 - #44 p
+INFO  23:33:49,233 - #3 {
+INFO  23:33:49,233 - #44 int
+INFO  23:33:49,234 - #44 main
+INFO  23:33:49,234 - #13 (
+INFO  23:33:49,234 - #14 )
+INFO  23:33:49,235 - #44 int
+INFO  23:33:49,235 - #44 niz
+INFO  23:33:49,235 - #10 [
+INFO  23:33:49,235 - #11 ]
+INFO  23:33:49,235 - #7 ;
+INFO  23:33:49,235 - #3 {
+INFO  23:33:49,235 - #44 niz
+INFO  23:33:49,236 - #6 =
+INFO  23:33:49,236 - #31 new
+INFO  23:33:49,236 - #44 int
+INFO  23:33:49,236 - #10 [
+INFO  23:33:49,236 - #43 5
+INFO  23:33:49,236 - #11 ]
+INFO  23:33:49,236 - #7 ;
+INFO  23:33:49,237 - #22 print
+INFO  23:33:49,237 - #13 (
+INFO  23:33:49,237 - #44 len
+INFO  23:33:49,237 - #13 (
+INFO  23:33:49,237 - #44 niz
+INFO  23:33:49,237 - #14 )
+INFO  23:33:49,237 - #14 )
+INFO  23:33:49,237 - #7 ;
+INFO  23:33:49,237 - #21 return
+INFO  23:33:49,237 - #43 1
+INFO  23:33:49,237 - #7 ;
+INFO  23:33:49,237 - #4 }
+INFO  23:33:49,237 - #4 }
+INFO  23:33:49,238 - Program(
+  ProgName(
+   p
+  ) [ProgName]
+  NoItemDecl(
+  ) [NoItemDecl]
+  TypeMethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    FunType(
+      Type(
+       int
+      ) [Type]
+    ) [FunType]
+    MethodName(
+     main
+    ) [MethodName]
+    NoFormPars(
+    ) [NoFormPars]
+    MultipleVarDeclarations(
+      NoVarDeclarations(
+      ) [NoVarDeclarations]
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarArray(
+         niz
+        ) [VarArray]
+      ) [SingleVarDecl]
+    ) [MultipleVarDeclarations]
+    StatementListNonEmpty(
+      StatementListNonEmpty(
+        StatementListNonEmpty(
+          NoStatements(
+          ) [NoStatements]
+          StatementDesiStatement(
+            DesiStatementAssign(
+              AssignDesignatorStmt(
+                DesiOnlyIdent(
+                 niz
+                ) [DesiOnlyIdent]
+                Assignop(
+                ) [Assignop]
+                PosExpr(
+                  ExprSingleTerm(
+                    SingleTerm(
+                      FactorNewArray(
+                        Type(
+                         int
+                        ) [Type]
+                        PosExpr(
+                          ExprSingleTerm(
+                            SingleTerm(
+                              FactorNum(
+                               5
+                              ) [FactorNum]
+                            ) [SingleTerm]
+                          ) [ExprSingleTerm]
+                        ) [PosExpr]
+                      ) [FactorNewArray]
+                    ) [SingleTerm]
+                  ) [ExprSingleTerm]
+                ) [PosExpr]
+              ) [AssignDesignatorStmt]
+            ) [DesiStatementAssign]
+          ) [StatementDesiStatement]
+        ) [StatementListNonEmpty]
+        PrintStatementNoWidth(
+          PosExpr(
+            ExprSingleTerm(
+              SingleTerm(
+                FactorFuncCall(
+                  DesiOnlyIdent(
+                   len
+                  ) [DesiOnlyIdent]
+                  ActParsNonEmpty(
+                    SingleActPar(
+                      PosExpr(
+                        ExprSingleTerm(
+                          SingleTerm(
+                            FactorDesi(
+                              DesiOnlyIdent(
+                               niz
+                              ) [DesiOnlyIdent]
+                            ) [FactorDesi]
+                          ) [SingleTerm]
+                        ) [ExprSingleTerm]
+                      ) [PosExpr]
+                    ) [SingleActPar]
+                  ) [ActParsNonEmpty]
+                ) [FactorFuncCall]
+              ) [SingleTerm]
+            ) [ExprSingleTerm]
+          ) [PosExpr]
+        ) [PrintStatementNoWidth]
+      ) [StatementListNonEmpty]
+      ReturnStatementNonEmpty(
+        PosExpr(
+          ExprSingleTerm(
+            SingleTerm(
+              FactorNum(
+               1
+              ) [FactorNum]
+            ) [SingleTerm]
+          ) [ExprSingleTerm]
+        ) [PosExpr]
+      ) [ReturnStatementNonEmpty]
+    ) [StatementListNonEmpty]
+  ) [TypeMethodDeclarations]
+) [Program]
+INFO  23:33:49,238 - ===================================
+INFO  23:33:49,241 - Deklarisan lokalni niz "niz" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  23:33:49,242 - form pars: 0; total vars: 1
+INFO  23:33:49,242 - ===================================

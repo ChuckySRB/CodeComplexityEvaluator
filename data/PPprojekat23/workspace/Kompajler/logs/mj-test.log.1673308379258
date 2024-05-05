@@ -1,0 +1,116 @@
+INFO  00:52:12,093 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  00:52:12,118 - #2 program
+INFO  00:52:12,118 - #44 MJProgram
+INFO  00:52:12,118 - #44 int
+INFO  00:52:12,118 - #44 x
+INFO  00:52:12,119 - #7 ;
+INFO  00:52:12,119 - #44 int
+INFO  00:52:12,119 - #44 y
+INFO  00:52:12,119 - #7 ;
+INFO  00:52:12,119 - #44 char
+INFO  00:52:12,119 - #44 z
+INFO  00:52:12,119 - #7 ;
+INFO  00:52:12,119 - #3 {
+INFO  00:52:12,119 - #44 int
+INFO  00:52:12,119 - #44 k
+INFO  00:52:12,119 - #13 (
+INFO  00:52:12,120 - #14 )
+INFO  00:52:12,120 - #44 int
+INFO  00:52:12,120 - #44 c
+INFO  00:52:12,120 - #7 ;
+INFO  00:52:12,120 - #3 {
+INFO  00:52:12,121 - #44 c
+INFO  00:52:12,121 - #6 =
+INFO  00:52:12,121 - #43 2
+INFO  00:52:12,121 - #7 ;
+INFO  00:52:12,122 - #22 print
+INFO  00:52:12,122 - #13 (
+INFO  00:52:12,122 - #43 0
+INFO  00:52:12,122 - #14 )
+INFO  00:52:12,122 - #7 ;
+INFO  00:52:12,122 - #21 return
+INFO  00:52:12,122 - #44 c
+INFO  00:52:12,122 - #38 +
+INFO  00:52:12,122 - #43 2
+INFO  00:52:12,122 - #7 ;
+INFO  00:52:12,123 - #4 }
+INFO  00:52:12,123 - #44 int
+INFO  00:52:12,123 - #44 j
+INFO  00:52:12,123 - #13 (
+INFO  00:52:12,123 - #44 int
+INFO  00:52:12,123 - #44 par
+INFO  00:52:12,123 - #9 ,
+INFO  00:52:12,123 - #44 int
+INFO  00:52:12,123 - #44 par2
+INFO  00:52:12,123 - #14 )
+INFO  00:52:12,123 - #3 {
+INFO  00:52:12,123 - #22 print
+INFO  00:52:12,123 - #13 (
+INFO  00:52:12,123 - #44 par
+INFO  00:52:12,123 - #14 )
+INFO  00:52:12,123 - #7 ;
+INFO  00:52:12,123 - #21 return
+INFO  00:52:12,124 - #43 1
+INFO  00:52:12,124 - #7 ;
+INFO  00:52:12,124 - #4 }
+INFO  00:52:12,124 - #44 int
+INFO  00:52:12,124 - #44 main
+INFO  00:52:12,124 - #13 (
+INFO  00:52:12,124 - #14 )
+INFO  00:52:12,124 - #3 {
+INFO  00:52:12,124 - #44 x
+INFO  00:52:12,124 - #6 =
+INFO  00:52:12,124 - #43 3
+INFO  00:52:12,124 - #7 ;
+INFO  00:52:12,124 - #44 z
+INFO  00:52:12,124 - #6 =
+INFO  00:52:12,124 - #46 b
+INFO  00:52:12,124 - #7 ;
+INFO  00:52:12,124 - #22 print
+INFO  00:52:12,124 - #13 (
+INFO  00:52:12,124 - #43 1
+INFO  00:52:12,124 - #14 )
+INFO  00:52:12,124 - #7 ;
+INFO  00:52:12,124 - #22 print
+INFO  00:52:12,125 - #13 (
+INFO  00:52:12,125 - #44 x
+INFO  00:52:12,125 - #14 )
+INFO  00:52:12,125 - #7 ;
+INFO  00:52:12,125 - #44 k
+INFO  00:52:12,125 - #13 (
+INFO  00:52:12,125 - #14 )
+INFO  00:52:12,125 - #7 ;
+INFO  00:52:12,125 - #44 y
+INFO  00:52:12,125 - #6 =
+INFO  00:52:12,125 - #43 4
+INFO  00:52:12,125 - #38 +
+INFO  00:52:12,125 - #44 x
+INFO  00:52:12,125 - #7 ;
+INFO  00:52:12,125 - #44 j
+INFO  00:52:12,125 - #13 (
+INFO  00:52:12,125 - #44 y
+INFO  00:52:12,125 - #9 ,
+INFO  00:52:12,126 - #43 0
+INFO  00:52:12,126 - #14 )
+INFO  00:52:12,126 - #7 ;
+INFO  00:52:12,126 - #44 k
+INFO  00:52:12,126 - #13 (
+INFO  00:52:12,126 - #43 4
+INFO  00:52:12,126 - #14 )
+INFO  00:52:12,126 - #7 ;
+INFO  00:52:12,126 - #21 return
+INFO  00:52:12,126 - #43 1
+INFO  00:52:12,126 - #7 ;
+INFO  00:52:12,126 - #4 }
+INFO  00:52:12,126 - #4 }
+INFO  00:52:12,129 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:52:12,129 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:52:12,129 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:52:12,129 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:52:12,129 - form pars: 0; total vars: 1
+INFO  00:52:12,130 - Deklarisan formalni argument "par" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:52:12,130 - Deklarisan formalni argument "par2" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:52:12,130 - form pars: 2; total vars: 2
+ERROR 00:52:12,130 - Greska na liniji 30: k prima 0parametara!
+INFO  00:52:12,130 - form pars: 0; total vars: 0
+INFO  00:52:12,131 - ===================================

@@ -1,0 +1,14 @@
+program p
+
+{
+	int main()
+		int niz[];
+	{
+		niz = new int[5];
+		niz[0] = 1;
+		niz[1] = 1;
+		niz[2] = 1;
+		print(len(niz));
+		return 1;
+	}
+}		

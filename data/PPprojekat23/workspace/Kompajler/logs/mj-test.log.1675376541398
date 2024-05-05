@@ -1,0 +1,9 @@
+INFO  23:22:06,909 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program9.mj
+INFO  23:22:06,933 - #2 program
+INFO  23:22:06,933 - #44 p
+INFO  23:22:06,933 - #44 int
+INFO  23:22:06,933 - #44 c
+INFO  23:22:06,934 - #6 =
+ERROR 23:22:06,934 - 
+Sintaksna greska na liniji 3
+ERROR 23:22:06,934 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 3

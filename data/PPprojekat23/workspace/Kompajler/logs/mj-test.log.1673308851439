@@ -1,0 +1,117 @@
+INFO  01:00:43,421 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  01:00:43,446 - #2 program
+INFO  01:00:43,446 - #44 MJProgram
+INFO  01:00:43,446 - #44 int
+INFO  01:00:43,446 - #44 x
+INFO  01:00:43,447 - #7 ;
+INFO  01:00:43,447 - #44 int
+INFO  01:00:43,447 - #44 y
+INFO  01:00:43,447 - #7 ;
+INFO  01:00:43,447 - #44 char
+INFO  01:00:43,447 - #44 z
+INFO  01:00:43,447 - #7 ;
+INFO  01:00:43,447 - #3 {
+INFO  01:00:43,447 - #44 int
+INFO  01:00:43,448 - #44 k
+INFO  01:00:43,448 - #13 (
+INFO  01:00:43,449 - #14 )
+INFO  01:00:43,449 - #44 int
+INFO  01:00:43,449 - #44 c
+INFO  01:00:43,449 - #7 ;
+INFO  01:00:43,449 - #3 {
+INFO  01:00:43,449 - #44 c
+INFO  01:00:43,450 - #6 =
+INFO  01:00:43,450 - #43 2
+INFO  01:00:43,450 - #7 ;
+INFO  01:00:43,450 - #22 print
+INFO  01:00:43,450 - #13 (
+INFO  01:00:43,450 - #43 0
+INFO  01:00:43,451 - #14 )
+INFO  01:00:43,451 - #7 ;
+INFO  01:00:43,451 - #21 return
+INFO  01:00:43,451 - #44 c
+INFO  01:00:43,451 - #38 +
+INFO  01:00:43,451 - #43 2
+INFO  01:00:43,451 - #7 ;
+INFO  01:00:43,451 - #4 }
+INFO  01:00:43,451 - #44 int
+INFO  01:00:43,451 - #44 j
+INFO  01:00:43,451 - #13 (
+INFO  01:00:43,452 - #44 int
+INFO  01:00:43,452 - #44 par
+INFO  01:00:43,452 - #9 ,
+INFO  01:00:43,452 - #44 int
+INFO  01:00:43,452 - #44 par2
+INFO  01:00:43,452 - #14 )
+INFO  01:00:43,452 - #3 {
+INFO  01:00:43,452 - #22 print
+INFO  01:00:43,452 - #13 (
+INFO  01:00:43,452 - #44 par
+INFO  01:00:43,452 - #14 )
+INFO  01:00:43,452 - #7 ;
+INFO  01:00:43,452 - #21 return
+INFO  01:00:43,452 - #43 1
+INFO  01:00:43,452 - #7 ;
+INFO  01:00:43,452 - #4 }
+INFO  01:00:43,452 - #44 int
+INFO  01:00:43,452 - #44 main
+INFO  01:00:43,452 - #13 (
+INFO  01:00:43,452 - #14 )
+INFO  01:00:43,452 - #3 {
+INFO  01:00:43,453 - #44 x
+INFO  01:00:43,453 - #6 =
+INFO  01:00:43,453 - #43 3
+INFO  01:00:43,453 - #7 ;
+INFO  01:00:43,453 - #44 z
+INFO  01:00:43,453 - #6 =
+INFO  01:00:43,453 - #46 b
+INFO  01:00:43,453 - #7 ;
+INFO  01:00:43,453 - #22 print
+INFO  01:00:43,453 - #13 (
+INFO  01:00:43,453 - #43 1
+INFO  01:00:43,453 - #14 )
+INFO  01:00:43,453 - #7 ;
+INFO  01:00:43,453 - #22 print
+INFO  01:00:43,453 - #13 (
+INFO  01:00:43,453 - #44 x
+INFO  01:00:43,453 - #14 )
+INFO  01:00:43,453 - #7 ;
+INFO  01:00:43,453 - #44 j
+INFO  01:00:43,453 - #13 (
+INFO  01:00:43,453 - #44 y
+INFO  01:00:43,453 - #9 ,
+INFO  01:00:43,454 - #44 z
+INFO  01:00:43,454 - #14 )
+INFO  01:00:43,454 - #7 ;
+INFO  01:00:43,454 - #44 k
+INFO  01:00:43,454 - #13 (
+INFO  01:00:43,454 - #14 )
+INFO  01:00:43,454 - #7 ;
+INFO  01:00:43,454 - #44 y
+INFO  01:00:43,454 - #6 =
+INFO  01:00:43,454 - #43 4
+INFO  01:00:43,454 - #38 +
+INFO  01:00:43,454 - #44 x
+INFO  01:00:43,454 - #7 ;
+INFO  01:00:43,454 - #44 k
+INFO  01:00:43,454 - #13 (
+INFO  01:00:43,454 - #43 4
+INFO  01:00:43,455 - #14 )
+INFO  01:00:43,455 - #7 ;
+INFO  01:00:43,455 - #21 return
+INFO  01:00:43,455 - #43 1
+INFO  01:00:43,455 - #7 ;
+INFO  01:00:43,455 - #4 }
+INFO  01:00:43,455 - #4 }
+INFO  01:00:43,458 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:43,458 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:43,458 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:43,458 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:43,458 - form pars: 0; total vars: 1
+INFO  01:00:43,458 - Deklarisan formalni argument "par" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:43,458 - Deklarisan formalni argument "par2" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  01:00:43,458 - form pars: 2; total vars: 2
+ERROR 01:00:43,459 - Greska na liniji 25: Pogresan tip argumenta na poziciji 1 pri pozivu metodej!
+ERROR 01:00:43,459 - Greska na liniji 30: k prima 0 parametara!
+INFO  01:00:43,459 - form pars: 0; total vars: 0
+INFO  01:00:43,459 - ===================================

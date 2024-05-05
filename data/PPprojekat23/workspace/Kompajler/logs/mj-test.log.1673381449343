@@ -1,0 +1,57 @@
+INFO  20:35:13,564 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  20:35:13,599 - #2 program
+INFO  20:35:13,599 - #44 MJProgram
+INFO  20:35:13,599 - #44 int
+INFO  20:35:13,599 - #44 x
+INFO  20:35:13,600 - #7 ;
+INFO  20:35:13,600 - #44 int
+INFO  20:35:13,600 - #44 y
+INFO  20:35:13,600 - #7 ;
+INFO  20:35:13,600 - #44 char
+INFO  20:35:13,600 - #44 z
+INFO  20:35:13,600 - #7 ;
+INFO  20:35:13,600 - #3 {
+INFO  20:35:13,600 - #44 int
+INFO  20:35:13,601 - #44 main
+INFO  20:35:13,601 - #13 (
+INFO  20:35:13,601 - #14 )
+INFO  20:35:13,602 - #3 {
+INFO  20:35:13,602 - #44 x
+INFO  20:35:13,602 - #6 =
+INFO  20:35:13,602 - #43 3
+INFO  20:35:13,603 - #7 ;
+INFO  20:35:13,603 - #44 y
+INFO  20:35:13,603 - #6 =
+INFO  20:35:13,603 - #43 1
+INFO  20:35:13,603 - #7 ;
+INFO  20:35:13,603 - #16 if
+INFO  20:35:13,603 - #13 (
+INFO  20:35:13,603 - #44 x
+INFO  20:35:13,604 - #32 ==
+INFO  20:35:13,604 - #43 3
+INFO  20:35:13,604 - #30 &&
+INFO  20:35:13,604 - #44 y
+INFO  20:35:13,605 - #35 >=
+INFO  20:35:13,605 - #43 2
+INFO  20:35:13,605 - #14 )
+INFO  20:35:13,605 - #22 print
+INFO  20:35:13,606 - #13 (
+INFO  20:35:13,606 - #46 g
+INFO  20:35:13,606 - #14 )
+INFO  20:35:13,606 - #7 ;
+INFO  20:35:13,606 - #17 else
+INFO  20:35:13,606 - #22 print
+INFO  20:35:13,606 - #13 (
+INFO  20:35:13,606 - #43 0
+INFO  20:35:13,606 - #14 )
+INFO  20:35:13,606 - #7 ;
+INFO  20:35:13,606 - #21 return
+INFO  20:35:13,607 - #43 1
+INFO  20:35:13,607 - #7 ;
+INFO  20:35:13,607 - #4 }
+INFO  20:35:13,607 - #4 }
+INFO  20:35:13,618 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:35:13,618 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:35:13,618 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:35:13,618 - form pars: 0; total vars: 0
+INFO  20:35:13,618 - ===================================

@@ -1,0 +1,61 @@
+INFO  20:22:10,629 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program5.mj
+INFO  20:22:10,655 - #2 program
+INFO  20:22:10,655 - #44 MJProgram
+INFO  20:22:10,655 - #44 int
+INFO  20:22:10,655 - #44 x
+INFO  20:22:10,656 - #7 ;
+INFO  20:22:10,656 - #44 int
+INFO  20:22:10,656 - #44 y
+INFO  20:22:10,656 - #7 ;
+INFO  20:22:10,656 - #44 char
+INFO  20:22:10,656 - #44 z
+INFO  20:22:10,656 - #7 ;
+INFO  20:22:10,656 - #3 {
+INFO  20:22:10,656 - #44 int
+INFO  20:22:10,657 - #44 main
+INFO  20:22:10,657 - #13 (
+INFO  20:22:10,657 - #14 )
+INFO  20:22:10,657 - #3 {
+INFO  20:22:10,658 - #44 x
+INFO  20:22:10,658 - #6 =
+INFO  20:22:10,658 - #43 3
+INFO  20:22:10,658 - #7 ;
+INFO  20:22:10,659 - #44 y
+INFO  20:22:10,659 - #6 =
+INFO  20:22:10,659 - #43 1
+INFO  20:22:10,659 - #7 ;
+INFO  20:22:10,659 - #16 if
+INFO  20:22:10,659 - #13 (
+INFO  20:22:10,659 - #44 x
+INFO  20:22:10,659 - #32 ==
+INFO  20:22:10,659 - #43 3
+INFO  20:22:10,660 - #30 &&
+INFO  20:22:10,660 - #44 y
+INFO  20:22:10,660 - #35 >=
+INFO  20:22:10,660 - #43 2
+INFO  20:22:10,660 - #29 ||
+INFO  20:22:10,660 - #44 x
+INFO  20:22:10,660 - #33 !=
+INFO  20:22:10,660 - #43 3
+INFO  20:22:10,661 - #14 )
+INFO  20:22:10,661 - #22 print
+INFO  20:22:10,661 - #13 (
+INFO  20:22:10,661 - #46 g
+INFO  20:22:10,661 - #14 )
+INFO  20:22:10,662 - #7 ;
+INFO  20:22:10,662 - #17 else
+INFO  20:22:10,662 - #22 print
+INFO  20:22:10,662 - #13 (
+INFO  20:22:10,662 - #43 0
+INFO  20:22:10,662 - #14 )
+INFO  20:22:10,662 - #7 ;
+INFO  20:22:10,662 - #21 return
+INFO  20:22:10,662 - #43 1
+INFO  20:22:10,662 - #7 ;
+INFO  20:22:10,662 - #4 }
+INFO  20:22:10,662 - #4 }
+INFO  20:22:10,665 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:22:10,666 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:22:10,666 - Deklarisana globalna promenljiva "z" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  20:22:10,666 - form pars: 0; total vars: 0
+INFO  20:22:10,666 - ===================================

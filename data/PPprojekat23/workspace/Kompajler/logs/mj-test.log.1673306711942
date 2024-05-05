@@ -1,0 +1,96 @@
+INFO  00:11:23,781 - Compiling source file: D:\Fakultet\Projekti\Programski Prevodioci 1\workspace\Kompajler\test\program4.mj
+INFO  00:11:23,806 - #2 program
+INFO  00:11:23,806 - #44 MJProgram
+INFO  00:11:23,806 - #44 int
+INFO  00:11:23,807 - #44 x
+INFO  00:11:23,807 - #7 ;
+INFO  00:11:23,807 - #44 int
+INFO  00:11:23,807 - #44 y
+INFO  00:11:23,807 - #7 ;
+INFO  00:11:23,807 - #3 {
+INFO  00:11:23,807 - #44 int
+INFO  00:11:23,808 - #44 k
+INFO  00:11:23,808 - #13 (
+INFO  00:11:23,808 - #14 )
+INFO  00:11:23,809 - #44 int
+INFO  00:11:23,809 - #44 c
+INFO  00:11:23,809 - #7 ;
+INFO  00:11:23,809 - #3 {
+INFO  00:11:23,809 - #44 c
+INFO  00:11:23,810 - #6 =
+INFO  00:11:23,810 - #43 2
+INFO  00:11:23,810 - #7 ;
+INFO  00:11:23,810 - #22 print
+INFO  00:11:23,810 - #13 (
+INFO  00:11:23,811 - #43 0
+INFO  00:11:23,811 - #14 )
+INFO  00:11:23,811 - #7 ;
+INFO  00:11:23,811 - #21 return
+INFO  00:11:23,811 - #44 c
+INFO  00:11:23,811 - #38 +
+INFO  00:11:23,811 - #43 2
+INFO  00:11:23,811 - #7 ;
+INFO  00:11:23,811 - #4 }
+INFO  00:11:23,811 - #44 int
+INFO  00:11:23,812 - #44 j
+INFO  00:11:23,812 - #13 (
+INFO  00:11:23,812 - #44 int
+INFO  00:11:23,812 - #44 par
+INFO  00:11:23,812 - #14 )
+INFO  00:11:23,812 - #3 {
+INFO  00:11:23,812 - #22 print
+INFO  00:11:23,812 - #13 (
+INFO  00:11:23,812 - #44 par
+INFO  00:11:23,812 - #14 )
+INFO  00:11:23,812 - #7 ;
+INFO  00:11:23,812 - #21 return
+INFO  00:11:23,812 - #43 1
+INFO  00:11:23,812 - #7 ;
+INFO  00:11:23,812 - #4 }
+INFO  00:11:23,812 - #44 int
+INFO  00:11:23,812 - #44 main
+INFO  00:11:23,812 - #13 (
+INFO  00:11:23,812 - #14 )
+INFO  00:11:23,812 - #3 {
+INFO  00:11:23,812 - #44 x
+INFO  00:11:23,813 - #6 =
+INFO  00:11:23,813 - #43 3
+INFO  00:11:23,813 - #7 ;
+INFO  00:11:23,813 - #22 print
+INFO  00:11:23,813 - #13 (
+INFO  00:11:23,813 - #43 1
+INFO  00:11:23,813 - #14 )
+INFO  00:11:23,813 - #7 ;
+INFO  00:11:23,813 - #22 print
+INFO  00:11:23,813 - #13 (
+INFO  00:11:23,813 - #44 x
+INFO  00:11:23,813 - #14 )
+INFO  00:11:23,813 - #7 ;
+INFO  00:11:23,813 - #44 k
+INFO  00:11:23,813 - #13 (
+INFO  00:11:23,813 - #14 )
+INFO  00:11:23,813 - #7 ;
+INFO  00:11:23,814 - #44 y
+INFO  00:11:23,814 - #6 =
+INFO  00:11:23,814 - #43 4
+INFO  00:11:23,814 - #38 +
+INFO  00:11:23,814 - #44 x
+INFO  00:11:23,814 - #7 ;
+INFO  00:11:23,814 - #44 j
+INFO  00:11:23,814 - #13 (
+INFO  00:11:23,814 - #44 y
+INFO  00:11:23,814 - #14 )
+INFO  00:11:23,814 - #7 ;
+INFO  00:11:23,814 - #21 return
+INFO  00:11:23,814 - #43 1
+INFO  00:11:23,814 - #7 ;
+INFO  00:11:23,814 - #4 }
+INFO  00:11:23,814 - #4 }
+INFO  00:11:23,817 - Deklarisana globalna promenljiva "x" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:11:23,818 - Deklarisana globalna promenljiva "y" na liniji 3 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:11:23,818 - Deklarisana lokalna promenljiva "c" na liniji 5 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:11:23,818 - form pars: 0; total vars: 1
+INFO  00:11:23,818 - Deklarisan formalni argument "par" na liniji 13 --- ISPIS OBJEKTNOG CVORA IZ TABELE SIMBOLA
+INFO  00:11:23,818 - form pars: 1; total vars: 1
+INFO  00:11:23,818 - form pars: 0; total vars: 0
+INFO  00:11:23,818 - ===================================

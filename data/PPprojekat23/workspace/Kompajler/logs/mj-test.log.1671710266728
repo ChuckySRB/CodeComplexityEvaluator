@@ -1,0 +1,27 @@
+INFO  12:56:09,010 - Compiling source file: /Users/aki/eclipse/pp1/Programski Prevodioci 1/workspace/Kompajler/test/program.mj
+INFO  12:57:01,463 - #1 program
+INFO  12:57:03,293 - #19 p
+INFO  12:57:05,903 - #6 const
+INFO  12:57:17,709 - #19 int
+INFO  12:57:18,020 - #19 size
+INFO  12:57:18,753 - #36 =
+INFO  12:57:19,102 - #20 10
+INFO  12:57:19,370 - #39 ;
+INFO  12:57:19,690 - #3 class
+INFO  12:57:22,478 - #19 Table
+INFO  12:57:23,063 - #47 {
+INFO  12:57:23,526 - #19 int
+INFO  12:57:23,892 - #19 pos
+INFO  12:57:24,176 - #45 [
+INFO  12:57:24,428 - #46 ]
+INFO  12:57:24,746 - #41 ,
+INFO  12:57:25,022 - #19 neg
+INFO  12:57:25,282 - #45 [
+INFO  12:57:25,825 - #46 ]
+INFO  12:57:26,296 - #41 ,
+INFO  12:57:26,637 - #19 factor
+INFO  12:57:26,982 - #39 ;
+INFO  12:57:27,226 - #47 {
+INFO  12:57:27,527 - #19 Table
+INFO  12:57:27,795 - #43 (
+INFO  12:57:28,154 - #19 int

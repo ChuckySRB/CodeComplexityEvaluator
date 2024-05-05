@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+D:\Fakultet\Projekti\Programski Prevodioci 1\Finalna verzija\workspace\.metadata\.plugins\org.eclipse.jdt.core
+4040069055.index
+1569843060.index
+3376980915.index
+932056649.index
+840879975.index
+3554288151.index
+17220314.index
